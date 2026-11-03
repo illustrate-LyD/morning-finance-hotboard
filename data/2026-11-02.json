@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-02T07:00:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "英特尔指引差砸盘，科技与半导体重挫",
+          "href": "https://www.morningstar.com.au/markets/tech-stocks-sell-off-intel-amazon-earnings-spook-investors",
+          "note": "英特尔单日约跌31%，费城半导体周五大跌"
+        },
+        {
+          "rank": 2,
+          "title": "亚马逊现金流承压，超大规模云资本开支焦虑升温",
+          "href": "https://www.morningstar.com.au/markets/tech-stocks-sell-off-intel-amazon-earnings-spook-investors",
+          "note": "亚马逊跌约5.6%，滚动12个月自由现金流大幅转负"
+        },
+        {
+          "rank": 3,
+          "title": "本周焦点：苹果盘后财报与AI支出回报",
+          "href": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "note": "共识营收约1135亿美元，关注iPhone与毛利率指引"
+        },
+        {
+          "rank": 4,
+          "title": "内存涨价挤压硬件毛利，苹果需证明AI时代价值",
+          "href": "https://www.ainvest.com/news/ai-stress-apple-world-valuable-company-monday-prove-2611/",
+          "note": "市场盯12月季毛利率是否跌破约47%"
+        },
+        {
+          "rank": 5,
+          "title": "Alphabet重挫后市场质疑AI投入变现",
+          "href": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "note": "Alphabet单日曾跌约12%，科技七巨头承压"
+        },
+        {
+          "rank": 6,
+          "title": "AMD、Palantir、Uber、Airbnb本周密集财报",
+          "href": "https://schwabnetwork.com/articles/week-ahead-apple-earnings-and-marquee-jobs-data-in-focus",
+          "note": "AMD约11/3，Palantir与苹果同批盘后"
+        },
+        {
+          "rank": 7,
+          "title": "中期选举临近，政策与数据中心监管预期扰动",
+          "href": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "note": "11/3投票，市场更盯AI交易与财报"
+        },
+        {
+          "rank": 8,
+          "title": "周五非农与本周ISM制造业数据周",
+          "href": "https://schwabnetwork.com/articles/week-ahead-apple-earnings-and-marquee-jobs-data-in-focus",
+          "note": "影响联储12月路径定价"
+        },
+        {
+          "rank": 9,
+          "title": "防御板块相对抗跌，消费必需品获资金",
+          "href": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "note": "可口可乐、宝洁等上周跑赢"
+        },
+        {
+          "rank": 10,
+          "title": "标普技术面警惕回踩200日均线风险",
+          "href": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "note": "BTIG等提示约7306附近支撑"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "OpenAI缩融资目标至约200亿美元/1.25万亿估值",
+          "href": "https://www.investing.com/news/stock-market-news/exclusiveopenai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say-4958511",
+          "note": "赶在Anthropic IPO前加速募资"
+        },
+        {
+          "rank": 2,
+          "title": "Anthropic冲刺11月IPO，S-1已公开",
+          "href": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+          "note": "拟纳斯达克上市"
+        },
+        {
+          "rank": 3,
+          "title": "苹果中国接入阿里千问，12月推Apple智能",
+          "href": "https://english.news.cn/20261101/773fa2ac33a34a5ca3484d7e5920d094/c.html",
+          "note": "Siri/写作/视觉智能调用Qwen"
+        },
+        {
+          "rank": 4,
+          "title": "Nvidia+SETI：Holoscan实时射电搜寻地外信号",
+          "href": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+          "note": "AI agent进望远镜阵列"
+        },
+        {
+          "rank": 5,
+          "title": "OpenAI Astra/机器人基准与仿真讨论升温",
+          "href": "https://openai.com/index/gpt-6-astra/",
+          "note": "通用大模型操控与仿真"
+        },
+        {
+          "rank": 6,
+          "title": "AI融资周报：Anthropic公开、OpenAI改目标",
+          "href": "https://www.aidailyinsights.cn/en/2026-11-01/",
+          "note": "一级市场估值与IPO节奏"
+        },
+        {
+          "rank": 7,
+          "title": "英伟达展示下一代CPO/OOI光互联原型",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "服务超大规模集群"
+        },
+        {
+          "rank": 8,
+          "title": "DeepSeek谈Super-agent与会话接管架构",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "自主Agent系统设计"
+        },
+        {
+          "rank": 9,
+          "title": "AI内存抢购推高硬件成本",
+          "href": "https://mewvest.com/en/qa/2026-11-02/2",
+          "note": "存储短缺传导硬件毛利"
+        },
+        {
+          "rank": 10,
+          "title": "WSJ：Anthropic瞄准11月上市窗口",
+          "href": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026/card/anthropic-targets-november-ipo-k8zXfllUuCkYpDeWKsmk",
+          "note": "与OpenAI募资赛跑"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "央行+证监会开会：推动资本市场支持工具",
+          "href": "https://finance.eastmoney.com/a/202611023917851965.html",
+          "note": "稳市工具与预期管理"
+        },
+        {
+          "rank": 2,
+          "title": "优化股票回购增持再贷款，召集大行开会",
+          "href": "https://stock.caijing.com.cn/20261102/5191232.shtml",
+          "note": "央行、金管总局、证监会协同"
+        },
+        {
+          "rank": 3,
+          "title": "公开市场操作换锚：每日隔夜逆回购1.25%",
+          "href": "https://finance.caixin.com/2026-10-30/102499195.html",
+          "note": "11/2起落地"
+        },
+        {
+          "rank": 4,
+          "title": "沪深三季报收官：净利约5.1万亿同比+8.5%",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "向新动能集中"
+        },
+        {
+          "rank": 5,
+          "title": "长鑫科技等存储业绩爆发强化国产存储主线",
+          "href": "https://emwap.eastmoney.com/a/202610313917634387.html",
+          "note": "量价齐升"
+        },
+        {
+          "rank": 6,
+          "title": "周五双创大幅回调，科创50单月跌超20%",
+          "href": "https://stock.caijing.com.cn/20261102/5191232.shtml",
+          "note": "受美股AI杀估值拖累"
+        },
+        {
+          "rank": 7,
+          "title": "国新/诚通等获回购增持贷款额度传闻升温",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "国有大行拟新增额度"
+        },
+        {
+          "rank": 8,
+          "title": "五部门发文加强消费基础设施建设",
+          "href": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202610/t20261030_1408459.html",
+          "note": "促消费投资良性互动"
+        },
+        {
+          "rank": 9,
+          "title": "比亚迪10月新能源车销量约49万辆",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "同比约+11%"
+        },
+        {
+          "rank": 10,
+          "title": "中国稀土、TCL中环等重组停复牌密集",
+          "href": "https://finance.eastmoney.com/a/202611023917851965.html",
+          "note": "资源与半导体并购催化"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美联储维持3.75%–4.00%，12月会议成live",
+          "href": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "note": "10/28按兵不动"
+        },
+        {
+          "rank": 2,
+          "title": "欧央行存款便利利率维持2.50%",
+          "href": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+          "note": "下次约12/17"
+        },
+        {
+          "rank": 3,
+          "title": "中国央行隔夜逆回购成政策利率新锚1.25%",
+          "href": "https://www.cnfin.com/hb-lb/detail/20261102/4489475_1.html",
+          "note": "优化短端调控"
+        },
+        {
+          "rank": 4,
+          "title": "日央行维持政策利率1.25%",
+          "href": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+          "note": "下次约12/17–18"
+        },
+        {
+          "rank": 5,
+          "title": "英央行11/5议息，市场定价加息至4.00%",
+          "href": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+          "note": "加息预期升温"
+        },
+        {
+          "rank": 6,
+          "title": "Polymarket：12月美联储加息25bp约70%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "路径博弈"
+        },
+        {
+          "rank": 7,
+          "title": "潘功胜传达五中全会：继续适度宽松",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "保持流动性充裕"
+        },
+        {
+          "rank": 8,
+          "title": "英国预算偏克制，金边反应平淡",
+          "href": "https://www.aib.ie/content/dam/aib/fxcentre/docs/weekly-brief/weekly-market-brief-november-2-6-2026.pdf",
+          "note": "财政空间有限"
+        },
+        {
+          "rank": 9,
+          "title": "债市非银大额赎回互换便利（BNSF）落地",
+          "href": "https://stock.caijing.com.cn/20261102/5191232.shtml",
+          "note": "股市+债市应急流动性"
+        },
+        {
+          "rank": 10,
+          "title": "主要央行年底路径：Fed/ECB/BoJ偏观望偏鹰",
+          "href": "https://www.nb.com/insights/cio-weekly-article-seeing-the-rate-hikes-through-the-holds",
+          "note": "能源通胀与核心分化"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "黄金约3918美元/盎司，跌破4000后企稳反弹",
+          "href": "https://finance.yahoo.com/quote/GC=F/",
+          "note": "避险与科技波动交织"
+        },
+        {
+          "rank": 2,
+          "title": "白银约50.1美元/盎司，弹性大于黄金",
+          "href": "https://finance.yahoo.com/quote/SI=F/",
+          "note": "工业+货币双重属性"
+        },
+        {
+          "rank": 3,
+          "title": "COMEX铜约6.51美元/磅，风险偏好回暖小升",
+          "href": "https://finance.yahoo.com/quote/HG=F/",
+          "note": "电网/AI基建需求支撑"
+        },
+        {
+          "rank": 4,
+          "title": "WTI约101.8美元/桶，地缘溢价后获利回吐",
+          "href": "https://finance.yahoo.com/quote/CL=F/",
+          "note": "盯霍尔木兹通航"
+        },
+        {
+          "rank": 5,
+          "title": "布伦特约111美元/桶，中东溢价主导",
+          "href": "https://finance.yahoo.com/quote/BZ=F/",
+          "note": "与WTI价差反映海运风险"
+        },
+        {
+          "rank": 6,
+          "title": "Bloomberg大宗商品看板：能源与贵金属总览",
+          "href": "https://www.bloomberg.com/markets/commodities",
+          "note": "多合约报价一览"
+        },
+        {
+          "rank": 7,
+          "title": "国内金饰报价随国际金价大幅回落",
+          "href": "https://finance.sina.com.cn/stock/cpbd/2026-11-02/doc-inixhwzc2388175.shtml",
+          "note": "挂牌价较年内高点回落"
+        },
+        {
+          "rank": 8,
+          "title": "天然气：取暖季与裂解价差观察",
+          "href": "https://finance.yahoo.com/quote/NG=F/",
+          "note": "NG约2.9美元/MMBtu"
+        },
+        {
+          "rank": 9,
+          "title": "铂金：工业需求与供给扰动",
+          "href": "https://finance.yahoo.com/quote/PL=F/",
+          "note": "约1440–1450美元区间"
+        },
+        {
+          "rank": 10,
+          "title": "简析：贵金属跟风险偏好，原油跟海峡与停火",
+          "href": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+          "note": "油轮遇袭支撑溢价"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "霍尔木兹油轮遇袭/触雷，海峡通航风险升温",
+          "href": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+          "note": "推高油价与航运保费"
+        },
+        {
+          "rank": 2,
+          "title": "特朗普称中期选举后尽快结束对伊冲突",
+          "href": "https://www.reuters.com/world/middle-east/trump-says-iran-war-will-end-right-after-us-midterm-elections-2026-09-09/",
+          "note": "选举前大规模升级概率偏低"
+        },
+        {
+          "rank": 3,
+          "title": "美国中期选举11/3：国会控制权牵动财政与对伊",
+          "href": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+          "note": "民主党众议院胜率极高"
+        },
+        {
+          "rank": 4,
+          "title": "美伊停火能否挺过中期选举成焦点押注",
+          "href": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms",
+          "note": "即时赔率"
+        },
+        {
+          "rank": 5,
+          "title": "俄袭乌克兰致多地停电，停火谈判未见突破",
+          "href": "https://www.cnbc.com/2026/11/01/russian-strikes-cut-power-to-thousands-in-ukraine.html",
+          "note": "能源基建打击"
+        },
+        {
+          "rank": 6,
+          "title": "选后若再开战，霍尔木兹脆弱成果承压",
+          "href": "https://www.washingtonpost.com/world/2026/10/30/resumed-iran-war-after-midterms-would-put-fragile-gains-hormuz-test/",
+          "note": "油市情景分析"
+        },
+        {
+          "rank": 7,
+          "title": "以伊停火续期赔率仍高，期限越长概率下滑",
+          "href": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "note": "与油价溢价同步"
+        },
+        {
+          "rank": 8,
+          "title": "红海/也门航运链条风险未完全消退",
+          "href": "https://www.reuters.com/world/middle-east/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk-2026-09-09/",
+          "note": "影响亚欧海运"
+        },
+        {
+          "rank": 9,
+          "title": "多哈斡旋与停火谈判并存",
+          "href": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
+          "note": "外交与战场并行"
+        },
+        {
+          "rank": 10,
+          "title": "奥地利总理访华等双边外交议程",
+          "href": "https://finance.eastmoney.com/a/202611023917851965.html",
+          "note": "偏经贸合作信号"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "2026众议院控制权：民主党约95%",
+          "href": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+          "note": "成交额约数千万美元级"
+        },
+        {
+          "rank": 2,
+          "title": "2026参议院控制权：民主党约72%",
+          "href": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+          "note": "较众议院更胶着"
+        },
+        {
+          "rank": 3,
+          "title": "中期选举权力格局（Balance of Power）",
+          "href": "https://polymarket.com/event/balance-of-power-2026-midterms",
+          "note": "两院组合情景交易活跃"
+        },
+        {
+          "rank": 4,
+          "title": "12月美联储决议：加息25bp约70%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "约千万美元成交量级"
+        },
+        {
+          "rank": 5,
+          "title": "2026年美联储降息次数：0次约97%",
+          "href": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
+          "note": "路径定价偏鹰"
+        },
+        {
+          "rank": 6,
+          "title": "Anthropic是否在2026年底前IPO：约92%",
+          "href": "https://polymarket.com/event/anthropic-ipo-by",
+          "note": "与一级市场新闻共振"
+        },
+        {
+          "rank": 7,
+          "title": "美伊停火能否挺过中期选举",
+          "href": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms",
+          "note": "地缘×选举交叉市场"
+        },
+        {
+          "rank": 8,
+          "title": "以伊停火续期至特定日期",
+          "href": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+          "note": "期限结构反映尾部风险"
+        },
+        {
+          "rank": 9,
+          "title": "2026年末联邦基金利率水平",
+          "href": "https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026",
+          "note": "4.25%档约69%领先"
+        },
+        {
+          "rank": 10,
+          "title": "年内还会不会再加息",
+          "href": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+          "note": "Yes约70%"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "World / Markets",
+      "href": "https://www.reuters.com/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/"
+    }
+  ]
+}
