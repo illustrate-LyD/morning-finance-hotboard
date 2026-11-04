@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-05T07:00:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "道指大涨约1569点（+3%）创年内最大涨幅，标普+1.6%收7689，纳指+1.4%",
+          "href": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "note": "选举结果落地后不确定性消退；道指收53356.12"
+        },
+        {
+          "rank": 2,
+          "title": "民主党横扫国会后市场押“僵局利好”，太阳能、折扣零售与医院股领涨",
+          "href": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "note": "Capital Economics：缺参院阻挠议事多数+特朗普否决权，近端政策冲击有限"
+        },
+        {
+          "rank": 3,
+          "title": "特朗普媒体跌近25%；SpaceX跌3.8%、特斯拉跌3.3%",
+          "href": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "note": "马斯克重仓共和党后遭监管与德州政局重定价"
+        },
+        {
+          "rank": 4,
+          "title": "微软大涨近7%领涨科技；AMD财报次日仍涨约1%–3%",
+          "href": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-results-elon-musk-spacex-tesla-amd/",
+          "note": "选举日反弹延续，数据中心与软件龙头获资金回流"
+        },
+        {
+          "rank": 5,
+          "title": "AMD上调2027增速展望：营收料增逾80%，数据中心Q3同比+97%至85.5亿",
+          "href": "https://www.investing.com/news/stock-market-news/amd-shares-jump-as-aidriven-datacenter-strength-fuels-growth-outlook-4998022",
+          "note": "Q4指引约170亿美元；Helios机架已在Meta测试"
+        },
+        {
+          "rank": 6,
+          "title": "原油暴跌超8%助推风险偏好：WTI收88.12，布伦特94.62",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "副总统Vance将共和党败选部分归咎对伊战争，油市战争溢价泄出"
+        },
+        {
+          "rank": 7,
+          "title": "VIX暴跌约20%至16.61，比特币反弹约3.6%至约80500",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "选举落地后波动率快速回落，风险资产共振"
+        },
+        {
+          "rank": 8,
+          "title": "分析：中期后标普六个月平均涨约15.5%，分治政府历史偏友好",
+          "href": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "note": "Edward Jones统计；Wells Fargo称盈利与利率仍主导"
+        },
+        {
+          "rank": 9,
+          "title": "LPL：德州州长易手或拖慢数据中心审批，AI基建股监管溢价升温",
+          "href": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "note": "半导体、电力与机械或面临州级NIMBY压力"
+        },
+        {
+          "rank": 10,
+          "title": "美元指数跌0.34%至101.53；欧元、英镑各涨约0.4%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "选举后美元走弱，利好贵金属与外币资产"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "AMD AI叙事再获验证：数据中心近翻倍，Lisa Su展望2027增速超80%",
+          "href": "https://www.investing.com/news/stock-market-news/amd-shares-jump-as-aidriven-datacenter-strength-fuels-growth-outlook-4998022",
+          "note": "盘中仍涨；对抗英伟达的机架级方案加速"
+        },
+        {
+          "rank": 2,
+          "title": "Anthropic S-1披露前九月营收332亿、净亏1040亿，IPO盘概率波动",
+          "href": "https://x.com/i/trending/2117640070589002034",
+          "note": "非现金可转债调整主导亏损；15人团队用Claude加速自研芯片"
+        },
+        {
+          "rank": 3,
+          "title": "Anthropic发布FlashProve：密码学证明模型输出未被偷换",
+          "href": "https://x.com/i/trending/2118054559696187454",
+          "note": "400B模型H100上生成约110 tok/s，CPU验证约17秒"
+        },
+        {
+          "rank": 4,
+          "title": "Artificial Analysis改用“完成任务耗时”基准：GPT-6 Astra领先",
+          "href": "https://x.com/i/trending/2118090650281214216",
+          "note": "满负荷任务约17分钟 vs Claude Opus 5.5约26分钟"
+        },
+        {
+          "rank": 5,
+          "title": "Together AI上线Compiler：代理团队热重载持续优化推理栈",
+          "href": "https://x.com/i/trending/2118043125419831759",
+          "note": "MiniMax M3.1 Flash可达约1111 tok/s，宣称最高2.6倍加速"
+        },
+        {
+          "rank": 6,
+          "title": "Moonshot开源Kimi K3.1 Pro：2.8万亿MoE、激活104B，百万上下文",
+          "href": "https://x.com/i/trending/2118015143208423849",
+          "note": "Hugging Face上线；本地需约八卡高端GPU"
+        },
+        {
+          "rank": 7,
+          "title": "Liquid AI LFM3-Omni-2B iPhone离线跑通约80 tok/s",
+          "href": "https://x.com/i/trending/2118097455984304253",
+          "note": "Xenova演示巴黎地标实时导览，约1GB可装边缘设备"
+        },
+        {
+          "rank": 8,
+          "title": "OpenAI内部Pando Git后端：AI代理狂写代码下推送延迟降约80%",
+          "href": "https://x.com/i/trending/2117416317305131207",
+          "note": "10周上线，日服务约PB级Git数据"
+        },
+        {
+          "rank": 9,
+          "title": "斯坦福提出Joules-to-GDP：衡量AI每焦耳经济产出",
+          "href": "https://x.com/i/trending/2118093948145291349",
+          "note": "开源论文/代码；小模型与任务选择或比堆卡更划算"
+        },
+        {
+          "rank": 10,
+          "title": "民主党横扫后AI监管定价升温：数据中心州级审批或趋严",
+          "href": "https://www.cbsnews.com/news/stock-market-soar-democrats-take-control-of-congress/",
+          "note": "分治政府下联邦大立法难，州级与公用事业委员会成关键"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "沪指涨2.16%收3686.17，深成指+4.22%，创业板+6.40%",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "午后强势拉升；两市成交约2.04万亿，较前日放量约3343亿"
+        },
+        {
+          "rank": 2,
+          "title": "科创50暴涨9.92%报1265.47；全市场超4600只上涨、超百股涨停",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "科创综指亦涨约9.9%；半导体ETF多只涨停"
+        },
+        {
+          "rank": 3,
+          "title": "半导体设备爆发：京仪装备、托伦斯、华峰测控等20CM涨停",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261104/4490898_1.html",
+          "note": "北方华创、通富微电涨停；存储与CPO午后跟涨"
+        },
+        {
+          "rank": 4,
+          "title": "央行下调股票回购增持再贷款利率25bp至1%，自11/4起生效",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261104/4491101_1.html",
+          "note": "覆盖21家全国性银行+5家系统重要性城商行；申请规模已超2000亿"
+        },
+        {
+          "rank": 5,
+          "title": "贵金属集体涨停潮：晓程科技20CM，山金国际、招金黄金等涨停",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "外盘金价大涨映射；黄金概念午后发力"
+        },
+        {
+          "rank": 6,
+          "title": "算力硬件超跌反弹：新易盛、中际旭创、长光华芯涨超10%",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261104/4490898_1.html",
+          "note": "前日杀估值后资金回流CPO与光模块"
+        },
+        {
+          "rank": 7,
+          "title": "人形机器人/物理AI活跃：永臻股份2连板，索辰科技20CM涨停",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "宇树称将攻克机器人大脑并寻求全球合作"
+        },
+        {
+          "rank": 8,
+          "title": "AI漫剧概念延续：大晟文化、浙文影业、龙版传媒3连板",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "红果短剧用户已超豆包；传媒情绪与硬件反弹共振"
+        },
+        {
+          "rank": 9,
+          "title": "白酒与乳业逆市走弱：皇台领跌，阳光乳业等触及跌停",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261104/4490898_1.html",
+          "note": "消费风格切换，资金从防御转向成长反弹"
+        },
+        {
+          "rank": 10,
+          "title": "机构：政策托底信号清晰，海外美债与AI预期仍是主要约束",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "中泰/华西看筑底反弹；银河提示12月Fed加息压制成长"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "英央行11/5议息尚未公布（伦敦12:00=北京20:00），市场近满定价加息至4.00%",
+          "href": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+          "note": "衍生品隐含约97%；路透调查预期7-2加息，或淡化2027连续加息押注"
+        },
+        {
+          "rank": 2,
+          "title": "央行下调股票回购增持再贷款利率至1%，加力稳资本市场",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261104/4491101_1.html",
+          "note": "自11/4起降25bp；支持对象扩至含5家系统重要性城商行"
+        },
+        {
+          "rank": 3,
+          "title": "央行11/4投放2575亿隔夜逆回购（1.25%），净回笼5145亿",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261104/4491101_1.html",
+          "note": "当日到期6210亿隔夜+1510亿7天；资金面早松后均衡偏松"
+        },
+        {
+          "rank": 4,
+          "title": "11/5将开展3000亿3个月买断式逆回购，较到期5000亿缩量2000亿",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261104/4491101_1.html",
+          "note": "固定数量、利率招标、多重价位中标；到期2027-02-04"
+        },
+        {
+          "rank": 5,
+          "title": "隔夜Shibor跌至1.265%；DR001加权约1.26%，短端继续宽松",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261104/4491101_1.html",
+          "note": "DR007约1.32%；存单全期限早盘下行午后小幅回调"
+        },
+        {
+          "rank": 6,
+          "title": "Polymarket：12月美联储加息25bp约77.5%，不变约21.5%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "24h成交约140万美元级；选举后加息定价略升"
+        },
+        {
+          "rank": 7,
+          "title": "美联储维持3.75%–4.00%后，12月会议仍live",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "上次投票10:2，两票赞成加息；数据窗口密集"
+        },
+        {
+          "rank": 8,
+          "title": "第三批SFISF互换便利1000亿落地余波：政策资金入市节奏加快",
+          "href": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhkw1565589.shtml",
+          "note": "与回购再贷款降息形成“稳市场”组合拳"
+        },
+        {
+          "rank": 9,
+          "title": "美元走弱、美债波动：选举后避险情绪退潮观察窗口打开",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "DXY约101.53；中泰提示美债收益率或快速反弹风险"
+        },
+        {
+          "rank": 10,
+          "title": "欧央行存款便利仍2.50%，年底路径偏鹰开放",
+          "href": "https://global.morningstar.com/en-gb/economy/will-bank-england-raise-interest-rates-this-week-4",
+          "note": "能源与伊朗冲突推升全球通胀预期，主要央行同步偏紧"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "WTI暴跌8.29%收88.12美元/桶；布伦特跌8.67%收94.62",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "跌破100美元关口附近；选举后对伊战争溢价大幅泄出"
+        },
+        {
+          "rank": 2,
+          "title": "黄金COMEX涨3.37%收4073美元/盎司，创8月中以来最大单日涨幅量级",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "现货亦涨超3%重回4000上方；美元走弱共振"
+        },
+        {
+          "rank": 3,
+          "title": "白银涨5.08%至52.282；钯金暴涨7.43%领涨金属至1003美元",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "铂金+4.77%至1498；金属普遍与油价背离走强"
+        },
+        {
+          "rank": 4,
+          "title": "取暖油跌7.18%、汽油跌7.05%；天然气独涨2.21%至2.959",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "能源五合约中四合约跌超7%，主线是战争溢价回吐"
+        },
+        {
+          "rank": 5,
+          "title": "COMEX铜微涨0.42%收6.429美元/磅",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "风险偏好回暖下工业金属企稳"
+        },
+        {
+          "rank": 6,
+          "title": "农产品分化：棉花+1.39%领涨，咖啡跌1.48%，大豆跌0.97%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "17合约中约10只收涨，广度偏多但能源拖累"
+        },
+        {
+          "rank": 7,
+          "title": "霍尔木兹再起波澜：IRGC称多艘油轮触雷起火，UKMTO报告遭弹打击",
+          "href": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+          "note": "油价却因选举叙事先跌——地缘与政治定价短暂背离"
+        },
+        {
+          "rank": 8,
+          "title": "简析：油跟中东/选举叙事，金跟美元与避险切换",
+          "href": "https://invezz.com/news/2026/11/04/evening-digest-oil-falls-8-gold-rallies-after-democrats-election-victory/",
+          "note": "民主党胜选被解读为或约束对伊升级，油跌金涨"
+        },
+        {
+          "rank": 9,
+          "title": "比特币涨约3.55%至约80503，与风险资产同向",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "波动率回落背景下加密跟随股市反弹"
+        },
+        {
+          "rank": 10,
+          "title": "明日焦点：英央行决议与伊朗谈判进展，继续主导油金波动",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-04-november-2026/",
+          "note": "BOE MPR同日发布；卡塔尔斡旋仍在进行"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "民主党横扫国会：众院约237席、参院至少54席，终结共和党单独控制",
+          "href": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+          "note": "翻转得州等红州参院席；物价与对伊战争成败选主因"
+        },
+        {
+          "rank": 2,
+          "title": "Vance称对伊战争是共和党败选主因；特朗普威胁否决“疯狂”法案",
+          "href": "https://x.com/i/trending/2118113419459198988",
+          "note": "未来两年华盛顿或陷入分治僵局"
+        },
+        {
+          "rank": 3,
+          "title": "伊朗称美方对重开霍尔木兹七条件回应“不令人信服”",
+          "href": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+          "note": "卡塔尔称双方仍承诺谈判；Rezaei要求完整回应七条件"
+        },
+        {
+          "rank": 4,
+          "title": "特朗普确认对Qeshm岛防空设施实施“有限打击”，称“不是战争”",
+          "href": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+          "note": "美媒称三航母在位，选举后可能扩大打击计划"
+        },
+        {
+          "rank": 5,
+          "title": "IRGC称霍尔木兹南侧多艘油轮触雷起火，并宣称击落MQ-9无人机",
+          "href": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+          "note": "UKMTO另报油轮引擎室遭两枚不明弹打击"
+        },
+        {
+          "rank": 6,
+          "title": "泽连斯基与Witkoff、Kushner通话90分钟，强调战后安全保证须“铁板钉钉”",
+          "href": "https://kyivindependent.com/security-guarantees-must-be-ironclad-zelensky-speaks-to-trumps-envoys-ahead-of-trilateral-peace-talks/",
+          "note": "11/10阿布扎比三方技术谈判在即；优先防空拦截弹与无人机合作"
+        },
+        {
+          "rank": 7,
+          "title": "民主党控国会或改变对乌援助博弈，短期提振基辅外交空间",
+          "href": "https://kyivindependent.com/security-guarantees-must-be-ironclad-zelensky-speaks-to-trumps-envoys-ahead-of-trilateral-peace-talks/",
+          "note": "此前特朗普转向俄油与逼停袭炼厂令美乌关系紧张"
+        },
+        {
+          "rank": 8,
+          "title": "选举结果冲击中东政策预期：油市押注对伊升级受约束",
+          "href": "https://www.rigzone.com/news/oil_market_weighs_next_stage_in_iran_conflict_after_midterms-04-nov-2026-185004-article/",
+          "note": "战争溢价泄出 vs 霍尔木兹实弹风险并存"
+        },
+        {
+          "rank": 9,
+          "title": "特朗普选举后首秀参观白宫宴会厅工地，民主党誓言制衡行政权",
+          "href": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+          "note": "路透：选民愤怒高物价与伊朗战争"
+        },
+        {
+          "rank": 10,
+          "title": "阿拉斯加、密西西比等个别参院席次仍未最终裁定",
+          "href": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+          "note": "不影响民主党已获参众两院控制权的大局"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "2026众议院控制权：民主党已结算Yes（成交约6330万美元）",
+          "href": "https://polymarket.com/event/which-party-will-win-the-house-in-2026",
+          "note": "开票后市场关闭；与AP/NBC投影一致"
+        },
+        {
+          "rank": 2,
+          "title": "2026参议院控制权：民主党已结算Yes（成交约3150万美元）",
+          "href": "https://polymarket.com/event/which-party-will-win-the-senate-in-2026",
+          "note": "选举前定价约76%已兑现"
+        },
+        {
+          "rank": 3,
+          "title": "参院摇摆州地图盘24h成交约758万美元，多数组合近0",
+          "href": "https://polymarket.com/event/which-tossup-senate-states-will-republicans-win-ak-ia-ks-me-mi-oh-tx",
+          "note": "共和党横扫七州结局约0.05%；结果结算进行中"
+        },
+        {
+          "rank": 4,
+          "title": "12月美联储决议：加息25bp约77.5%，不变约21.5%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "24h约140万美元；降息选项合计不足1%"
+        },
+        {
+          "rank": 5,
+          "title": "Anthropic 2026年底前IPO：约89.5%（11/30前约84%，11/25前约73%）",
+          "href": "https://polymarket.com/event/anthropic-ipo-by",
+          "note": "感恩节前窗口仍热；S-1亏损数字引发短线波动"
+        },
+        {
+          "rank": 6,
+          "title": "以色列下任总理：Eizenkot约57%领先Netanyahu约31%",
+          "href": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election",
+          "note": "大盘成交约8670万美元级"
+        },
+        {
+          "rank": 7,
+          "title": "2028共和党总统提名盘放量：24h成交约547万美元",
+          "href": "https://polymarket.com/event/republican-presidential-nominee-2028",
+          "note": "中期惨败后接班人定价活跃"
+        },
+        {
+          "rank": 8,
+          "title": "2028民主党总统提名盘24h约372万美元",
+          "href": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+          "note": "横扫国会后2028热度同步抬升"
+        },
+        {
+          "rank": 9,
+          "title": "英央行11/5加息：外部定价仍约97%附近（决议北京晚间才出）",
+          "href": "https://global.morningstar.com/en-gb/economy/will-bank-england-raise-interest-rates-this-week-4",
+          "note": "目标利率升至4.00%几乎满定价"
+        },
+        {
+          "rank": 10,
+          "title": "叙事切换：权力格局盘已结算，资金转向Fed/IPO/2028与以总理",
+          "href": "https://polymarket.com/",
+          "note": "选举交易落幕，宏观与地缘长线盘接棒成交"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
