@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-09T07:45:00+08:00",
+  "updated_at": "2026-11-10T07:19:07+08:00",
   "columns": [
     {
       "id": "us_stocks",
@@ -10,63 +10,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "周五科技反弹：纳指+1.1%收复部分失地，标普+0.3%，道指-0.5%",
-          "href": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
-          "note": "AI相关买盘主导；全周美股仍约跌2.7%"
+          "title": "周一美股齐涨逾2%：道指+1104点，标普创4月8日来最佳单日",
+          "href": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "note": "道指收52389.75（+2.15%），标普7549.94（+2.35%），纳指25253.14（+2.74%）"
         },
         {
           "rank": 2,
-          "title": "费城半导体指数反弹约4.2%，扭转周四疫情后量级暴跌",
-          "href": "https://www.foxbusiness.com/markets/stocks-11-6-2026",
-          "note": "AMD大涨约11%、英特尔约+8%、英伟达约+2.8%–3%"
+          "title": "油价大跌提振风险偏好：WTI收86.85美元（-4.38%），布伦特92.57美元（-5.85%）",
+          "href": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "note": "特朗普称若谈判推进则极不可能再打击伊朗；道指已站上选举日收盘水位"
         },
         {
           "rank": 3,
-          "title": "强劲非农后风险偏好回暖，但分析称抛售或未结束",
-          "href": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-          "note": "本周焦点CPI；VIX周五仍约24，距“恐慌底”30仍有距离"
+          "title": "英伟达收跌4.27%，董事会就黄仁勋“外国情报行动”指控启动独立调查",
+          "href": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+          "note": "黄仁勋致信员工承认不忠并承诺配合审查；为Magnificent 7中显眼跌者"
         },
         {
           "rank": 4,
-          "title": "Magnificent 7周四蒸发逾1万亿后部分回补；英伟达单日市值曾蒸发约4400亿",
-          "href": "https://apnews.com/article/markets-japan-nikkei-oil-ai-bba6f0bf9035a6e6b1c4fef3e8230b89",
-          "note": "选举后AI数据中心监管担忧仍主导定价"
+          "title": "芯片股修复：AMD涨13.26%、博通涨8.78%，SOXX涨逾7%",
+          "href": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+          "note": "Marvell约+9.49%、Arm约+6.69%、英特尔约+5.49%；SOXX上周约跌13%"
         },
         {
           "rank": 5,
-          "title": "10月非农大超预期：新增16.5万、失业率降至4.1%，美元与美债收益率齐升",
-          "href": "https://www.interest.co.nz/currencies/141008/equities-partly-recovered-post-midterms-tech-selloff-nasdaq-1-us-payrolls-easily",
-          "note": "前两月合计上修约8.4万；时薪月增0.4%"
+          "title": "除英伟达外Magnificent 7普遍收涨：特斯拉约+5.5%，亚马逊约+3%",
+          "href": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "note": "微软亦涨近3%，Alphabet约+1%；高盛、卡特彼勒支撑道指"
         },
         {
           "rank": 6,
-          "title": "本周展望：11/10 CPI、11/13 PPI；Veterans Day美债休市",
-          "href": "https://www.cnbc.com/2026/11/06/stock-market-next-week-outlook-for-nov-9-13-2026.html",
-          "note": "策略师关注是否出现多日抛售与真正capitulation"
+          "title": "标普500十一大板块全线上涨，工业与可选消费领涨",
+          "href": "https://www.xinhuanet.com/20261110/c1afb0b6a60d402392fc62bea56e2ae2/c.html",
+          "note": "新华社：工业+3.78%、非必需消费品+3.05%；能源涨幅最小，为0.41%"
         },
         {
           "rank": 7,
-          "title": "短端美债承压：2年期约升至4.51%，10年期约4.86%",
-          "href": "https://www.interest.co.nz/currencies/141008/equities-partly-recovered-post-midterms-tech-selloff-nasdaq-1-us-payrolls-easily",
-          "note": "曲线趋平；市场对反弹持续性仍存疑"
+          "title": "亚市联动：台股大涨4.94%，日经收涨2.33%",
+          "href": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "note": "台湾加权收41664.7，为7月31日来最大单日涨幅；韩国Kospi跌0.81%"
         },
         {
           "rank": 8,
-          "title": "日经上周重挫逾9%；中国股市周涨约1.7%、欧股约+0.6%、澳股约+1.3%",
-          "href": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534",
-          "note": "全球风险资产分化，亚洲周一开盘承压观察"
+          "title": "美债收益率小幅上行：2年期升至4.561%，10年期约4.876%",
+          "href": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html",
+          "note": "2年期升逾3个基点；30年期约5.264%；静候周二CPI"
         },
         {
           "rank": 9,
-          "title": "密歇根消费者情绪初值升至51.0（三月高），一年通胀预期降至4.3%",
-          "href": "https://www.interest.co.nz/currencies/141008/equities-partly-recovered-post-midterms-tech-selloff-nasdaq-1-us-payrolls-easily",
-          "note": "个人财务与前景分项改善；5–10年预期约3.4%"
+          "title": "美元指数回落约0.37%至101.84，欧元、日元同步走强",
+          "href": "https://www.cnbc.com/2026/11/09/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election.html",
+          "note": "欧元兑美元约1.1204（+0.57%），美元兑日元约158.01（美元跌0.33%）"
         },
         {
           "rank": 10,
-          "title": "比特币周五收约76038，周跌约1.6%；与科技股部分共振",
-          "href": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-november-913-2026",
-          "note": "ETH约2246；风险资产波动仍高"
+          "title": "本周焦点今夜美国CPI（尚未公布）与周五PPI；科技财报密集",
+          "href": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "note": "共识CPI环比+0.3%、核心+0.2%；CoreWeave、思科、应用材料亦将公布业绩"
         }
       ]
     },
@@ -77,63 +77,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "Anthropic推进史上级IPO：拟募资约800–1000亿美元，估值讨论约1.1–1.75万亿",
-          "href": "https://x.com/i/trending/2118393214491328949",
-          "note": "AI股动荡中仍冲刺11月纳斯达克；Ticker传为ANT"
+          "title": "英伟达董事会独立调查黄仁勋与据称中国间谍的关系，股价收跌4.27%",
+          "href": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+          "note": "美情报机构指云公司Megaspeed高管Alice Huang向北京传递信息；公司称暂无泄密证据"
         },
         {
           "rank": 2,
-          "title": "开发者集中反馈Claude Opus 5.5编码表现滑坡：忽略指令、循环报错",
-          "href": "https://x.com/i/trending/2118878938697286142",
-          "note": "基准未明显下滑但实战报错率升高；Anthropic暂未回应"
+          "title": "Anthropic发布Claude Fable 5.2与Mythos 5.2：输出提速约30%、价格较5.1代低约20%",
+          "href": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+          "note": "定价为每百万输入token 8美元、每百万输出token 40美元；Fable面向公众，Mythos限核验机构"
         },
         {
           "rank": 3,
-          "title": "OpenAI GPT-6.2 Sol早期测试曝光：单提示生成复杂3D场景，官号发“Tomorrow.”",
-          "href": "https://x.com/i/trending/2119422870476542168",
-          "note": "11月8日暗示或于9日前后放量；成本与速度获赞"
+          "title": "Anthropic冲刺IPO：估值目标约1–1.5万亿美元，可能最早下周启动",
+          "href": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+          "note": "此前曾传约2万亿目标；招股书显示前三季度营收约332.4亿美元、同比约+1200%"
         },
         {
           "rank": 4,
-          "title": "METR评估：Anthropic内部模型能力提升速度约翻倍（自2025年10月）",
-          "href": "https://x.com/i/trending/2119013893754212425",
-          "note": "约80%增益来自AI辅助研究；自主长程任务仍有限"
+          "title": "英伟达发布GR00T 2机器人世界-动作模型，主打跨本体泛化与灵巧操作",
+          "href": "https://research.nvidia.com/labs/gear/gr00t-2/",
+          "note": "未见任务零样本成功率约40%，5条示范后约95%；Turbo可在Jetson Thor上实时运行"
         },
         {
           "rank": 5,
-          "title": "Dario Amodei：AI将在1–5年内冲击法律/金融/咨询半数入门岗",
-          "href": "https://x.com/i/trending/2119424391390155151",
-          "note": "敦促掌握agent “harness”；Anthropic报告初级招聘占比骤降"
+          "title": "除英伟达外AI芯片股普涨：AMD+13.26%、博通+8.78%、Marvell+9.49%",
+          "href": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+          "note": "Arm约+6.69%、英特尔约+5.49%；调查外溢目前主要集中在英伟达本身"
         },
         {
           "rank": 6,
-          "title": "芯片股周五强势修复：AMD约+11%、英伟达约+3%，缓解“暴力抛售”情绪",
-          "href": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533",
-          "note": "民主党横扫后数据中心监管溢价仍在定价"
+          "title": "花旗将美股、全球科技与欧洲科技战术下调至中性",
+          "href": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "note": "称中期仍看好AI，但仓位与情绪尚未稳定，暂不恢复超配"
         },
         {
           "rank": 7,
-          "title": "Moonshot发布Kimi K3.1 Pro开源权重：约2.8T MoE、百万上下文",
-          "href": "https://x.com/i/trending/2118824973016117608",
-          "note": "NVIDIA/Cerebras演示可调用；本地约需1.56TB级硬件"
+          "title": "中国外交部驳斥“中国间谍叙事”，称相关说法毫无根据",
+          "href": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+          "note": "发言人郭嘉昆周一表态；调查已引发市场对黄仁勋去留的讨论"
         },
         {
           "rank": 8,
-          "title": "蚂蚁Ant Ling推Ling-3.2-flash：560B多模态、OmniDocBench领先Claude Opus 5",
-          "href": "https://x.com/i/trending/2119188262753321250",
-          "note": "两周免费；主打专业工作流与长程agent"
+          "title": "特朗普称黄仁勋“诚实”、为国家“做了了不起的工作”",
+          "href": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+          "note": "总统周日表态尚未就调查与其通话；英伟达定于11月17日公布三季报"
         },
         {
           "rank": 9,
-          "title": "OpenAI上线BioBasicsBench：GPT-6 Astra湿实验任务约66.7%居首",
-          "href": "https://x.com/i/trending/2118800545532039264",
-          "note": "100项真实实验原始数据；社区更催更强大模型"
+          "title": "Oppenheimer上调AMD至“跑赢大市”，目标价600美元",
+          "href": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "note": "较上周五收盘隐含约34%上行空间；看好Helios机架方案与数据中心业务"
         },
         {
           "rank": 10,
-          "title": "AI交易重挫后估值下修：OpenAI融资估值传约1.25万亿，Anthropic IPO锚下移",
-          "href": "https://www.dailycortex.com/the-labs-are-marked-down",
-          "note": "一级市场同步消化监管与资本开支放缓溢价"
+          "title": "X热议：Gemini 4 Krypton内部检查点泄露，测者称编码细节优于Carbon",
+          "href": "https://x.com/i/trending/2119567610132009285",
+          "note": "称Gemini 4已从Argon推进至Carbon；Krypton尚无官方基准与发布细节"
         }
       ]
     },
@@ -144,63 +144,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "国常会：完善资本市场稳市机制，增强股市内在稳定性",
-          "href": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261109_3287738.shtml",
-          "note": "11月6日会议定调；机构称稳市由应急托底升维制度安排"
+          "title": "A股涨跌互现：沪指涨0.32%报3660.79点，深成指与创业板均跌0.27%",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261109/4492864_1.html",
+          "note": "深成指收11145.49点，创业板指收2458.56点；三大指数冲高回落"
         },
         {
           "rank": 2,
-          "title": "上周沪指累涨约1.39%、深成指约+3.16%；沪深300约+1.73%",
-          "href": "https://www.hkej.com/dailynews/investment/article/4560720/%E5%85%A7%E9%8A%B7%E5%B8%82%E5%A0%B4%E5%BB%A3%E9%97%8A+%E5%9C%8B%E7%94%A2AI%E6%A6%82%E5%BF%B5%E6%9C%89%E5%8B%A2",
-          "note": "海外AI抛售中A股展现韧性；沪指上周五约3649点"
+          "title": "沪深京成交额1.49万亿元，较上一交易日缩量1771亿元",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261109/4492864_1.html",
+          "note": "全市场上涨超过2200只，近60只涨停；今日A股仍未开盘"
         },
         {
           "rank": 3,
-          "title": "科创50上周大涨约7.96%；恒生科技约+8.61%全球相对占优",
-          "href": "https://www.diaifu.net/post/47610.html",
-          "note": "国产算力/内需科技跑赢出口链硬件"
+          "title": "沪深300微涨0.05%报4056.11；科创50涨0.30%报1256.96",
+          "href": "https://news.10jqka.com.cn/20261109/c681606149.shtml",
+          "note": "上证50涨0.06%报2789.15，北证50涨0.82%报895.76"
         },
         {
           "rank": 4,
-          "title": "四大证券报：稳市组合拳持续加码，长期向好逻辑进一步明确",
-          "href": "https://finance.sina.com.cn/stock/y/2026-11-09/doc-iniyauwk3401561.shtml",
-          "note": "中证报/上证报头版聚焦稳市与机构策略"
+          "title": "煤炭、机器人、PCB与冰雪经济走强，光伏高开低走",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261109/4492864_1.html",
+          "note": "郑州煤电、安泰集团涨停；阳光电源、隆基绿能等光伏股下挫"
         },
         {
           "rank": 5,
-          "title": "回购增持再贷款转长期制度并降息；第三次互换便利启动",
-          "href": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261109_3287738.shtml",
-          "note": "银河证券：政策取向机制化托底，压低资金负向循环"
+          "title": "行业指数：燃气+3.58%、煤炭开采加工+3.53%、元件+2.57%",
+          "href": "https://news.10jqka.com.cn/20261109/c681606149.shtml",
+          "note": "能源金属跌2.34%、光伏设备跌2.05%居前；上涨2208只、下跌3113只，57只涨停"
         },
         {
           "rank": 6,
-          "title": "两市日均成交约1.86万亿（周环比+17.3%）；两融余额约2.31万亿",
-          "href": "https://www.diaifu.net/post/47610.html",
-          "note": "交投回暖但融资情绪仍环比回落"
+          "title": "算力芯片活跃：燧原科技涨17.26%，寒武纪、沐曦股份涨超5%",
+          "href": "https://news.10jqka.com.cn/20261109/c681606149.shtml",
+          "note": "半导体行业成交约1719亿元居首；通信设备、元件成交亦靠前"
         },
         {
           "rank": 7,
-          "title": "ETF净申购：华夏科创50约+176.6亿份领跑，半导体主题分化",
-          "href": "https://www.diaifu.net/post/47610.html",
-          "note": "科创板材料设备主题大额净申；部分通信设备ETF净赎"
+          "title": "北向资金成交2162.36亿元，占两市成交额约14.58%",
+          "href": "https://finance.eastmoney.com/a/202611093926331130.html",
+          "note": "此为成交额而非净流入；沪股通前三为寒武纪、生益科技、中微公司"
         },
         {
           "rank": 8,
-          "title": "机构：海外不确定性阶段性落地，A股震荡反弹有望延续",
-          "href": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261109_3287738.shtml",
-          "note": "关注油价、美联储加息预期对节奏扰动"
+          "title": "港股收跌：恒指跌0.13%报24448.95点，恒生科技跌0.92%",
+          "href": "https://finance.eastmoney.com/a/202611093926263255.html",
+          "note": "恒生科技收4040.73点；美团-W领跌恒指成分股，百威亚太、药明生物居前"
         },
         {
           "rank": 9,
-          "title": "配置主线偏“杠铃”：国产算力/半导体设备/AI应用 + 红利底仓",
-          "href": "https://finance.sina.com.cn/stock/y/2026-11-09/doc-iniyauwk3401561.shtml",
-          "note": "AI中下游应用与低位预期改善板块受关注"
+          "title": "主力资金：工业富联净流入12.42亿元居首，元件板块净流入38.42亿元",
+          "href": "https://www.sfccn.com/2026/11-9/3MMDE1MjBfMjI5ODY3MQ.html",
+          "note": "寒武纪、新易盛净流入居前；阳光电源净流出8.39亿元居首"
         },
         {
           "rank": 10,
-          "title": "南向资金本周净流出约32.4亿港元；恒生综指周涨约4.59%",
-          "href": "https://www.diaifu.net/post/47610.html",
-          "note": "港股日均成交约2565亿港元，环比大增"
+          "title": "中信/华泰：科技估值接近加息周期低点，反弹仍需政策与增量资金",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261109/4492864_1.html",
+          "note": "关注国产算力与AI应用，以及红利底仓、新能源政策与消费修复"
         }
       ]
     },
@@ -211,63 +211,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "非农爆表后12月加息概率升至约78%–81%（CME/交易员）",
-          "href": "https://sg.finance.yahoo.com/news/traders-raise-bets-fed-rate-134402668.html",
-          "note": "周四约67% → 数据后冲高至约85%再回落至近八成"
+          "title": "美国10月CPI将于北京时间今晚21:30公布，目前尚未发布",
+          "href": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "note": "道琼斯共识：整体环比+0.3%、核心环比+0.2%；低于9月的+0.6%与+0.3%"
         },
         {
           "rank": 2,
-          "title": "10月非农+16.5万、失业率4.1%；时薪+0.4%，就业广度偏强",
-          "href": "https://finance.yahoo.com/markets/article/the-october-jobs-report-just-gave-the-fed-a-new-reason-to-hike-rates-chart-of-the-day-131105180.html",
-          "note": "三项月年化工资约3.2%仍偏温和"
+          "title": "因去年政府停摆，本次CPI将不提供同比年率",
+          "href": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "note": "BLS当年未编制完整指数；美银用插值估算同比约3.8%/核心约2.7%"
         },
         {
           "rank": 3,
-          "title": "本周重磅：11/10美国CPI、11/13 PPI；通胀将锁定12月路径",
-          "href": "https://howtheworldworks.news/week/2026-11-09",
-          "note": "共识CPI月环比约+0.3%；热读将强化加息定价"
+          "title": "利率期货隐含12月加息约82%；美联储10月维持3.75%–4.00%不变",
+          "href": "https://www.cnbc.com/2026/11/09/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election.html",
+          "note": "CME FedWatch显示加息25bp概率高于一周前；为12月8–9日会议前最后一轮CPI"
         },
         {
           "rank": 4,
-          "title": "美元指数升至约102.2（约10月29日来最高），短端收益率跟涨",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "非农强化“更高更久”叙事"
+          "title": "芝加哥联储古尔斯比：须正视通胀“成本端失败”",
+          "href": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "note": "称就业接近充分，AI数据中心建设开始像传统需求过热；本人今年无投票权"
         },
         {
           "rank": 5,
-          "title": "中国10月CPI/PPI今日公布：预期CPI同比约0.8%、PPI约5.4%",
-          "href": "https://www.newsquawk.com/daily/5849-week-in-focus-9-13th-november-2026-highlights-include-us-cpi-china-inflation-uk-gdp-boj-soo-and-nz-elections",
-          "note": "同周还有英国GDP、日银展望报告"
+          "title": "美银：除非出现无可争议的0.1%超软读数，否则料锁定12月再加25bp",
+          "href": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "note": "更大变量来自金融市场；汽油价10月回落逾4%有望缓和整体涨幅"
         },
         {
           "rank": 6,
-          "title": "Polymarket：2026年降息次数“0次”约98%；年末利率4.25%约73%",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "Fed相关盘成交超9000万美元"
+          "title": "克利夫兰联储即时预测：整体CPI约0.24%、核心约0.21%",
+          "href": "https://www.fxstreet.com/analysis/us-cpi-preview-moderation-on-the-horizon-but-underlying-pressures-linger-202611092231",
+          "note": "四舍五入后整体可能落在0.2%或0.3%的临界；核心共识同为0.2%"
         },
         {
           "rank": 7,
-          "title": "交易员上修下一笔加息时点：由6月提前至约4月",
-          "href": "https://sg.finance.yahoo.com/news/traders-raise-bets-fed-rate-134402668.html",
-          "note": "对抗持续超目标通胀超五年"
+          "title": "中国10月CPI同比上涨0.7%，涨幅回落0.2个百分点，环比持平",
+          "href": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html",
+          "note": "国家统计局：核心CPI同比上涨0.8%；食品同比下降2.9%，鲜菜跌16.9%"
         },
         {
           "rank": 8,
-          "title": "国常会稳市机制+结构性工具降息：财政金融协同护盘",
-          "href": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261109_3287738.shtml",
-          "note": "回购再贷款长期化、互换便利第三次落地"
+          "title": "中国10月PPI同比上涨5.7%，涨幅扩大0.7个百分点",
+          "href": "https://www.nbd.com.cn/articles/2026-11-09/4641985.html",
+          "note": "PPI环比上涨0.7%、涨幅回落0.5个百分点；煤炭、油气开采价格同比大涨"
         },
         {
           "rank": 9,
-          "title": "密歇根一年期通胀预期降至4.3%，五年期约3.4%",
-          "href": "https://www.interest.co.nz/currencies/141008/equities-partly-recovered-post-midterms-tech-selloff-nasdaq-1-us-payrolls-easily",
-          "note": "情绪指数51.0超预期，缓和部分滞胀担忧"
+          "title": "美债短端走高：2年期升至4.561%，10年期约4.876%",
+          "href": "https://www.cnbc.com/2026/11/09/us-treasurys-bonds-yields.html",
+          "note": "上周五非农新增16.5万、失业率4.1%后，市场继续定价更高更久"
         },
         {
           "rank": 10,
-          "title": "周历：周三Veterans Day美债休市；日银SOO、新西兰大选同周",
-          "href": "https://www.newsquawk.com/daily/5849-week-in-focus-9-13th-november-2026-highlights-include-us-cpi-china-inflation-uk-gdp-boj-soo-and-nz-elections",
-          "note": "全球央行与选举交织放大波动"
+          "title": "美元指数回落至约101.84；周五还将公布美国PPI",
+          "href": "https://www.cnbc.com/2026/11/09/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election.html",
+          "note": "中东局势缓和预期压制避险需求；今晚CPI仍是利率路径关键催化剂"
         }
       ]
     },
@@ -278,63 +278,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "现货黄金亚盘约4069；周五收约4070.75（-0.44%），上周仍累涨超5%",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "非农强化加息预期施压；周线为8月底来最佳"
+          "title": "原油重挫：布伦特收92.57美元（-5.85%），WTI收86.85美元（-4.38%）",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "布伦特跌5.75美元，WTI跌3.98美元；盘后布伦特跌幅扩大逾7美元"
         },
         {
           "rank": 2,
-          "title": "美原油约90.4、布伦特约98；上周暴跌约12%–13.6%创疫情来最大周跌",
-          "href": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-november-913-2026",
-          "note": "缓和预期回吐战争溢价；霍尔木兹风险仍托底"
+          "title": "特朗普称若谈判继续推进，极不可能对伊朗发动新一轮打击",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "市场押注冲突溢价回吐；上周布伦特已重挫约16%，创疫情初期来最大周跌"
         },
         {
           "rank": 3,
-          "title": "鲁比奥：美伊间接会谈无成效，伊方要求“不可接受”",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "特朗普称将很快决定寻求和谈或摧毁残余力量"
+          "title": "现货黄金上涨约1%报4107.01美元；COMEX 12月期金收4114.50美元",
+          "href": "https://news.cnyes.com/news/id/6654888",
+          "note": "美元走弱与油价下跌缓和通胀担忧；金价上周约涨5%后回补部分失地"
         },
         {
           "rank": 4,
-          "title": "COMEX黄金期货约4068，贴近枢轴支撑；周涨约4.3%–4.5%",
-          "href": "https://www.fxpremiere.com/gold-trading-scenarios-monday-9-nov-2026/",
-          "note": "本周CPI/PPI为方向催化剂；守住4000上方偏多"
+          "title": "白银涨1.8%报52.78美元，铂金涨1.8%报1561美元",
+          "href": "https://news.cnyes.com/news/id/6654888",
+          "note": "现货钯金涨0.3%报1026.26美元；贵金属随避险与实际利率预期共振"
         },
         {
           "rank": 5,
-          "title": "中国央行连续第24个月增持黄金，10月约增25.8吨",
-          "href": "https://www.xauusdglobal.com/blog/gold-week-ahead-november-9-13-2026/",
-          "note": "官方购金潮延续，长线支撑叙事"
+          "title": "COMEX铜主力结算价6.3285美元/磅，涨1.78%",
+          "href": "https://www.morningstar.com/news/dow-jones/202611098749/comex-copper-settles-178-higher-at-63285-data-talk",
+          "note": "11月合约涨11.05美分，结束连跌两日；距9月纪录高点6.8035美元仍低约7%"
         },
         {
           "rank": 6,
-          "title": "现货白银收约51.91（+0.25%），铂金约+1.6%至1541，钯金偏弱",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "贵金属周线多数收涨"
+          "title": "霍尔木兹风险未消：海峡周边船舶遇袭，沙特东西管线遭袭后火势已扑灭",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "沙特能源部称无人员伤亡、管线运行未受影响；胡塞宣称袭击阿美利雅得办公楼"
         },
         {
           "rank": 7,
-          "title": "IRGC称霍尔木兹两艘“违规”油轮触雷起火；海上袭击频率仍近高位",
-          "href": "https://english.news.cn/20261108/dc021ec57e444eee9730b0370f184243/c.html",
-          "note": "UKMTO持续记录袭击；特朗普指责伊方夸大推高油价"
+          "title": "路透调查：OPEC 11国10月产量较上月增加138万桶/日，至2287万桶/日",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "沙特、科威特、伊拉克增产部分抵消出口受限影响"
         },
         {
           "rank": 8,
-          "title": "中东现货溢价回落至冲突前水平；需求疲软叠加供应过剩迹象",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "分析称战争溢价小幅回吐，但海峡风险未消"
+          "title": "摩根大通估计全球原油10月供应过剩约140万桶/日",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "摩斯坦利称即期布伦特已低于近月期货，反映实货供应偏松"
         },
         {
           "rank": 9,
-          "title": "汽油全国均价回落至约4.10美元/加仑，利好10月CPI能源分项降温预期",
-          "href": "https://www.xauusdglobal.com/blog/gold-week-ahead-november-9-13-2026/",
-          "note": "9月汽油曾月涨9.1%推高CPI"
+          "title": "世界黄金协会：中国央行10月增持约25.8吨黄金，为三年最大单月购金",
+          "href": "https://news.cnyes.com/news/id/6654888",
+          "note": "官方购金叙事延续，对金价构成长线支撑"
         },
         {
           "rank": 10,
-          "title": "布伦特支撑关注94/92.5，阻力100/105；基准情景约92–104",
-          "href": "https://talkmarkets.com/article/forex-and-cryptocurrency-forecast-for-november-913-2026",
-          "note": "霍尔木兹突发是上行主风险"
+          "title": "美国战略石油储备上周降至2.795亿桶，为1982年10月以来最低",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "地缘溢价回吐与供应宽松并存；短期油价仍高度敏感于美伊谈判进展"
         }
       ]
     },
@@ -345,63 +345,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "美军宣布“铁门特遣队”(Task Force Iron Gate)：切断伊朗陆路与里海运武",
-          "href": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know",
-          "note": "驻坦帕约20人协调组；海上封锁已拦约250亿美元原油出口"
+          "title": "特朗普：若谈判取得进展，极不可能对伊朗发起新一轮打击",
+          "href": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+          "note": "同时称已识别更多目标；战争已持续八个多月，油价周一应声下跌"
         },
         {
           "rank": 2,
-          "title": "伊朗革命卫队：霍尔木兹两艘油轮触雷起火；否认美特遣队能压垮经济",
-          "href": "https://english.news.cn/20261108/dc021ec57e444eee9730b0370f184243/c.html",
-          "note": "发言人称美方目标无法实现"
+          "title": "鲁比奥：伊朗条件“离谱且不切实际”，目前看不到突破在即",
+          "href": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+          "note": "周日在佛罗里达对记者表示，特朗普仍希望以外交解决问题"
         },
         {
           "rank": 3,
-          "title": "鲁比奥：间接斡旋无果；特朗普 intra-weekend 定调和谈或进一步打击",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "卡塔尔等斡旋仍在，但条件鸿沟扩大"
+          "title": "卡塔尔首相谢赫·穆罕默德赴白宫与特朗普闭门会谈",
+          "href": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+          "note": "美官员称万斯副总统也将与其会晤；多哈继续在美伊之间斡旋"
         },
         {
           "rank": 4,
-          "title": "以色列防长卡茨：对伊朗“任务尚未完成”，扬言先发制人",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "拒从加沙/黎巴嫩/叙利亚部分占领区撤军"
+          "title": "伊朗提出“两日方案”：美方先落实举措，次日重开霍尔木兹海峡",
+          "href": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+          "note": "七项核心诉求包括解除制裁、恢复石油豁免、解冻资金并承认伊阿航运安排"
         },
         {
           "rank": 5,
-          "title": "伊朗称已解除导弹射程限制；总统佩泽希齐扬求摆脱“非战非和”",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "同时强调维护尊严与能源节约计划"
+          "title": "伊朗外长阿拉格希警告：若美方重启袭击，将让对方“下地狱”",
+          "href": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+          "note": "安全负责人礼萨伊亦警告勿再开战；IAEA称伊已有440.9公斤丰度达60%的铀"
         },
         {
           "rank": 6,
-          "title": "俄军打击乌克兰能源致数十万户断电；阿布扎比美斡旋和谈临近",
-          "href": "https://afterlightnews.com/articles/todays-briefing-2026-11-08.html",
-          "note": "欧洲外长称将参与美方主持的三方会谈"
+          "title": "美军上周至少两次有限打击伊朗防空，并在周六瘫痪一艘试图突破封锁的商船",
+          "href": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations",
+          "note": "特朗普称该地区有三艘航母“满载待发”；鲁比奥强调有权采取防御行动"
         },
         {
           "rank": 7,
-          "title": "中方确认沟通习近平—普京—特朗普三方会晤，或于深圳峰会间隙",
-          "href": "https://www.independent.co.uk/asia/china/trump-putin-xi-jinping-us-china-russia-b3081181.html",
-          "note": "北京称不会在此讨论乌克兰或伊朗实质方案"
+          "title": "七国外长巴黎开会：在伊朗、乌克兰等问题上立场仍有明显分歧",
+          "href": "https://www.military.com/g7-talks-in-paris-try-to-tackle-unresolved-global-crises-with-uncertainty-high-over-the-us-approach",
+          "note": "这是鲁比奥中期选举后首次出访；盟友关注特朗普会否调整外交路线"
         },
         {
           "rank": 8,
-          "title": "台军通报：24小时内共机11架次、舰船多艘次接近，9架次越中线",
-          "href": "https://afterlightnews.com/articles/todays-briefing-2026-11-08.html",
-          "note": "本月迄今累计共机125架次、舰船83艘次"
+          "title": "美特使维特科夫与库什纳将于周二起在阿布扎比会见乌、俄官员",
+          "href": "https://www.military.com/g7-talks-in-paris-try-to-tackle-unresolved-global-crises-with-uncertainty-high-over-the-us-approach",
+          "note": "鲁比奥称战后安全架构“有进展但未敲定”"
         },
         {
           "rank": 9,
-          "title": "IRGC宣布扩建地下导弹/无人机产能综合体，称可在轰炸下持续生产",
-          "href": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know",
-          "note": "与Iron Gate同步升温的威慑叙事"
+          "title": "德国外长瓦德富尔：任何乌克兰解决方案都必须有欧洲在场",
+          "href": "https://www.military.com/g7-talks-in-paris-try-to-tackle-unresolved-global-crises-with-uncertainty-high-over-the-us-approach",
+          "note": "欢迎阿布扎比会谈，但强调“没有欧洲就没有解决方案”"
         },
         {
           "rank": 10,
-          "title": "法国周末反政府示威约14.6万–25万人，巴黎爆发冲突",
-          "href": "https://news.fx678.com/202611082009302463.shtml",
-          "note": "规模低于前几周，但警民冲突再起"
+          "title": "胡塞宣称袭击沙特阿美利雅得办公楼；沙特东西输油管线遇袭后火势已扑灭",
+          "href": "https://news.cnyes.com/news/id/6654824",
+          "note": "沙特称无人员伤亡、管线运行未受影响；沙特领导联军称摧毁胡塞导弹零部件工厂"
         }
       ]
     },
@@ -412,63 +412,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fed Decision in December：25bp加息约77%（成交约1670万美元）",
-          "href": "https://polymarket.com/all/fed",
-          "note": "非农后定价锚定四分之一码"
+          "title": "12月FOMC：加息25bp约80%，维持不变约19%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "事件总成交约1762万美元；降息或加息50bp以上均低于1%"
         },
         {
           "rank": 2,
-          "title": "2026年降息次数：0次约98%，盘口成交约5570万美元居首",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "全年降息叙事近乎关闭"
+          "title": "12月“加息25bp”单项成交约520万美元，为该事件最深合约",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "维持不变合约成交约416万美元；定价显著偏向再加一次"
         },
         {
           "rank": 3,
-          "title": "年末联邦基金利率：4.25%约73%–74%",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "对应再加一次左右的路径"
+          "title": "1月FOMC：维持不变约79%，再加息25bp约18%",
+          "href": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
+          "note": "事件成交约131万美元；交易员倾向“12月加、1月暂停”"
         },
         {
           "rank": 4,
-          "title": "2026年加息次数：2次（50bp）约78%，24小时上涨约4个百分点",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "非农后最大波动之一"
+          "title": "1月降息25bp仅约3.4%，大幅转向宽松几乎未被定价",
+          "href": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
+          "note": "加息或降息50bp以上均约1%；今晚CPI或快速改写两条利率曲线"
         },
         {
           "rank": 5,
-          "title": "1月FOMC：维持不变约78%（24h +4pts）",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "交易员倾向12月加、1月暂停"
+          "title": "美伊“14日有效停火”：11月15日前约44%，11月30日前约62%",
+          "href": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
+          "note": "年底前开启约81%；近端停火仍远未定价成交"
         },
         {
           "rank": 6,
-          "title": "美伊停火阶梯：多档11月合约因打击结算为No；新14日平静盘上线",
-          "href": "https://www.financialmarkets.com/article/three-polymarket-ladders-on-the-iran-ceasefire-one-paid-yes-one-was-erased-by-fr",
-          "note": "12月31日前开启14日无行动约83.5%"
+          "title": "该停火阶梯盘成交约55.7万美元；11月8日档约18%",
+          "href": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
+          "note": "11月22日前约53%；反映斡旋仍在、但短期突破概率有限"
         },
         {
           "rank": 7,
-          "title": "年底前宣布结束伊朗封锁：约41%（偏乐观但远未定价成交）",
-          "href": "https://www.casinoreviews.net/news/midterm-odds-lock-in-as-fed-hike-and-iran-markets-shift/",
-          "note": "11月15日短期限概率显著更低"
+          "title": "比特币11月9–15日：触及76000美元约82%，回落至74000约76%",
+          "href": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-9-15-2026",
+          "note": "盘口同时给两侧波动定价；周末比特币曾跌破74000美元"
         },
         {
           "rank": 8,
-          "title": "中期选举民主党横扫盘已近结算（约99.95%）",
-          "href": "https://www.casinoreviews.net/news/midterm-odds-lock-in-as-fed-hike-and-iran-markets-shift/",
-          "note": "资金转向Fed/伊朗/2028提名"
+          "title": "同期比特币跌至70000仅约16%，升至80000约21%",
+          "href": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-9-15-2026",
+          "note": "触及78000约44%、72000约39%；事件成交约13.1万美元"
         },
         {
           "rank": 9,
-          "title": "Another Fed rate hike in 2026：Yes约76%",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "与12月单次加息盘互相印证"
+          "title": "12月降息或一次加息50bp以上的概率均不足1%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "市场几乎把路径收敛到“加25bp”与“按兵不动”二选一"
         },
         {
           "rank": 10,
-          "title": "Fed相关9个活跃盘合计成交约9040万美元，24小时约20.8万",
-          "href": "https://predictrips.com/odds/polymarket/fed",
-          "note": "宏观预测市场流动性集中在利率路径"
+          "title": "定价含义：宏观盘高度锚定今晚CPI，尚未反映任何实际读数",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "美国CPI通常于美东08:30=北京21:30公布，截稿时仍未发布"
         }
       ]
     }
