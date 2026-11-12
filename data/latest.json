@@ -1,7 +1,7 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "timezone": "Asia/Shanghai",
-  "updated_at": "2026-11-12T07:16:12+08:00",
+  "updated_at": "2026-11-13T07:12:41+08:00",
   "columns": [
     {
       "id": "us_stocks",
@@ -10,63 +10,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "周三美股收涨：道指+0.49%报52486.49，标普+1.31%报7619.38，纳指+1.60%报25466.19",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "退伍军人节股票市场照常交易、债券市场休市；VIX收于17.49，为一周低点"
+          "title": "周四美股收跌：道指跌0.36%报52297.09，标普跌0.35%报7592.40，纳指跌0.39%报25366.09",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "开盘标普一度跌近1%后收复失地，三大指数在平盘两侧波动后小幅收低；安纳多卢通讯社：VIX涨7.26%报18.76"
         },
         {
           "rank": 2,
-          "title": "CoreWeave大涨24.71%收60.77美元，AI基建股反弹带动三大指数走高",
-          "href": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "note": "三季度营收36.6亿美元（同比+168%），全年指引上调至130–133亿美元"
+          "title": "英伟达收跌4.34%报166.19美元，盘中一度重挫约14%",
+          "href": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324",
+          "note": "黄仁勋辞职冲击开盘，随后回升收复部分失地；公司任命CFO科莱特·克雷斯为临时CEO"
         },
         {
           "rank": 3,
-          "title": "费城半导体指数涨5.7%，创11月3日以来最高，成分股全线上涨",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "美光涨11.89%报811.30美元，戴尔涨11.75%报373.68美元，AMD涨7.32%报552.90美元"
+          "title": "AMD涨5.86%报585.30美元，博通涨5.54%报364.36美元，阿里斯塔涨5.06%",
+          "href": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324",
+          "note": "路透称半导体指数仅跌0.5%，英伟达跌幅部分被竞争对手上涨对冲"
         },
         {
           "rank": 4,
-          "title": "英伟达收涨2.87%报173.73美元，结束连跌，但Baird下调至中性",
-          "href": "https://www.cnbc.com/2026/11/11/nvidia-baird-downgrade-ceo-ai-capex.html",
-          "note": "目标价由500美元降至200美元；前两日公司市值约蒸发4300亿美元"
+          "title": "罗素2000跌1.7%报2799.06，明显弱于大盘",
+          "href": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-thursday-11-12-2026/",
+          "note": "美联社：本周迄今罗素仍涨1.6%；纽交所下跌2225只、上涨644只"
         },
         {
           "rank": 5,
-          "title": "微软连跌第二日，收跌2.26%报521.13美元",
-          "href": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
-          "note": "亚马逊跌1.74%报266.17美元；市场继续消化Anthropic办公套件对Office的竞争"
+          "title": "科迪华暴跌24.30%报9.19美元，为标普500跌幅居首",
+          "href": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324",
+          "note": "路透：公司下调全年调整后核心利润指引至11亿–11.25亿美元，并警告巴西渠道库存将拖累约1亿美元"
         },
         {
           "rank": 6,
-          "title": "Nebius涨15.44%，Applied Digital涨7.37%，IREN涨5.63%",
-          "href": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "note": "新云厂商随CoreWeave业绩同步反弹"
+          "title": "CoreWeave跌6.86%报56.60美元，Nebius跌16.84%，超微电脑跌11.30%",
+          "href": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-036-5023324",
+          "note": "AI云与服务器股回吐周三涨幅；全球支付跌12.01%报88.19美元"
         },
         {
           "rank": 7,
-          "title": "Costco宣布每股30美元特别股息并再授权至多40亿美元回购，股价涨约2%",
-          "href": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Declares-30-Special-Cash-Dividend-and-Reauthorizes-Stock-Repurchase-Program/default.aspx",
-          "note": "特别股息总额约133亿美元，12月4日派发，股权登记日11月24日；公司于11月10日宣布"
+          "title": "阿里巴巴美股跌7.1%，腾讯早盘跌2.6%",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "路透称，使用英伟达芯片的中资科技股同步承压"
         },
         {
           "rank": 8,
-          "title": "美元指数上涨0.66%，纽约尾市收于102.908",
-          "href": "https://www.cnfin.com/hs-lb/detail/20261112/4494312_1.html",
-          "note": "欧元兑美元跌至1.1091，美元兑日元升至159.86"
+          "title": "10年期美债收益率升11.58个基点至5.105%，盘中触及5.1169%",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "为10月21日以来最高；2年期升13.96个基点至4.867%，为10月14日以来最高"
         },
         {
           "rank": 9,
-          "title": "标普信息科技板块涨2.7%，为11个大类中表现最佳",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "近四个交易日中有三个交易日上涨；CoreWeave业绩缓解AI开支担忧"
+          "title": "美元指数上涨0.3%报103.18，续创19个月新高",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "欧元兑美元跌0.32%报1.1053，美元兑日元升至159.85"
         },
         {
           "rank": 10,
-          "title": "CME FedWatch：12月至少加息25bp已完全定价，加息50bp概率约10.4%",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "美债市场因退伍军人节休市，当日无新的国债收益率结算"
+          "title": "美国至11月7日当周初请失业金人数升至20万，高于预期19.5万",
+          "href": "https://www.cnbctv18.com/world/us-jobless-claims-rise-to-200000-remain-near-multi-decade-lows-20032827.htm",
+          "note": "较前周增加9000人；续请人数降至169.7万，初请仍处多年低位附近"
         }
       ]
     },
@@ -77,63 +77,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "CoreWeave三季度营收36.6亿美元同比增168%，股价大涨24.71%",
-          "href": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "note": "全年营收指引上调至130–133亿美元；公司称将在2028年上半年实现调整后盈利"
+          "title": "英伟达宣布黄仁勋立即辞去总裁、首席执行官及董事职务",
+          "href": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "note": "董事会已启动永久CEO搜寻，将同时考虑内部与外部候选人"
         },
         {
           "rank": 2,
-          "title": "CoreWeave首席执行官：2027年剩余产能已超订约10倍，需求“依然压倒性”",
-          "href": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "note": "称将更多依赖以客户合同为抵押的资产级贷款，并预计新融资利率约7%–7.5%"
+          "title": "CFO科莱特·克雷斯出任临时CEO，哈维·琼斯出任董事会首任主席",
+          "href": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "note": "克雷斯自2013年起担任CFO，过渡期将继续兼任财务负责人；琼斯1993年起担任董事"
         },
         {
           "rank": 3,
-          "title": "英伟达收涨2.87%，Baird仍因黄仁勋事件与资本开支不确定性下调至中性",
-          "href": "https://www.cnbc.com/2026/11/11/nvidia-baird-downgrade-ceo-ai-capex.html",
-          "note": "目标价由500美元降至200美元，并预计或出现对华H200出口新禁令"
+          "title": "英伟达收跌4.34%报166.19美元，盘中一度跌约14%",
+          "href": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-thursday-11-12-2026/",
+          "note": "路透称其估值约相当于12倍预期盈利，为2012年以来最低"
         },
         {
           "rank": 4,
-          "title": "费城半导体指数涨5.7%，美光涨11.89%，AMD涨7.32%",
-          "href": "https://www.aa.com.tr/en/economy/us-stock-markets-close-midweek-higher/4121530",
-          "note": "博通涨约4%，迈威尔涨约9.3%；成分股全线上涨"
+          "title": "路透：辞职发生在黄仁勋与一名被美方怀疑从事间谍活动的中国商界人士的婚外关系曝光之后",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "美联社亦作类似报道；公司将于11月17日如期公布2027财年第三季度业绩"
         },
         {
           "rank": 5,
-          "title": "英伟达在CoRL推出开源机器人模型GR00T 2，五次演示后任务成功率达95%",
-          "href": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-          "note": "单次演示平均成功率约71%；同期发布Isaac Lab 3.0与新工业基准。官方博文署期11月9日"
+          "title": "AMD涨5.86%，博通涨5.54%，半导体指数仅跌0.5%",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "市场以竞争对手上涨部分对冲英伟达下跌"
         },
         {
           "rank": 6,
-          "title": "Nebius涨15.44%，Applied Digital涨7.37%，IREN涨5.63%",
-          "href": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
-          "note": "新云与AI基建股随CoreWeave业绩同步反弹"
+          "title": "CoreWeave跌6.86%报56.60美元，Nebius跌16.84%，超微电脑跌11.30%",
+          "href": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+          "note": "TechCrunch称英伟达对CoreWeave、Nebius等新云有直接投资，并签有大量云算力采购承诺"
         },
         {
           "rank": 7,
-          "title": "微软再跌2.26%，市场继续消化Anthropic办公套件竞争",
-          "href": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html",
-          "note": "Claude Sheets、Whiteboards与Data被视作对Office构成直接竞争"
+          "title": "商务部长卢特尼克因对华芯片出口监管受到国会批评，去留受到质疑",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "路透将此与黄仁勋事件及特朗普政府对华芯片销售监管一并报道"
         },
         {
           "rank": 8,
-          "title": "X热议：Anthropic路演称Mythos在约三天内将Claude适配到AMD硬件",
-          "href": "https://x.com/i/trending/2120332926743425319",
-          "note": "计算负责人Tom Brown称可将原本数月的移植周期大幅压缩；细节来自X讨论摘要，待公司文件核对"
+          "title": "阿里巴巴美股跌7.1%，腾讯早盘跌2.6%",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "使用英伟达芯片训练模型的中资科技股同步下挫"
         },
         {
           "rank": 9,
-          "title": "X热议：CoreWeave业绩提振AI交易，标普重回7600上方",
-          "href": "https://x.com/i/trending/2120262503016091706",
-          "note": "标普收报7619.38点，涨1.31%；讨论焦点是AI基建需求是否重新获确认"
+          "title": "临时CEO克雷斯：将继续推进加速计算与AI，客户承诺与产品路线图料不受打断",
+          "href": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "note": "董事会主席琼斯称对公司运营、客户承诺和产品路线图的延续有充分信心"
         },
         {
           "rank": 10,
-          "title": "摩根士丹利将英伟达移出“首选股”名单，但仍维持增持评级",
-          "href": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today",
-          "note": "进入周三时英伟达本周已跌约9.5%；多数分析师仍给予买入评级"
+          "title": "英伟达将于11月17日公布2027财年第三季度业绩",
+          "href": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "note": "约太平洋时间13:20发布，14:00召开电话会，这将是新管理层的首份财报"
         }
       ]
     },
@@ -144,63 +144,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "A股三大指数收涨：沪指涨0.46%报3680.64，深成指涨1.32%报11389.74，创业板涨3.11%报2572.07",
-          "href": "https://www.cnfin.com/yw-lb/detail/20261111/4494072_1.html",
-          "note": "新华社同步确认沪指与深成指收盘点位；今日A股尚未开盘"
+          "title": "A股三大指数收跌：沪指跌0.67%报3655.83，深成指跌1.68%报11197.98，创业板跌2.44%报2509.43",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+          "note": "三大指数冲高回落，创业板盘中一度涨近2%；今日A股尚未开盘"
         },
         {
           "rank": 2,
-          "title": "沪深京三市成交约1.69万亿元，较上一交易日放量约1719亿元",
-          "href": "https://www.cnfin.com/yw-lb/detail/20261111/4494072_1.html",
-          "note": "全市场上涨股票超过3500只，逾80只涨停"
+          "title": "沪深两市成交约1.93万亿元，较上一交易日放量2558亿元",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+          "note": "沪市成交8795亿元，深市10525亿元；东方财富：北向资金成交2497.56亿元，占两市成交额12.93%"
         },
         {
           "rank": 3,
-          "title": "算力硬件午后爆发，通信行业涨7.99%，CPO与PCB方向领涨",
-          "href": "https://www.cnfin.com/yw-lb/detail/20261111/4494072_1.html",
-          "note": "奥士康、源杰科技涨停；申万电子涨3.56%，机械设备涨2.04%"
+          "title": "燃气股逆势走强，东方环宇4连板，洪通燃气涨停",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+          "note": "消费股亦活跃，好当家、广百股份、惠发食品等涨停"
         },
         {
           "rank": 4,
-          "title": "机器人概念反复活跃，福莱新材、锋龙股份、光洋股份、宁波东力涨停",
-          "href": "https://www.cnfin.com/yw-lb/detail/20261111/4494072_1.html",
-          "note": "AI漫剧概念亦活跃，上海电影创历史新高"
+          "title": "算力芯片盘中拉升：燧原科技涨超13%创上市新高，寒武纪涨超8%，天普股份3连板",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+          "note": "贵金属概念走弱，山金国际、赤峰黄金、西部黄金、山东黄金等下挫"
         },
         {
           "rank": 5,
-          "title": "科创50涨2.8%，北证50涨2.3%；食品饮料跌2.22%",
-          "href": "https://news.10jqka.com.cn/field/20261111/681721547.shtml",
-          "note": "白酒调整，皇台酒业、古井贡酒、今世缘、金徽酒等下挫；农林牧渔跌0.88%"
+          "title": "AI漫剧概念下挫，上海电影跌停，华策影视跌超10%",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+          "note": "游戏、影视院线、云游戏、AI视频、人形机器人等板块跌幅居前"
         },
         {
           "rank": 6,
-          "title": "北向资金成交2241.81亿元，占两市成交额约13.37%",
-          "href": "https://finance.eastmoney.com/a/202611113928486625.html",
-          "note": "此为成交额而非净流入；深股通前三为中际旭创、新易盛、宁德时代"
+          "title": "全市场37股涨停，日出东方5连板",
+          "href": "https://finance.eastmoney.com/a/202611123929629961.html",
+          "note": "另有41只个股盘中触及涨停，封板率47.44%"
         },
         {
           "rank": 7,
-          "title": "港股收跌：恒指跌0.98%报24315.92，恒生科技跌1.41%报4027.06",
-          "href": "https://www.news.cn/gangao/20261111/b06f7b661a7c4a73bf9f22673343a1a2/c.html",
-          "note": "国企指数跌1.14%报8171.45；腾讯跌1.96%报409.6港元；主板成交1807.49亿港元"
+          "title": "科创50逆势收涨0.7%，科创综指跌0.35%报1559.14",
+          "href": "https://www.nbd.com.cn/articles/2026-11-12/4646098.html",
+          "note": "科创50ETF易方达连续5日净流入，合计超30亿元；科创综指点位来自新华财经"
         },
         {
           "rank": 8,
-          "title": "中汽协：10月新能源汽车销量194万辆，同比增长13.1%，占新车销量64.3%",
-          "href": "https://www.cnfin.com/yw-lb/detail/20261111/4494072_1.html",
-          "note": "产量201.7万辆，同比增13.8%；当月汽车整体产销306.3万辆和301.6万辆"
+          "title": "港股收跌：恒指跌1.26%报24008.55，恒生科技跌2.36%报3931.93",
+          "href": "https://www.news.cn/gangao/20261112/18e05a67b1b54957a38cb6f85d98cd05/c.html",
+          "note": "国企指数跌1.4%报8056.76；腾讯跌2.64%报398.8港元；主板成交2026.52亿港元"
         },
         {
           "rank": 9,
-          "title": "通信ETF领涨，华夏通信ETF涨6.89%，酒ETF鹏华跌2.91%",
-          "href": "https://news.10jqka.com.cn/field/20261111/681721547.shtml",
-          "note": "国泰通信ETF涨8.00%；创业板ETF易方达成交113.86亿元居前"
+          "title": "发改委：11月12日24时起汽、柴油每吨分别下调645元、625元",
+          "href": "https://www.news.cn/politics/20261112/8d5dcf7104b94b44bdbb2c8cc8680f33/c.html",
+          "note": "因上次调价以来国际油价震荡回落；调价依据来自国家发展改革委网站"
         },
         {
           "rank": 10,
-          "title": "今日A股尚未开盘：隔夜美股AI与半导体反弹，港股前一日收跌",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "费城半导体指数涨5.7%，或影响开盘风险偏好；布伦特则自低位反弹"
+          "title": "证监会：社保、年金、保险等中长期资金年初以来净买入A股超过6000亿元",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+          "note": "在上交所国际投资者大会上表示，将持续深化投融资综合改革、强化对科技创新的金融支撑"
         }
       ]
     },
@@ -211,63 +211,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "芝加哥联储古尔斯比称10月CPI“近乎令人不安”，通胀问题“必须应对”",
-          "href": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-          "note": "他未明确表态12月是否加息，称不愿把手脚绑在下一次会议上"
+          "title": "芝加哥联储古尔斯比：通胀处于“危险时刻”，需保持清醒",
+          "href": "https://finance.yahoo.com/economy/policy/article/chicago-feds-austan-goolsbee-were-at-a-precarious-moment-with-inflation-183700943.html",
+          "note": "他在Yahoo Finance Invest上称，此前寄望通胀随关税消化和油价回落明显回落，但“并未如愿”"
         },
         {
           "rank": 2,
-          "title": "CME FedWatch：12月至少加息25bp已完全定价，加息50bp概率约10.4%",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "收盘口径；盘中亦有报道称50bp概率一度约15%"
+          "title": "古尔斯比：若数据中心建设溢出AI与科技领域，可能带来传统需求过热",
+          "href": "https://finance.yahoo.com/economy/policy/article/chicago-feds-austan-goolsbee-were-at-a-precarious-moment-with-inflation-183700943.html",
+          "note": "他称目前相关扩张大体仍留在AI、科技及邻近行业；芝加哥联储确认其于11月12日参加该场问答"
         },
         {
           "rank": 3,
-          "title": "费城联储鲍尔森倾向“进一步渐进收紧”，称不必过快行动",
-          "href": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-          "note": "周二表态；她是今年FOMC投票委员，称具体路径仍取决于后续数据"
+          "title": "联邦基金期货定价12月加息约29个基点，显示加息50bp的概率仍偏低",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "路透收盘口径；美债收益率同步走高，市场继续交易12月加息路径"
         },
         {
           "rank": 4,
-          "title": "美债市场因退伍军人节休市，当日无新的国债收益率结算",
-          "href": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
-          "note": "股票市场照常开市；周二10年期美债收益率已升至约5%"
+          "title": "10年期美债收益率升11.58个基点至5.105%，2年期升13.96个基点至4.867%",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "10年期盘中触及5.1169%，为10月21日以来最高；2年期为10月14日以来最高"
         },
         {
           "rank": 5,
-          "title": "美元指数上涨0.66%，纽约尾市收于102.908",
-          "href": "https://www.cnfin.com/hs-lb/detail/20261112/4494312_1.html",
-          "note": "欧元兑美元跌至1.1091，美元兑日元升至159.86"
+          "title": "美元指数上涨0.3%报103.18，续创19个月新高",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "欧元兑美元跌0.32%报1.1053，美元兑日元升至159.85"
         },
         {
           "rank": 6,
-          "title": "周五将公布美国10月PPI，为12月8–9日议息前关键数据",
-          "href": "https://edgeconsultancykw.com/commodities-wrap-11-november-2026/",
-          "note": "公布时间为格林尼治13:30，即北京时间21:30；周四巴尔还将谈及人工智能与不平等"
+          "title": "美国至11月7日当周初请失业金人数升至20万，高于预期19.5万",
+          "href": "https://qz.com/us-weekly-jobless-claims-200000-above-forecasts-111226",
+          "note": "前值上修至19.1万；续请人数降至169.7万，四周均值报19.525万"
         },
         {
           "rank": 7,
-          "title": "中国央行开展1870亿元隔夜逆回购，公开市场净回笼30亿元",
-          "href": "https://www.cnfin.com/zs-lb/detail/20261111/4494104_1.html",
-          "note": "操作利率1.25%，全额满足一级交易商需求；当日1900亿元逆回购到期"
+          "title": "中国央行开展3840亿元隔夜逆回购，公开市场净投放1970亿元",
+          "href": "https://www.cnfin.com/zs-lb/detail/20261112/4494664_1.html",
+          "note": "操作利率1.25%，全额满足一级交易商需求；当日1870亿元逆回购到期"
         },
         {
           "rank": 8,
-          "title": "中国10年期国债收益率上行0.75个基点至1.591%，国债期货收跌",
-          "href": "https://www.cnfin.com/zs-lb/detail/20261111/4494104_1.html",
-          "note": "30年期主力跌0.43%报117.92；30年期国债收益率上行0.85个基点至2.039%"
+          "title": "中国10年期国债收益率下行0.1个基点至1.588%，30年期国债期货主力跌0.08%",
+          "href": "https://www.cnfin.com/zs-lb/detail/20261112/4494664_1.html",
+          "note": "银行间主要利率债收益率多数上行1—2个基点；10年期主力期货涨0.05%报110.115"
         },
         {
           "rank": 9,
-          "title": "日债收益率显著上行，10年期与5年期均升10.3个基点",
-          "href": "https://www.cnfin.com/zs-lb/detail/20261111/4494104_1.html",
-          "note": "分别报2.791%与2.198%"
+          "title": "日债10年期收益率上行1.6个基点至2.807%",
+          "href": "https://www.cnfin.com/zs-lb/detail/20261112/4494664_1.html",
+          "note": "5年期上行0.5个基点至2.203%"
         },
         {
           "rank": 10,
-          "title": "银行间短端资金利率上行，隔夜Shibor报1.332%",
-          "href": "https://www.cnfin.com/zs-lb/detail/20261111/4494104_1.html",
-          "note": "隔夜上行0.87个基点，7天期上行3.56个基点至1.39%"
+          "title": "周五将公布美国10月PPI，为12月议息前关键数据",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-12-november-2026/",
+          "note": "公布时间为格林尼治13:30，即北京时间21:30"
         }
       ]
     },
@@ -278,63 +278,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "布伦特收涨1.39%报92.76美元，WTI涨0.57%报86.53美元",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "路透：自前一交易日触及约两个月低点后反弹；布伦特涨1.27美元，WTI涨49美分"
+          "title": "布伦特结算涨3.30%报95.82美元，WTI涨2.55%报88.74美元",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "路透：布伦特涨3.06美元，WTI涨2.21美元；特朗普称不再需要与伊朗达成协议后油价上涨"
         },
         {
           "rank": 2,
-          "title": "伊朗安全负责人称浓缩核材料不会运离本国，油价因停火预期降温上涨",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "美方坚持核问题须纳入任何初步谈判；UBS称油价受“即将降温预期消退”支撑"
+          "title": "特朗普称“不需要与伊朗达成协议”“我们已经控制了他们的海峡”，油价随之上涨",
+          "href": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027",
+          "note": "他要求万斯转向关注民主党执政城市的治安与腐败，而非继续对伊谈判"
         },
         {
           "rank": 3,
-          "title": "霍尔木兹风险仍在：10月37艘船遇袭，为开战以来单月最高",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "数据来自华盛顿近东政策研究所；本月迄今布伦特、WTI仍分别累跌约21%和17%"
+          "title": "EIA：截至11月6日当周美国商业原油库存增加470万桶，至4.144亿桶",
+          "href": "https://www.oilandgas360.com/crude-inventories-11-6-2/",
+          "note": "因退伍军人节推迟至周四公布；当周商业石油库存合计增加1140万桶，仍较五年同期均值低4%"
         },
         {
           "rank": 4,
-          "title": "COMEX 12月期金结算4000.50美元，跌0.74%，为当日唯一收跌金属",
-          "href": "https://edgeconsultancykw.com/commodities-wrap-11-november-2026/",
-          "note": "加息定价升温与美元走强继续压制金价"
+          "title": "COMEX 12月期金结算3885.30美元，跌2.88%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-12-november-2026/",
+          "note": "路透：现货黄金跌2.77%报3877.04美元；AA称创2025年10月以来最低"
         },
         {
           "rank": 5,
-          "title": "白银结算52.002美元（+1.52%），COMEX铜回升至6.2900美元/磅（+0.89%）",
-          "href": "https://edgeconsultancykw.com/commodities-wrap-11-november-2026/",
-          "note": "钯金涨2.48%报1046.10美元，领涨金属；铂金几乎持平报1538.50美元"
+          "title": "白银结算50.065美元，跌3.72%；钯金跌5.22%报991.50美元，领跌金属",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-12-november-2026/",
+          "note": "铂金跌1.18%报1520.40美元；周四追踪的金属合约全部收跌"
         },
         {
           "rank": 6,
-          "title": "天然气跌2.46%报3.215美元，为追踪能源合约跌幅居首",
-          "href": "https://edgeconsultancykw.com/commodities-wrap-11-november-2026/",
-          "note": "取暖油涨1.95%报4.2113美元/加仑；汽油几乎持平，跌0.05%"
+          "title": "COMEX铜结算6.1960美元/磅，跌1.49%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-12-november-2026/",
+          "note": "加息定价升温与美元走强继续压制工业金属"
         },
         {
           "rank": 7,
-          "title": "可可涨3.59%报5046美元/吨，领涨农产品",
-          "href": "https://edgeconsultancykw.com/commodities-wrap-11-november-2026/",
-          "note": "食糖涨2.16%；小麦涨1.14%，玉米跌0.22%"
+          "title": "天然气涨3.89%报3.340美元，领涨能源合约",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-12-november-2026/",
+          "note": "汽油涨2.43%，取暖油涨1.79%；AA称欧洲天然气涨9.79%报95.14欧元/兆瓦时"
         },
         {
           "rank": 8,
-          "title": "国内铁矿石主力收683.5元/吨，跌0.36%",
-          "href": "https://goodsfu.10jqka.com.cn/20261111/c681700228.shtml",
-          "note": "机构称发运与铁水均偏弱，但矿价仍有支撑；11月6日港口库存增加244.43万吨"
+          "title": "国内铁矿石主力收671元/吨，跌9元；沪铜收104950元/吨，跌90元",
+          "href": "https://www.100ppi.com/data/detail-20261112-1261544.html",
+          "note": "螺纹钢收3024元/吨，跌8元；焦煤收1386元/吨，跌19.5元"
         },
         {
           "rank": 9,
-          "title": "API称美国原油库存增加900万桶，官方EIA数据因假期延至周四公布",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "路透引述市场消息；退伍军人节使官方库存报告推迟一天"
+          "title": "国内黄金主力跌10.04元报852.5元/克，INE原油涨11.8元报599.9元/桶",
+          "href": "https://www.100ppi.com/data/detail-20261112-1261544.html",
+          "note": "与外盘金跌油涨的方向一致"
         },
         {
           "rank": 10,
-          "title": "乌军称无人机袭击俄波罗的海乌斯特-卢加港，部分油罐起火",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "行业人士称，自10月下旬以来俄炼油产能已下降约30%"
+          "title": "咖啡涨3.74%报274.55美分/磅，领涨农产品；可可涨3.13%报5204美元/吨",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-12-november-2026/",
+          "note": "小麦跌2.44%，为追踪农产品中跌幅居首；玉米跌1.23%"
         }
       ]
     },
@@ -345,63 +345,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "阿布扎比两日和谈结束：俄乌原则上同意大规模换俘，但无重大突破",
-          "href": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-          "note": "这是九个月来首次三方会谈；库什纳称将于次日敲定换俘规模"
+          "title": "库什纳与维特科夫在莫斯科会见普京，双方同意继续俄乌和谈",
+          "href": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+          "note": "这是阿布扎比两日三方会谈后的跟进；两人随后将赴都柏林会见泽连斯基"
         },
         {
           "rank": 2,
-          "title": "库什纳：将于周四赴莫斯科见普京，再赴都柏林见泽连斯基",
-          "href": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-          "note": "维特科夫同行；美方希望推动欧方参与后续谈判"
+          "title": "普京拒绝软化领土要求，坚持完全控制其宣称已吞并的四个乌克兰地区",
+          "href": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+          "note": "并称在乌部署外国维和部队是“战争的延续”，将打击任何派驻的外国军队"
         },
         {
           "rank": 3,
-          "title": "领土归属与战后安全安排仍是主要分歧，库什纳称双方目前“没有信任”",
-          "href": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-          "note": "俄方代表团由梅金斯基率领，乌方由乌梅罗夫率领"
+          "title": "维特科夫：下一轮谈判将有欧洲代表参加",
+          "href": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+          "note": "普京称一旦欧方指定获授权的首席谈判代表，即可开展四方对话"
         },
         {
           "rank": 4,
-          "title": "莫斯科不愿欧方直接参与谈判；佩斯科夫称欧方表态“看不出促和意愿”",
-          "href": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-          "note": "乌方代表团预计随后与在阿布扎比的欧洲、欧盟和北约代表会晤"
+          "title": "泽连斯基将在都柏林会见美方特使，并称年底前仍有达成协议的“机会窗口”",
+          "href": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+          "note": "乌方拒绝以出让被占领土换取和平；欧洲政治共同体峰会同期在都柏林举行"
         },
         {
           "rank": 5,
-          "title": "伊朗安全负责人礼萨伊：浓缩核材料“一粒都不会”运离本国",
-          "href": "https://www.al-monitor.com/originals/2026/11/iran-will-not-allow-enriched-nuclear-material-leave-country-security-chief-says",
-          "note": "路透：他称已告知俄方将自行使用这些材料，用于核动力船舶与潜艇设计"
+          "title": "特朗普称美国“不需要与伊朗达成协议”，“我们已经控制了他们的海峡”",
+          "href": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027",
+          "note": "他要求万斯停止对伊外交接触，转向关注民主党执政城市的治安与腐败"
         },
         {
           "rank": 6,
-          "title": "礼萨伊称目前未与美方谈判，并警告若再遭打击将袭击更远美军基地",
-          "href": "https://www.al-monitor.com/originals/2026/11/iran-will-not-allow-enriched-nuclear-material-leave-country-security-chief-says",
-          "note": "包括被用于对伊打击的欧洲基地；华盛顿坚持核问题须纳入任何初步谈判"
+          "title": "油价因停火预期降温而上涨，布伦特结算涨3.30%报95.82美元",
+          "href": "https://ca.marketscreener.com/news/wall-street-ends-lower-as-nvidia-ceo-resigns-us-yields-up-ce785ed9d981f22c",
+          "note": "WTI涨2.55%报88.74美元；路透亦提及沙特能源设施遇袭升级"
         },
         {
           "rank": 7,
-          "title": "油价因停火预期降温而反弹，布伦特收涨1.39%报92.76美元",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "分析指即使达成政治协议，扫雷、保险与船东意愿仍会推迟航运恢复"
+          "title": "泽连斯基指责Starlink前线限速损害乌军防空",
+          "href": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+          "note": "称五角大楼资助的Starshield在前线及俄占区被限速至100英里/小时，使拦截喷气无人机更加困难"
         },
         {
           "rank": 8,
-          "title": "华盛顿近东政策研究所：10月霍尔木兹遇袭船舶37艘，为开战以来最高",
-          "href": "https://www.investing.com/news/commodities-news/oil-rises-from-twomonth-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes-5017512",
-          "note": "伊方还曾攻击阿曼迪达马尔岛上的船舶导航系统"
+          "title": "俄军夜间以弹道导弹和无人机袭击乌克兰，基辅一栋居民楼遇袭造成1死5伤",
+          "href": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+          "note": "乌方称123架无人机中89架被击落；能源设施遇袭导致9个州停电"
         },
         {
           "rank": 9,
-          "title": "乌军称无人机袭击俄乌斯特-卢加港并引发火灾，该港为重要原油出口设施",
-          "href": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-          "note": "当地称约150架无人机在圣彼得堡周边被击落，三名工人受伤"
+          "title": "乌军称自10月30日以来已打击俄五座最大炼油厂",
+          "href": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+          "note": "包括鄂木斯克、基里希、梁赞、下诺夫哥罗德和雅罗斯拉夫尔"
         },
         {
           "rank": 10,
-          "title": "俄军袭击敖德萨州一处市场，当地称3死11伤",
-          "href": "https://www.nbcnews.com/world/middle-east/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-rcna608714",
-          "note": "夜间还袭击扎波罗热与哈尔科夫，乌方称7名平民受伤"
+          "title": "法国官员：欧盟周一将对俄追加制裁，涉及150个实体和50家银行",
+          "href": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+          "note": "法国欧洲事务部长哈达德称，拟列入名单的实体大部分由法方提议"
         }
       ]
     },
@@ -412,63 +412,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "12月FOMC：加息25bp约85.5%，维持不变约3.0%，加息50bp约10.6%",
+          "title": "12月FOMC：加息25bp约87.5%，维持不变约1.4%，加息50bp约10.3%",
           "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-          "note": "事件总成交约2610万美元，近24小时约127万美元；降息两项合计不足1%"
+          "note": "事件总成交约2925万美元，近24小时约315万美元；加息25bp概率较前一日约85.5%再升"
         },
         {
           "rank": 2,
-          "title": "“加息25bp”合约成交约696万美元，仍为该事件最深合约",
+          "title": "“加息25bp”合约成交约795万美元，仍为该事件最深合约",
           "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-          "note": "隐含概率与前一日大致持平；维持不变合约成交约669万美元"
+          "note": "近24小时成交约99万美元；维持不变合约成交约725万美元，隐含概率已降至约1.4%"
         },
         {
           "rank": 3,
-          "title": "“加息50bp及以上”概率约10.6%，近24小时成交约66万美元，为最活跃档",
+          "title": "“加息50bp及以上”概率约10.3%，近24小时成交约69万美元",
           "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-          "note": "与CME收盘口径约10.4%大致同向，尾部风险仍在但未再显著抬升"
+          "note": "与路透所称联邦基金期货定价12月加息约29个基点、50bp概率偏低同向"
         },
         {
           "rank": 4,
-          "title": "1月FOMC：再加息25bp约53.5%，维持不变约45.5%",
+          "title": "1月FOMC：再加息25bp约62.5%，维持不变约36.5%",
           "href": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
-          "note": "事件成交约275万美元，近24小时约77万美元；已由此前近乎对半转向略偏再加一次"
+          "note": "事件成交约307万美元，近24小时约32万美元；较前一日约53.5%/45.5%明显转向再加一次"
         },
         {
           "rank": 5,
-          "title": "1月降息合计不足1%，再加息50bp仅约0.7%",
+          "title": "1月降息合计不足1%，再加息50bp约0.8%",
           "href": "https://polymarket.com/event/fed-decision-in-january-20260729233815502",
-          "note": "交易员仍把1月收敛为“再加一次”与“按兵不动”的二元博弈"
+          "note": "交易员仍把1月收敛为“再加一次”与“按兵不动”的二元博弈，但已明显偏向前者"
         },
         {
           "rank": 6,
-          "title": "美伊“14日有效停火”：11月15日前约53.5%，11月30日前约68.5%",
+          "title": "美伊“14日有效停火”：11月15日前约43%，11月30日前约63.5%",
           "href": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
-          "note": "年底前约82.5%；事件总成交约82.5万美元，近24小时约15.4万美元"
+          "note": "较前一日约53.5%、68.5%明显回落；事件总成交约120万美元，近24小时约35.7万美元"
         },
         {
           "rank": 7,
-          "title": "11月22日前停火约62.5%，较前一日约59.5%继续上修",
+          "title": "11月22日前停火约52%，年底前约79.5%，均较前一日回落",
           "href": "https://polymarket.com/event/us-x-iran-effective-ceasefire-begins-by-2-week-pause-20261108",
-          "note": "近端已过半，但伊朗拒绝运出浓缩铀后，定价并未显著回落"
+          "note": "前一日这两档分别约62.5%和82.5%；回落与特朗普“不再需要协议”表态同向"
         },
         {
           "rank": 8,
-          "title": "比特币已触及74000美元（该档已结算为Yes）；升至76000约34.5%",
+          "title": "比特币已触及74000美元并回落至72000美元（这两档已结算为Yes）；升至76000约6.5%",
           "href": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-9-15-2026",
-          "note": "事件成交约54.5万美元，近24小时约28.4万美元；升至78000约10.5%，80000约3.5%"
+          "note": "事件成交约94万美元，近24小时约40万美元；升至78000约1.7%"
         },
         {
           "rank": 9,
-          "title": "同期比特币回落至72000约48.5%，触及70000约17.5%",
+          "title": "同期比特币回落至70000约48.5%，触及68000约16%",
           "href": "https://polymarket.com/event/what-price-will-bitcoin-hit-november-9-15-2026",
-          "note": "下行概率较前一日回落；周三晚间附近报价约74440美元"
+          "note": "触及70000的概率较前一日约17.5%显著抬升；周四晚间附近报价约71503美元，跌4.03%"
         },
         {
           "rank": 10,
-          "title": "宏观盘含义：12月几乎锁定加25，争论仍在“会不会加50”；1月已略偏再加一次",
+          "title": "宏观盘含义：12月几乎锁定加25，1月再加一次已升至约六成；伊停火近端赔率明显回落",
           "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
-          "note": "Polymarket 12月50bp约10.6%，与CME约10.4%接近"
+          "note": "Polymarket 12月50bp约10.3%，与期货定价的约29个基点加息幅度大致匹配"
         }
       ]
     }
