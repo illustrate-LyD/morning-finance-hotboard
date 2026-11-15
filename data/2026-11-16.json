@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-16T07:08:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "本周焦点：英伟达周二盘后交出黄仁勋去职后首份财报，临时CEO克雷斯主持电话会",
+          "href": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+          "note": "上季指引营收1080亿美元±2%、毛利率74%；电话会周二17:00 ET"
+        },
+        {
+          "rank": 2,
+          "title": "周五收盘：道指涨0.10%报52347.55，标普跌0.40%报7561.67，纳指跌0.91%报25136.27",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "全周道指涨2.1%、标普涨2.5%、纳指涨2.3%，为8月初以来最佳一周；美股期货周日18:00 ET重开"
+        },
+        {
+          "rank": 3,
+          "title": "英伟达周五再跌约2%，市值跌破4万亿美元，为2025年7月以来首次",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "全周跌约12.8%–13%，为2025年4月以来最差一周，单周市值蒸发约5730亿美元创纪录"
+        },
+        {
+          "rank": 4,
+          "title": "费城半导体周五跌约3.4%；AMD全周涨19%、博通涨18%",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "资金关注产能与份额或向其他芯片商再分配；费半拖累纳指"
+        },
+        {
+          "rank": 5,
+          "title": "苹果周五涨0.4%、盘中创纪录，市值升至约5.2万亿美元",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "部分资金从AI基建交易转向价值与消费科技"
+        },
+        {
+          "rank": 6,
+          "title": "高盛预计未来12个月标普或达8700点，约14%上行空间",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "Oppenheimer团队称超大规模云厂商估值已处历史偏便宜区间；并看好美国与日本"
+        },
+        {
+          "rank": 7,
+          "title": "美债上周为2025年4月“解放日”以来最差一周，10年期收益率盘中触及5.17%",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "10年期收于约5.14%–5.15%，全周升约28个基点；2年期升约34–35个基点至4.85%；30年期约5.47%"
+        },
+        {
+          "rank": 8,
+          "title": "美元指数周五收103.41，约19个月高位；日元徘徊160关口",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "美元指数全周涨1.1%；日本财务省与外汇官警告可能干预"
+        },
+        {
+          "rank": 9,
+          "title": "本周财报与数据密集：周一百度、泰森；周二零售销售、家得宝、迪士尼、英伟达；周四沃尔玛与阿里",
+          "href": "https://mlq.ai/news/week-ahead-nvidia-results-anthropics-ipo-pricing-and-debut-trump-xi-putin-and-walmart-nov-16-20/",
+          "note": "周三还有FOMC纪要、塔吉特与劳氏；Anthropic拟周四上市"
+        },
+        {
+          "rank": 10,
+          "title": "比特币周末一度跌至约62022美元，为7月中旬以来最低，新加坡午间反弹至约64800美元",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "跌破7万美元后继续下探；现货比特币ETF持续净流出，杠杆多头遭清算"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "本周AI交易面临双重考验：英伟达周二财报，Anthropic周三定价、周四以ANT登陆纳斯达克",
+          "href": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+          "note": "被视为近年来最重要科技IPO，也是生成式AI公司首次纯正上市"
+        },
+        {
+          "rank": 2,
+          "title": "Anthropic拟发行8.25亿股、定价区间70–78美元，估值约1.3万亿–1.45万亿美元",
+          "href": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+          "note": "IPO规模至多约644亿美元，另加约260亿美元私募；报道称认购约6倍，银行或考虑高于区间定价"
+        },
+        {
+          "rank": 3,
+          "title": "承销商拒接中国内地与香港机构订单，部分因美国国防贸易规则",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "英伟达、谷歌等拟在私募中各投约100亿美元，科技巨头合计约260亿美元"
+        },
+        {
+          "rank": 4,
+          "title": "Anthropic前九个月净亏1040亿美元，承诺开支约9000亿美元",
+          "href": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+          "note": "对亚马逊十年支出承诺至少1100亿美元；前九个月收入332亿美元，10月底年化营收约810亿美元"
+        },
+        {
+          "rank": 5,
+          "title": "财长贝森特称英伟达需要“重大领导层重整”，并指责商务部迟迟未将新加坡Megaspeed列入实体清单",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "参议院银行委员会主席蒂姆·斯科特已去信，要求黄仁勋与卢特尼克作证"
+        },
+        {
+          "rank": 6,
+          "title": "黄仁勋去职发酵为出口管制与国安争议，国会将就其与中国芯片流向举行听证",
+          "href": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+          "note": "黄仁勋、总法律顾问Teter与商务部长卢特尼克预计在未来一个月出席听证；部分黄仁勋支持者游说其回归"
+        },
+        {
+          "rank": 7,
+          "title": "港股AI模型股周五继续杀跌：Z.ai跌10%、MiniMax跌8.2%",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "两日分别跌约20%与15%；阿里与腾讯上周合计市值蒸发约750亿美元，市场担忧对华芯片管制收紧"
+        },
+        {
+          "rank": 8,
+          "title": "三星电子洽购美国数据中心冷却设备商Modine，估值约56亿美元",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "报道称交易或于未来数周敲定"
+        },
+        {
+          "rank": 9,
+          "title": "微软365全球中断后已恢复Outlook、Teams等服务",
+          "href": "https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a",
+          "note": "中断曾影响政府与交易柜台；微软周五仍小涨0.2%"
+        },
+        {
+          "rank": 10,
+          "title": "黑石支持的数据中心商QTS将私募债发行规模削减约60%至约3亿美元",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "因投资者对其给出的收益率兴趣不足，反映AI基建融资条件变差"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周五收盘：上证跌0.59%报3634.35点，深成指跌2.05%报10968.79点，创业板指跌3.32%报2426.08点",
+          "href": "https://caifuhao.eastmoney.com/news/20261113160636727818760",
+          "note": "科创综指跌2.74%；两市成交约1.67万亿元，上涨765只、下跌4748只"
+        },
+        {
+          "rank": 2,
+          "title": "上周上证约跌0.41%，沪深300跌约0.9%报4016点；创业板今年累跌约24.3%",
+          "href": "https://finance.sina.cn/tech/2026-11-16/detail-iniyvzvt2816314.d.html",
+          "note": "周一开盘前仍处磨底，成长板块受英伟达与纳指拖累"
+        },
+        {
+          "rank": 3,
+          "title": "恒指周五跌约1.55%报23638点，全周跌3.4%；恒生科技跌3.0%",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "盘前预估恒指开盘约23662点、微涨0.1%；日经预估开盘约60950点、跌0.3%"
+        },
+        {
+          "rank": 4,
+          "title": "港股AI股承压：Z.ai、MiniMax大跌，中际旭创与新易盛周五均跌超8%",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "寒武纪上周涨超20%，资金转向国产算力替代"
+        },
+        {
+          "rank": 5,
+          "title": "北向资金周五估算净流出约34亿元",
+          "href": "https://finance.eastmoney.com/a/202611133930762135.html",
+          "note": "此前一周曾净流入约86亿元；成交额约2301亿元，占两市约13.9%"
+        },
+        {
+          "rank": 6,
+          "title": "10月人民币贷款净减少1000亿元，为有记录以来首次10月收缩",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "社融增至1.15万亿元，仍不及预期，反映内需与地产信贷偏弱"
+        },
+        {
+          "rank": 7,
+          "title": "今日将公布10月工业增加值、社零、固投、房价与失业率等一揽子数据",
+          "href": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs",
+          "note": "若明显不及预期，或升温年底前进一步稳增长预期；周五还将公布LPR"
+        },
+        {
+          "rank": 8,
+          "title": "中美举行新贸易理事会首次视频会，讨论对等各减约300亿美元关税及农产品贸易",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "特朗普周四将在深圳APEC会见习近平，拟议约600亿美元对等减税方案尚未敲定"
+        },
+        {
+          "rank": 9,
+          "title": "香港三季度GDP同比增长5.2%、环比增长1.9%，出口与投资带动加速",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "高于二季度修订后的同比4.2%，并扭转二季度环比收缩"
+        },
+        {
+          "rank": 10,
+          "title": "摩根士丹利A股情绪指标一周内从31%降至15%，跌破过度悲观阈值",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "该行仍相对看好A股多于港股，关注科技自立、消费与出口链条；周五影视院线领涨、通信设备资金流出居前"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "市场几乎完全定价12月8–9日加息25个基点，50个基点概率约9%–14%",
+          "href": "https://predictrips.com/odds/polymarket/fed",
+          "note": "CME FedWatch与Polymarket均约87%–88.5%指向加25个基点；1月再加息概率明显上升"
+        },
+        {
+          "rank": 2,
+          "title": "贝森特称不应因伊朗战争带来的能源供给冲击过度加息，芝加哥联储古尔斯比当场反驳",
+          "href": "https://www.investing.com/news/economy-news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war-5025640",
+          "note": "古尔斯比指服务业等与油价、关税无关的类别进展停滞甚至掉头，强调需重建可信度"
+        },
+        {
+          "rank": 3,
+          "title": "波士顿联储柯林斯称很快有必要进一步收紧，旧金山联储戴利称“很可能”需要加息",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "官员本周密集放话，并打开1月再加息窗口，若落地将是2023年以来首次连续加息"
+        },
+        {
+          "rank": 4,
+          "title": "美债上周创2025年4月以来最差一周：10年期最高5.17%，2年期单周升约35个基点",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "2年期升幅为两年多最大；30年期约5.47%；市场已接近完全定价12月加息并加大2027年初继续收紧押注"
+        },
+        {
+          "rank": 5,
+          "title": "周三将公布10月27–28日FOMC会议纪要：当时利率维持3.75%–4.00%",
+          "href": "https://www.newsquawk.com/headlines/week-in-focus--16-20th-november-2026-highlights-include-us-retail-sales-fomc-minutes-chinese-activity-data-pboc-lpr-rba-minutes-uk-inflation-and-uk-jobs",
+          "note": "理事库克与克利夫兰联储哈马克反对并主张加25个基点；纪要早于此后公布的强于预期CPI"
+        },
+        {
+          "rank": 6,
+          "title": "美元指数收103.41，约19个月高位；日元逼近160，日本官员警告干预",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "财务大臣片山皋月称将与美方密切协调，外汇官三村淳提醒勿忽视去年夏天日美联合干预"
+        },
+        {
+          "rank": 7,
+          "title": "本周关键数据：周一日本三季度GDP初值，周二美国零售销售，周五中国LPR",
+          "href": "https://mlq.ai/news/week-ahead-nvidia-results-anthropics-ipo-pricing-and-debut-trump-xi-putin-and-walmart-nov-16-20/",
+          "note": "日本GDP于东京08:50公布，共识约环比0.1%、年化0.3%；中国LPR预计1年期3.00%、5年期3.50%连续第18个月不变"
+        },
+        {
+          "rank": 8,
+          "title": "中国10月人民币贷款净减少1000亿元，为有记录以来首次10月收缩",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "社融1.15万亿元不及预期；今日还有工业、消费与投资数据，政策利率已转向隔夜逆回购1.25%"
+        },
+        {
+          "rank": 9,
+          "title": "联储主席沃什周一中午将在旧金山联储“生产率与就业”会议上致开幕辞",
+          "href": "https://mlq.ai/news/week-ahead-nvidia-results-anthropics-ipo-pricing-and-debut-trump-xi-putin-and-walmart-nov-16-20/",
+          "note": "理事巴尔周一、周四两次就AI与金融稳定发表讲话；周五库克也将发表经济演讲"
+        },
+        {
+          "rank": 10,
+          "title": "欧元区三季度GDP确认环比增长0.4%；德国总理默茨称下周将提出欧央行三名高管人选方案",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "欧元区增速由二季度0.6%放缓，其中爱尔兰受AI投资带动、法国环比下降0.1%；人选包括拉加德主席继任安排"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "布伦特周五收95.84美元，WTI收88.56美元，全周均跌约2.5%，连续第二周下跌",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "前一周布伦特与WTI分别跌约16%与13%；周末霍尔木兹消息或在亚盘期货中重新计价"
+        },
+        {
+          "rank": 2,
+          "title": "IEA称石油市场本季度将自伊朗战争爆发以来首次转为过剩",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "该机构称10月供应过剩约200万桶/日，并预计2027年二季度过剩或达450万桶/日、为七年最大季度过剩"
+        },
+        {
+          "rank": 3,
+          "title": "伊朗革命卫队称霍尔木兹南部两艘油轮触雷起火，其中一艘载逾200万桶原油的超级油轮沉没",
+          "href": "https://www.arabnews.com/middle-east/two-tankers-on-fire-after-hitting-naval-mines-in-the-strait-of-hormuz-irans-irgc-says-3012053",
+          "note": "尚无独立核实；英海事机构称收到印度方面有关油轮遇袭报告，船员安全，损失与溢油情况不明"
+        },
+        {
+          "rank": 4,
+          "title": "也门政府军撤离曼德海峡附近，胡塞武装控制该红海要冲并推进至距亚丁约60公里",
+          "href": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+          "note": "霍尔木兹与曼德海峡两大油运通道同时承压，对冲IEA过剩叙事"
+        },
+        {
+          "rank": 5,
+          "title": "特朗普称美国不必与伊朗达成协议，霍尔木兹外交前景转淡",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "卡塔尔提出的两日重开方案双方均未接受；油价在供给回升与升级风险之间拉锯"
+        },
+        {
+          "rank": 6,
+          "title": "黄金约3880–3886美元/盎司，全周跌约4.6%",
+          "href": "https://theartofchart.net/2026/11/15/the-weekly-call-for-november-15th/",
+          "note": "受美元走强与美债收益率上升压制，金价徘徊在2025年9月以来低位附近"
+        },
+        {
+          "rank": 7,
+          "title": "铜周五跌约1.67%至约6.09美元/磅，白银约49.12美元、日内跌幅靠前",
+          "href": "https://www.ieconomy.io/en/gold-and-oil-today-2026-11-15",
+          "note": "工业金属与贵金属同步承压；铜全周约跌2.4%"
+        },
+        {
+          "rank": 8,
+          "title": "天然气全周涨约7.7%，报约3.23美元/百万英热",
+          "href": "https://theartofchart.net/2026/11/15/the-weekly-call-for-november-15th/",
+          "note": "冬季天气预期与LNG需求提供支撑"
+        },
+        {
+          "rank": 9,
+          "title": "比特币周末下探约62022美元后反弹至约6.5万美元附近",
+          "href": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-98e",
+          "note": "为7月中旬以来最低；加息预期、ETF流出与杠杆清算共振"
+        },
+        {
+          "rank": 10,
+          "title": "Polymarket：霍尔木兹航运12月31日前恢复正常仅约5%",
+          "href": "https://kresmion.com/odds",
+          "note": "与IEA过剩判断形成对照，市场仍对海峡通行高度怀疑"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "白宫：特朗普周四将在深圳APEC先与习近平双边会晤，随后与习、普京举行三方会谈",
+          "href": "https://mlq.ai/news/week-ahead-nvidia-results-anthropics-ipo-pricing-and-debut-trump-xi-putin-and-walmart-nov-16-20/",
+          "note": "议题偏核军控与伊朗战争，官方不预期达成协议，乌克兰议题或不会被提出"
+        },
+        {
+          "rank": 2,
+          "title": "伊朗称霍尔木兹两艘油轮触雷、一艘超级油轮沉没，美方持续封锁伊朗港口",
+          "href": "https://www.arabnews.com/middle-east/two-tankers-on-fire-after-hitting-naval-mines-in-the-strait-of-hormuz-irans-irgc-says-3012053",
+          "note": "CENTCOM称封锁已拦回近150艘船；多数触雷说法尚未获独立证实"
+        },
+        {
+          "rank": 3,
+          "title": "胡塞武装推进至距亚丁约60公里，也门政府军为守都城撤离曼德海峡",
+          "href": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+          "note": "政府军称胡塞已控制马卡蒂拉、马达里巴等地区，并进至距亚丁约60公里的哈拉兹营地"
+        },
+        {
+          "rank": 4,
+          "title": "特朗普称不必与伊朗达成协议，卡塔尔两日重开霍尔木兹方案双方均未接受",
+          "href": "https://conflictledger.com/brief/2026-11-15",
+          "note": "伊朗要求先结束封锁与制裁才重开海峡，并拒绝将高浓缩铀运往国外"
+        },
+        {
+          "rank": 5,
+          "title": "俄乌：阿布扎比会谈后美方称正准备可能是开战以来最大规模换俘，但停火仍无进展",
+          "href": "https://conflictledger.com/brief/2026-11-15",
+          "note": "俄方仍要求整个顿巴斯并拒绝外国维和；泽连斯基称普京本人反对能源停火；俄军持续打击电网"
+        },
+        {
+          "rank": 6,
+          "title": "欧盟定于11月16日制裁约50家俄罗斯银行",
+          "href": "https://conflictledger.com/brief/2026-11-15",
+          "note": "克里姆林宫称结算谈判将继续；美方预计深圳三方会晤不会达成协议"
+        },
+        {
+          "rank": 7,
+          "title": "台方称中国11月初进行迄今最大规模未宣布海军部署，约70艘军舰仍在第一岛链内",
+          "href": "https://conflictledger.com/brief/2026-11-15",
+          "note": "演习包含对台湾城市的模拟攻击；习近平12日称统一“不可阻挡”；美国对台军售方案仍被冻结"
+        },
+        {
+          "rank": 8,
+          "title": "特朗普周一启程访亚：先赴马尼拉出席四方与美东盟峰会，再转往深圳APEC",
+          "href": "https://mlq.ai/news/week-ahead-nvidia-results-anthropics-ipo-pricing-and-debut-trump-xi-putin-and-walmart-nov-16-20/",
+          "note": "美方称不会在习近平面前提及英伟达“间谍”指控；稀土供货慢于美方预期，釜山贸易休战只延长两个月"
+        },
+        {
+          "rank": 9,
+          "title": "中美新贸易理事会首次视频会，讨论对等各减约300亿美元关税",
+          "href": "https://www.marketindex.com.au/news/morning-wrap-asx-200-to-open-flat-nvidia-turmoil-weighs-on-s-and-p-500",
+          "note": "拟议约600亿美元对等减税（含约170亿美元美国农产品）尚未最终敲定"
+        },
+        {
+          "rank": 10,
+          "title": "黎巴嫩谈判因以色列联合政府僵局暂停，联黎部队任期至12月31日尚无替代安排",
+          "href": "https://conflictledger.com/brief/2026-11-15",
+          "note": "加沙地带以军袭击仍在持续，稳定部队尚未部署；17日以色列议长选举将影响新政府组成"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "12月议息：加息25个基点约87%–88%，加息50个基点约9%",
+          "href": "https://predictrips.com/odds/polymarket/fed",
+          "note": "24小时加25个基点微升1个点；维持不变约4%；相关合约成交额约3460万美元"
+        },
+        {
+          "rank": 2,
+          "title": "2026年不再降息：约99%；年末利率4.25%：约84%",
+          "href": "https://predictrips.com/odds/polymarket/fed",
+          "note": "“2026年降息几次”为成交最活跃合约，约5590万美元；年末4.25% 24小时回落2个点"
+        },
+        {
+          "rank": 3,
+          "title": "2026年加息次数：2次（合计50个基点）约87%；1月再加25个基点约57%",
+          "href": "https://predictrips.com/odds/polymarket/fed",
+          "note": "“2026年还会再加息吗”约96%；与CME对12月及2027年初的定价方向一致"
+        },
+        {
+          "rank": 4,
+          "title": "下任英伟达CEO：Arm的Rene Haas 25%，Ian Buck 24%，克雷斯12%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-nvidia-ceo-james-bond-bitcoin-seahawks-november-15-2026",
+          "note": "Buck周四曾接近40%；“黄仁勋不变”11%；12月31日前公布新CEO仅约24%；合约成交约220万美元"
+        },
+        {
+          "rank": 5,
+          "title": "特朗普、普京、习近平2027年前同框：约96%–97%",
+          "href": "https://futuretimes.cloud/article/trump-putin-xi-shenzhen-ukraine-ceasefire",
+          "note": "白宫已宣布本周四在深圳举行三方会晤，价格贴近确定性事件"
+        },
+        {
+          "rank": 6,
+          "title": "俄乌12月31日前停火：约7%",
+          "href": "https://futuretimes.cloud/article/trump-putin-xi-shenzhen-ukraine-ceasefire",
+          "note": "换俘或有进展，但停火定价仍低；美方称深圳会晤可能不谈乌克兰"
+        },
+        {
+          "rank": 7,
+          "title": "霍尔木兹航运年底恢复正常：约5%；美2027年前进攻伊朗：约7%",
+          "href": "https://kresmion.com/odds",
+          "note": "伊朗政权2027年前垮台约3%；中国2026年底前攻台约2%"
+        },
+        {
+          "rank": 8,
+          "title": "比特币11月触及62500美元：约94%，24小时大涨63.5个点",
+          "href": "https://kresmion.com/odds",
+          "note": "周末已下探约62022美元；11月17日高于62000美元约88%；11月触及60000美元短期曾升至约44%"
+        },
+        {
+          "rank": 9,
+          "title": "霍华德·卢特尼克2027年前离开特朗普政府：约30%，24小时下降17.5个点",
+          "href": "https://kresmion.com/odds",
+          "note": "国会要求其就英伟达芯片对华流向作证，价格自高位回落"
+        },
+        {
+          "rank": 10,
+          "title": "Anthropic于11月19日上市约93%；GPT Astra 6.1+ 11月30日前发布约83%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-nvidia-ceo-james-bond-bitcoin-seahawks-november-15-2026",
+          "note": "Astra 较前一日约92%回落9个点；以伊停火维持至11月18日仍约97%"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
