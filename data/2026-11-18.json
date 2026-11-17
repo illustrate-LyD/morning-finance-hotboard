@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-18",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-18T07:25:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周二收盘：道指跌1.64%报50759.42，标普跌1.03%报7340.53，纳指跌0.74%报24328.38",
+          "href": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+          "note": "道指下跌848.75点，盘中一度跌超1000点；标普创7月下旬以来最低收盘，纳指盘中最多跌约2.1%、创4月以来盘中低点"
+        },
+        {
+          "rank": 2,
+          "title": "英伟达盘后交出黄仁勋去职后首份财报：营收1158亿美元同比增103%，调整后每股收益2.68美元，均超预期",
+          "href": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "note": "LSEG预期营收1091亿美元、每股收益2.48美元；数据中心收入1076亿美元、同比增110%；指引本季营收约1300亿美元，高于约1251亿美元的平均预期"
+        },
+        {
+          "rank": 3,
+          "title": "英伟达盘后约涨4.14%报161.90美元，并宣布1500亿美元股票回购",
+          "href": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+          "note": "正股收跌0.5%报155.46美元；公司称三季度末回购授权仍余约2273亿美元；展望不假设来自中国的数据中心计算收入"
+        },
+        {
+          "rank": 4,
+          "title": "赛富时收跌9.45%报194.52美元，领跌标普500；软件股在Anthropic IPO前承压",
+          "href": "https://finance.yahoo.com/markets/stocks/articles/salesforce-sinks-9-software-slides-154928253.html",
+          "note": "市场担心AI代理可能削弱按席位收费的企业软件需求；直觉软件跌7.17%，耐克跌6.30%，联合健康跌5.42%"
+        },
+        {
+          "rank": 5,
+          "title": "耐克收跌6.30%报35.85美元，投资者日给出的扭转计划未打消疑虑",
+          "href": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+          "note": "公司重申2027财年营收仍将高个位数下滑，并称2028财年财务上依旧艰难"
+        },
+        {
+          "rank": 6,
+          "title": "家得宝任命CFO麦克费尔为新任CEO，三季度业绩略超预期，但股价仍跌超3%",
+          "href": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+          "note": "调整后每股收益3.86美元、营收434亿美元，同店销售增2.2%；现任CEO德克尔已结束病假，将改任董事长"
+        },
+        {
+          "rank": 7,
+          "title": "迪士尼四季报超预期：营收259.5亿美元同比增16%，调整后每股收益1.77美元",
+          "href": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+          "note": "提出到2029财年节省30亿美元并预告还将裁员；年股息上调33%至每股2美元；有行情显示收盘约跌1.5%"
+        },
+        {
+          "rank": 8,
+          "title": "CNN报道国家安全局机密网络中断，三大指数盘中触及当日低点；NSA随后称属例行维护期间的暂时降级",
+          "href": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+          "note": "消息源称暂无遭受网络攻击的证据；近期还叠加周末联邦航空局地面停飞、微软Outlook故障等基础设施扰动"
+        },
+        {
+          "rank": 9,
+          "title": "美债收益率小幅回落：10年期报5.109%、下行1个基点，2年期报4.806%、下行2个基点",
+          "href": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+          "note": "30年期约5.46%、几乎持平；零售销售整体符合预期，但核心销售强于预期，市场仍定价12月加息"
+        },
+        {
+          "rank": 10,
+          "title": "比特币仍徘徊在6.5万美元下方、约6.48万美元一带；美国现货比特币ETF周一净流入约790万美元，结束连续七日流出",
+          "href": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+          "note": "贝莱德IBIT净流入7650万美元，灰度GBTC等其他产品继续流出，大部分流入被抵消"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "英伟达首份“后黄仁勋”季报大超预期，盘后涨约4.14%；临时CEO克雷斯称公司“一切照常”",
+          "href": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "note": "营收1158亿美元、同比翻倍有余，指引本季约1300亿美元；克雷斯将2028财年增长预期由约70%上调至75%"
+        },
+        {
+          "rank": 2,
+          "title": "英伟达董事会主席哈维·琼斯在电话会上称，董事会不打算让黄仁勋回归CEO职位",
+          "href": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "note": "公司已聘请韦嘉礼德律师事务所调查其行为是否损及国家安全或公司机密；正股本月已跌约24%，上周五结束2012年以来最长的六连周下跌"
+        },
+        {
+          "rank": 3,
+          "title": "黄仁勋称若董事会认为符合股东与员工利益，他“会感到荣幸”再任CEO",
+          "href": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-18-2026",
+          "note": "要求其回归的请愿签名已逾18万，马斯克等公开呼吁；特朗普也曾表示不排斥这一选项"
+        },
+        {
+          "rank": 4,
+          "title": "杰夫·贝索斯称，若不清黄仁勋回归，英伟达董事会应从内部选拔继任者，而不是空降外人",
+          "href": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "note": "他在Semafor的硅谷会议上说，复杂公司请来的外部CEO成功概率“微乎其微”，那应是最后手段"
+        },
+        {
+          "rank": 5,
+          "title": "英伟达称Vera Rubin NVL72已开始出货，为公司史上最快的产品爬坡",
+          "href": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+          "note": "机柜已在CoreWeave、谷歌云、微软Azure、甲骨文云和Nebius等伙伴处运行；展望明确不计入中国数据中心计算收入，第四季毛利率指引降至71%–72%"
+        },
+        {
+          "rank": 6,
+          "title": "OpenAI发布GPT-6.2 Astra与GPT-6.2 Sol：前者面向高难度专业工作，后者面向日常任务",
+          "href": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "note": "Astra的API输入/输出价格较GPT-6 Astra低20%，为每百万tokens输入8美元、缓存输入0.40美元、输出40美元；Sol价格与GPT-6.1 Sol持平"
+        },
+        {
+          "rank": 7,
+          "title": "Anthropic披露IPO后亚马逊持股约14.7%、谷歌约13.7%，合计接近30%",
+          "href": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+          "note": "若亚马逊将全部可转票据转换，持股可达约23.8%，目前选择暂持部分票据；谷歌与英伟达还各认购100亿美元无投票权股份"
+        },
+        {
+          "rank": 8,
+          "title": "谷歌在美国、日本、韩国、加拿大、澳大利亚和印度六国，向符合条件的用户免费开放Gemini Tasks",
+          "href": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+          "note": "该功能可协助打电话、管理日历和购物等；拨打商家电话、使用Google Pay结账等进阶能力先在美国推出，运行于Gemini 4 Hydrogen"
+        },
+        {
+          "rank": 9,
+          "title": "英伟达另增1500亿美元回购授权，盘后交易一度升至约162美元",
+          "href": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+          "note": "这是克雷斯以临时CEO身份主持的首场财报电话会，投资者仍在追问接班人、对华出口管制与调查进展"
+        },
+        {
+          "rank": 10,
+          "title": "瑞穗等机构继续下调英伟达目标价：瑞穗由250美元降至220美元，认为管理层真空或持续6至7个月",
+          "href": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "note": "FactSet统计，黄仁勋承认婚外情后的九天里，已有20多家分析师下调目标价"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "沪指跌0.50%报3584.58点，失守3600点；深成指跌0.49%报10638.52点，创业板指跌1.20%报2292.20点",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "三大指数冲高回落；沪深京三市成交额约1.47万亿元，较前一交易日缩量约266亿元"
+        },
+        {
+          "rank": 2,
+          "title": "全市场超4100只个股下跌，近80只跌停；全日约37只涨停，封板率约62%",
+          "href": "https://finance.eastmoney.com/a/202611173932867192.html",
+          "note": "东方财富统计成交额约1.46万亿元，缩量约268亿元；瀛通通讯走出6天4板"
+        },
+        {
+          "rank": 3,
+          "title": "板块上，贵金属、小家电、电子化学品涨幅居前，影视院线、文化传媒、游戏跌幅居前",
+          "href": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-17/doc-iniyzswf7580070.shtml",
+          "note": "光刻机概念逆势走强，家电反复活跃；光伏设备、电机等板块午后走弱"
+        },
+        {
+          "rank": 4,
+          "title": "芯片与光刻机链路活跃：联合化学、国林科技20%涨停，东方嘉盛、西陇科学、有研新材等涨停",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "华为算力方向华胜天成、真视通、嘉环科技亦涨停"
+        },
+        {
+          "rank": 5,
+          "title": "家电板块反复活跃，长虹美菱、小熊电器涨停，北鼎股份涨超16%",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "小家电是当日少数表现居前的消费方向之一"
+        },
+        {
+          "rank": 6,
+          "title": "影视院线与AI漫剧大幅调整，浙文影业、大晟文化、文投控股、湖北广电、横店影视跌停",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "北京文化、横店影视等院线股领跌；物理AI概念同步下挫，杰克科技、福莱新材跌停"
+        },
+        {
+          "rank": 7,
+          "title": "尾盘多只宽基ETF集中放量，创业板ETF广发（159952）成交额突破50亿元，创历史天量",
+          "href": "https://finance.sina.com.cn/jjxw/2026-11-17/doc-iniyzxec7559991.shtml",
+          "note": "该ETF成交较前一日全天增超1.6倍；沪深300ETF华泰柏瑞、中证500ETF南方等亦在尾盘15分钟内放量"
+        },
+        {
+          "rank": 8,
+          "title": "港股恒生指数跌1.03%报23508.17点，恒生科技指数跌1.14%",
+          "href": "https://www.news.cn/gangao/20261117/1d21e298c5454483b983b2dab6bf9876/c.html",
+          "note": "恒指下跌245.67点；市场关注隔夜美股科技股波动及英伟达盘后财报对亚洲科技链的影响"
+        },
+        {
+          "rank": 9,
+          "title": "财政部公布第二次中加经济财金战略对话成果：双方同意探索扩大贸易投资中的本币使用，并鼓励双向投资",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "还包括测试近期续签的双边本币互换协议，以及合格境外/境内投资者框架下的双向投资"
+        },
+        {
+          "rank": 10,
+          "title": "商务部等9部门发文加强废旧动力电池回收，推动新能源汽车“车电一体报废”回收拆解",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "意见还提出研究制定动力电池数字身份证管理制度，并推动国内成熟标准转化为国际标准"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美国10月零售销售环比增长0.2%、符合预期，销售额7482亿美元，同比增6.8%",
+          "href": "https://www.investing.com/news/economy-news/us-retail-sales-increase-moderately-in-october-5033051",
+          "note": "汽车经销商销售下降1.6%，家具店下降2.3%；加油站、保健和个人护理、非店面零售相对更强"
+        },
+        {
+          "rank": 2,
+          "title": "剔除汽车和汽油后的核心零售销售10月环比增长0.6%，高于0.4%的市场预期",
+          "href": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+          "note": "强于预期的核心销售，可能强化市场对美联储继续加息的判断"
+        },
+        {
+          "rank": 3,
+          "title": "美国10月进口价格环比上升1.1%，高于0.7%的预期",
+          "href": "https://www.investing.com/news/economy-news/us-import-prices-rise-more-than-expected-in-october-5033211",
+          "note": "燃料价格上升3.6%，非燃料价格上升0.8%；路透称这与零售数据一道，巩固了12月再加息的市场定价"
+        },
+        {
+          "rank": 4,
+          "title": "圣路易斯联储主席穆萨莱姆称，为及时将通胀压回2%，2027年春季前或许还需加息最多四次",
+          "href": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+          "note": "沃勒、威廉姆斯等官员原定周二晚些时候发表讲话；市场对官员表态保持关注"
+        },
+        {
+          "rank": 5,
+          "title": "CME FedWatch显示，12月加息25个基点的概率约95%；周三将公布10月FOMC会议纪要",
+          "href": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+          "note": "纪要对应10月27–28日会议，当时美联储将利率维持在3.75%–4.00%"
+        },
+        {
+          "rank": 6,
+          "title": "10月议息并非一致通过：理事库克与克利夫兰联储主席哈马克主张加息25个基点并投出反对票",
+          "href": "https://www.newsquawk.com/headlines/primer-fomc-minutes-due-wednesday-1900gmt1400est",
+          "note": "声明将增长评估由“稳健”上调为“强劲”，并强调将依据后续信息决定如何使通胀回到2%目标；纪要北京时间周三凌晨3:00公布"
+        },
+        {
+          "rank": 7,
+          "title": "路透称，市场已定价12月加息25个基点，并预期1月可能再次提高借贷成本",
+          "href": "https://www.investing.com/news/economy-news/us-retail-sales-increase-moderately-in-october-5033051",
+          "note": "10年期美债收益率回落至5.109%，2年期降至4.806%，30年期约5.46%"
+        },
+        {
+          "rank": 8,
+          "title": "中国央行开展7140亿元隔夜逆回购操作，中标利率1.25%，全额满足一级交易商需求",
+          "href": "https://www.chinanews.com/cj/2026/11-17/10733218.shtml",
+          "note": "当日有4600亿元隔夜逆回购到期，由此净投放2540亿元"
+        },
+        {
+          "rank": 9,
+          "title": "中加第二次经济财金战略对话：双方同意测试并讨论使用近期续签的双边本币互换协议，探索扩大本币结算",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261117/4496627_1.html",
+          "note": "同时鼓励通过合格境外和境内投资者框架开展双向投资，并就熊猫债、跨境支付和反洗钱等议题作技术交流"
+        },
+        {
+          "rank": 10,
+          "title": "加拿大总理卡尼与习近平在APEC前会晤，中方将下调猪肉、海鲜等更多加拿大出口商品关税",
+          "href": "https://www.thestandard.com.hk/news/article/348822/Morning-Recap-November-18-2026",
+          "note": "卡尼办公室称，这有助于双边关系获得“更大的可预期性和稳定性”"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "原油结算转涨：WTI 12月合约报86.01美元，涨0.34%；布伦特1月合约报93.14美元，涨0.76%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-17-november-2026/",
+          "note": "早盘曾因供应过剩担忧走弱，随后在中东局势消息刺激下自低位回升"
+        },
+        {
+          "rank": 2,
+          "title": "伊朗称袭击巴林谢赫伊萨基地美军雷达后，原油自低位快速回升约0.30美元",
+          "href": "https://www.newsquawk.com/headlines/market-analysis-crude-extends-losses-on-supply-glut-concerns-before-paring-on-renewed-iranian-attack-on-bahrain-gold-firmer-copper-subdued",
+          "note": "美国随后打击霍尔木兹附近格什姆岛上的伊朗导弹发射场；供应过剩叙事与地缘风险仍在拉锯"
+        },
+        {
+          "rank": 3,
+          "title": "国际能源署预计第四季度原油供应过剩约170万桶/日；霍尔木兹吞吐量仍远低于战前水平",
+          "href": "https://www.fxstreet.com/analysis/the-commodities-feed-metals-under-pressure-while-oil-supply-improves-202611170948",
+          "note": "霍尔木兹原油和燃料流量三季度升至约910万桶/日，高于上季的510万桶，但仍远低于一年前的2140万桶/日"
+        },
+        {
+          "rank": 4,
+          "title": "美国能源信息署将于周三公布每周原油库存数据",
+          "href": "https://www.investing.com/news/stock-market-news/fomc-minutes-building-permits-and-pending-home-sales-due-wednesday-93CH-5033806",
+          "note": "同日还有营建许可、成屋签约和FOMC会议纪要，可能同时扰动能源与利率预期"
+        },
+        {
+          "rank": 5,
+          "title": "COMEX黄金12月合约结算3864.20美元，涨0.29%；白银报47.357美元，涨1.06%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-17-november-2026/",
+          "note": "黄金自周一约3832美元附近的逾一年低位小幅反弹，但仍受美元偏强和加息预期压制"
+        },
+        {
+          "rank": 6,
+          "title": "COMEX铜12月合约结算5.9860美元/磅，跌0.36%；伦敦三个月铜约13211.50美元/吨，跌至7月以来低位",
+          "href": "https://www.brecorder.com/markets/commodities/2026-11-17",
+          "note": "科技股走弱和中国需求担忧继续压制铜价；市场也在关注铜在电网与数据中心投资中的需求前景"
+        },
+        {
+          "rank": 7,
+          "title": "天然气NYMEX 12月合约结算3.208美元，涨2.75%，为当日跟踪品种中涨幅居前",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-17-november-2026/",
+          "note": "17个跟踪合约中有10个结算上涨；取暖油跌0.84%，是能源合约中最弱的品种"
+        },
+        {
+          "rank": 8,
+          "title": "铂金1月合约跌1.52%报1426.50美元，为金属中表现最弱；钯金微涨0.25%报976.30美元",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-17-november-2026/",
+          "note": "贵金属内部分化，白银领涨、铂金领跌"
+        },
+        {
+          "rank": 9,
+          "title": "马来西亚棕榈油2月合约跌1.74%至4468令吉/吨，中断连续四个交易日上涨",
+          "href": "https://www.brecorder.com/markets/commodities/2026-11-17",
+          "note": "合约下跌79令吉；农产品中部分谷物则自下跌通道中出现反弹迹象"
+        },
+        {
+          "rank": 10,
+          "title": "美元偏强继续压制工业金属；铜价走弱也与AI相关股票抛售、市场担忧电网和数据中心需求有关",
+          "href": "https://www.fxstreet.com/analysis/the-commodities-feed-metals-under-pressure-while-oil-supply-improves-202611170948",
+          "note": "中国国内近月合约对远月仍有明显升水，显示现货端并未完全宽松"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美伊再交火：伊朗称打击巴林谢赫伊萨基地美军雷达，美国随后打击霍尔木兹海峡格什姆岛上的伊朗导弹发射场",
+          "href": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-18-2026",
+          "note": "这场自2月下旬开始的战争目前大多已转入僵持，但尚未达成和平协议"
+        },
+        {
+          "rank": 2,
+          "title": "霍尔木兹航道仍是焦点：美国继续保护通航并封锁伊朗港口，伊方则称除非美方接受条件，海峡将保持关闭",
+          "href": "https://www.thestandard.com.hk/news/article/348822/Morning-Recap-November-18-2026",
+          "note": "双方在交火的同时，仍通过阿曼、卡塔尔等调解方接触"
+        },
+        {
+          "rank": 3,
+          "title": "普京抵达深圳出席亚太经合组织峰会；中国外交部证实习近平将于19日同特朗普、普京举行中美俄元首会晤",
+          "href": "https://www.channelnewsasia.com/east-asia/apec-summit-2026-china-shenzhen-trump-xi-putin-6545366",
+          "note": "这将是三国核大国领导人首次三方会晤；新华社报道普京已于周三抵达深圳宝安国际机场"
+        },
+        {
+          "rank": 4,
+          "title": "三方会晤议程存在分歧：特朗普拟谈核裁军与结束伊朗战争，乌克兰议题恐难进入三方桌面",
+          "href": "https://www.channelnewsasia.com/east-asia/apec-summit-2026-china-shenzhen-trump-xi-putin-6545366",
+          "note": "美方官员称料不会讨论乌克兰；克里姆林宫希望继续谈乌克兰问题，中方则不愿将其列入三方议程"
+        },
+        {
+          "rank": 5,
+          "title": "特朗普与习近平定于周四举行双边会晤与工作午宴，为今年第三次面对面会谈",
+          "href": "https://www.channelnewsasia.com/east-asia/apec-summit-2026-china-shenzhen-trump-xi-putin-6545366",
+          "note": "双方关税休战已延至明年1月10日；美方关注中方农产品采购承诺，中方则希望看到关税下调落地"
+        },
+        {
+          "rank": 6,
+          "title": "中国主办的APEC领导人非正式会议11月18日至19日在深圳举行，并寻求通过深圳宣言及相关数字经济、人工智能路线图",
+          "href": "https://www.channelnewsasia.com/east-asia/apec-summit-2026-china-shenzhen-trump-xi-putin-6545366",
+          "note": "中国还希望推动亚太自贸区文件；该机制以协商一致为基础，在贸易紧张背景下通过宣言并不容易"
+        },
+        {
+          "rank": 7,
+          "title": "以色列议会选出亚沙尔党的马坦·卡哈纳为新议长，得66票，利库德候选人奥菲尔·卡茨得52票",
+          "href": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171",
+          "note": "这是反对内塔尼亚胡阵营的一次关键程序性胜利；艾森科特组阁期限为12月6日，总统赫尔佐格可延至12月20日"
+        },
+        {
+          "rank": 8,
+          "title": "美国国防部副部长科尔比在布鲁塞尔批评乌克兰对俄“纵深打击”效果有限，并称可能反而强化俄方抵抗意愿",
+          "href": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-18-2026",
+          "note": "泽连斯基则呼吁伙伴尽快提供防空系统；科尔比特别提到对俄电商Wildberries等民用基础设施的打击"
+        },
+        {
+          "rank": 9,
+          "title": "加拿大总理卡尼与习近平在APEC前会晤，中方将下调猪肉、海鲜等更多加拿大出口商品关税",
+          "href": "https://www.thestandard.com.hk/news/article/348822/Morning-Recap-November-18-2026",
+          "note": "双方将此描述为延长并稳定双边贸易安排的一部分"
+        },
+        {
+          "rank": 10,
+          "title": "近200个主要网站遭供应链攻击：黑客向Optimizely托管工具注入恶意JavaScript，企图窃取支付和加密货币信息",
+          "href": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-18-2026",
+          "note": "报道称约178个网站受影响，包括BBC、汇丰阿联酋、法航和宜家等，并试图向苹果设备上传后续利用代码"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美伊“有效停火”开始时点大幅后移：11月22日前约38%，24小时回落约29.5个点",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "截至周二16:16 ET；11月30日前约52%，12月31日前约69%、回落约11.5个点；该组合约24小时成交约57.8万美元"
+        },
+        {
+          "rank": 2,
+          "title": "11月8日与11月15日前“有效停火开始”的合约已跌至接近零，平台数据提示决议已被提议",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "合约定义要求出现连续14天、没有符合条件的美国空中或地对地导弹打击直接作用于伊朗"
+        },
+        {
+          "rank": 3,
+          "title": "黄仁勋“不更换/仍任CEO”合约约14.4%，24小时上升约5个点；2027年12月31日前重返英伟达约36%，上升约7个点",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "价格截至周二16:16 ET，早于财报电话会结束；该合约若在2028年底前未正式宣布继任者则判定为“No Change”，临时CEO不算"
+        },
+        {
+          "rank": 4,
+          "title": "下一任英伟达CEO：雷内·哈斯在Polymarket约21.2%，24小时回落约9个点",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "Kalshi上哈斯约24%；黄仁勋本人相关合约在其表态愿回归后一度走高"
+        },
+        {
+          "rank": 5,
+          "title": "12月美联储加息25个基点：Kalshi约91%，Polymarket约94%",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "周一晚该合约约92%；CME FedWatch盘后已升至约95%"
+        },
+        {
+          "rank": 6,
+          "title": "内塔尼亚胡于12月31日前去职：截至周一晚约49%，较前一日的53%回落4个点",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-netanyahu-taipei-mayor-rams-november-17-2026",
+          "note": "2027年3月31日前约66%，6月30日前约70%；相关事件成交约1.255亿美元。周二议长选举结果公布后，未见同步更新的收盘赔率"
+        },
+        {
+          "rank": 7,
+          "title": "台北市长：现任蒋万安约60%，民进党沈伯洋约40%，投票日为11月28日",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "周二下午蒋万安较24小时前再回落约1个点；近期民调接近胶着，市场仍给现任明显溢价"
+        },
+        {
+          "rank": 8,
+          "title": "《GTA VI》获年度最佳游戏提名后，Polymarket约88%、Kalshi约87%",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "游戏大奖将于12月10日颁奖；Kalshi上该合约24小时内由约81%升至87%"
+        },
+        {
+          "rank": 9,
+          "title": "Anthropic IPO收盘市值低于1.25万亿美元：周一晚由22%升至35%，24小时上升13个点",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-netanyahu-taipei-mayor-rams-november-17-2026",
+          "note": "为当日预测市场最大变动之一；随后Anthropic披露亚马逊与谷歌将在IPO后合计持股近30%"
+        },
+        {
+          "rank": 10,
+          "title": "2028年民主党提名人：乔恩·奥索夫约26%–27%；共和党提名人J.D.万斯约37%",
+          "href": "https://eventmarkets.ai/prediction-markets-today-the-biggest-moves-nov-17-2026/",
+          "note": "2028年总统胜选人中奥索夫约18%；以上为周二盘中附近的预测市场价格"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
