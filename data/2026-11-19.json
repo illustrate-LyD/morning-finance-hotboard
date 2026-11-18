@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-19T07:20:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周三收盘：道指跌1.11%报50198.17，标普跌0.23%报7323.63，纳指涨0.42%报24429.89",
+          "href": "https://english.news.cn/20261119/037e127c9b0449f2bd598c7c4c5b4c6d/c.html",
+          "note": "道指下跌561.25点，盘中最多跌约730点；标普连跌五个交易日。11个板块中6个收跌，能源跌3.51%、医疗跌2.18%，可选消费涨2.24%"
+        },
+        {
+          "rank": 2,
+          "title": "联合健康收跌10.21%报349.91美元，医疗险股拖累道指；Humana跌12.98%报385.78美元",
+          "href": "https://finance.yahoo.com/healthcare/article/unitedhealth-and-other-insurance-stocks-drag-down-the-dow-after-cms-proposes-new-anti-fraud-rule-173851810.html",
+          "note": "CMS提出CRUSH规则，拟加强对医保等项目的审计并追回不当付款，称十年或为纳税人节省近900亿美元；意见征集至2027年1月19日。Elevance跌7.63%，CVS跌5%，Cigna跌3%"
+        },
+        {
+          "rank": 3,
+          "title": "英伟达收跌约2.89%报150.96美元，季报大超预期仍未能守住涨势",
+          "href": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60412431/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%94%B6%E5%B8%82%E6%8C%AB561%E7%82%B9-%E7%BA%B3%E6%8C%87%E5%8D%870-42-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C2-9",
+          "note": "盘后曾涨约4%，正股现已连跌五个交易日；费城半导体指数微涨0.10%报9652.80。戴尔跌逾3%，CoreWeave跌逾4%"
+        },
+        {
+          "rank": 4,
+          "title": "迪士尼收涨4.63%报122.36美元、领涨道指，并创出52周高位；亚马逊涨3.82%报267.74美元",
+          "href": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-111-5037118",
+          "note": "AMD涨5.31%，思科涨2.18%；Palo Alto Networks涨9.90%报339.92美元，领涨标普500"
+        },
+        {
+          "rank": 5,
+          "title": "美联储公布10月会议纪要：几乎所有委员认为进一步加息“可能是适当的”",
+          "href": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+          "note": "10月以10比2维持联邦基金利率在3.75%–4%；理事库克与克利夫兰联储主席哈马克主张加25个基点。纪要称与AI相关的需求是“重要通胀风险”"
+        },
+        {
+          "rank": 6,
+          "title": "沃勒：12月会议“可能需要用50个基点加息来‘震慑’市场”",
+          "href": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+          "note": "CME FedWatch显示12月加25个基点的概率约95%。沃勒称通胀“正在朝错误方向走、并且在扩散”，若不预先明确1月再加，就应在12月一次加50个基点"
+        },
+        {
+          "rank": 7,
+          "title": "长端美债收益率回落：10年期收报5.065%、下行约3.6个基点，30年期约报5.408%、下行逾5个基点",
+          "href": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
+          "note": "对政策更敏感的2年期收报约4.798%、微升；美元指数升至约103.82，为2025年4月以来高位"
+        },
+        {
+          "rank": 8,
+          "title": "原油重挫：WTI结算跌3.20%报83.26美元，为8月下旬以来最低收盘；布伦特跌1.28%报91.95美元",
+          "href": "https://www.cnbc.com/2026/11/18/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks.html",
+          "note": "EIA显示截至11月13日当周商业原油库存增加340万桶至4.178亿桶，远高于预期的约5.8万桶；汽油库存增520万桶，馏分油增160万桶"
+        },
+        {
+          "rank": 9,
+          "title": "比特币跌破6.3万美元，尾盘约跌2.4%至6.245万美元附近；以太坊约跌2.4%报1754美元",
+          "href": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+          "note": "早盘仍在6.5万美元附近，随后随加息预期升温与风险资产波动下滑"
+        },
+        {
+          "rank": 10,
+          "title": "住房数据偏弱：10月营建许可跌7.4%至129.5万户，待签房屋销售跌4.7%、为2001年有统计以来最低",
+          "href": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+          "note": "新屋开工升9.9%至130.9万户，好于预期的125万户；待签合同同比下降16.7%，显示高抵押贷款利率继续抑制需求"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Anthropic IPO定价83美元/股，估值逾1.5万亿美元，高于70–78美元询价区间；代码ANT，周四登陆纳斯达克",
+          "href": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
+          "note": "据彭博，发行规模上调，叠加约260亿美元私募，合计筹资逾940亿美元，超过SpaceX今年6月IPO约862亿美元的筹资纪录；CEO阿莫迪将敲钟开市"
+        },
+        {
+          "rank": 2,
+          "title": "英伟达收跌约2.9%，黄仁勋去职后首份季报虽大超预期，正股仍连续第五日下跌",
+          "href": "https://schwabnetwork.com/articles/closing-bell-after-nvidia-earnings-beat-health-care-drags-down-dow",
+          "note": "三季度营收约1158亿美元、指引本季约1300亿美元，均高于预期；展望不假设来自中国的数据中心计算收入。戴尔跌逾3%，CoreWeave跌逾4%"
+        },
+        {
+          "rank": 3,
+          "title": "临时CEO克雷斯首次全员讲话：承诺提前至12月加薪并增发股权",
+          "href": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+          "note": "据WIRED，这是将薪酬安排提前数月。新任董事长琼斯称继任者“不会是黄仁勋翻版”，将寻找具备工程与战略经验、文化契合的人选"
+        },
+        {
+          "rank": 4,
+          "title": "OpenAI称其模型与AMD合作，将旗舰GPU IP的功耗、性能与面积（PPA）最多提升约14%",
+          "href": "https://openai.com/index/advancing-chip-design-with-our-models/",
+          "note": "称相当于不到5个月完成约一年的优化，部分改动已进入近期流片设计；并与新思科技合作训练面向EDA工具的模型"
+        },
+        {
+          "rank": 5,
+          "title": "美联储纪要警示AI融资风险：表外租赁与循环融资或在回报不及预期时放大损失",
+          "href": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+          "note": "多数委员注意到AI相关债务快速扩张且结构复杂不透明；少数委员指出风险向少数公司集中。AI需求同时被视为重要通胀风险"
+        },
+        {
+          "rank": 6,
+          "title": "欧央行金融稳定报告：AI估值偏高、财政失衡与地缘经济紧张令欧元区金融稳定风险仍高",
+          "href": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+          "note": "副行长武伊契奇称银行盈利、资本与流动性仍稳，非银部门脆弱性更突出；AI基础设施投资越来越多依赖债务融资"
+        },
+        {
+          "rank": 7,
+          "title": "AMD收涨5.31%，亚马逊涨3.82%，纳指在英伟达下跌中仍收涨0.42%",
+          "href": "https://global.hk01.com/%E8%B4%A2%E7%BB%8F%E5%BF%AB%E8%AE%AF/60412431/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%94%B6%E5%B8%82%E6%8C%AB561%E7%82%B9-%E7%BA%B3%E6%8C%87%E5%8D%870-42-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C2-9",
+          "note": "苹果微涨0.15%，特斯拉涨0.95%；费城半导体指数微涨0.10%。市场等待周四Anthropic开盘对AI定价的检验"
+        },
+        {
+          "rank": 8,
+          "title": "Palo Alto Networks收涨9.90%报339.92美元，领涨标普500",
+          "href": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-111-5037118",
+          "note": "网络安全与基础设施软件相对抗跌；前一日赛富时等企业软件股重挫后，盘面继续围绕AI对传统软件收费模式的冲击定价"
+        },
+        {
+          "rank": 9,
+          "title": "外交部：美方将出口管制和“长臂管辖”加于先进半导体，损害中国企业正当权益，中方将采取必要措施",
+          "href": "https://www.news.cn/20261117/1988dad6f9824e789678d674a717099a/c.html",
+          "note": "新规正成为深圳APEC期间中美互动的背景之一；英伟达指引已明确不假设来自中国的数据中心计算收入"
+        },
+        {
+          "rank": 10,
+          "title": "Anthropic成为本轮生成式AI浪潮中首家上市的前沿实验室，OpenAI则推迟了原定上市计划",
+          "href": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+          "note": "招股书显示2025年营收45.85亿美元，2026年上半年营收162.86亿美元，但上半年净亏损800亿美元；计算力承诺支出巨大"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周三收盘：上证涨0.09%报3587.83点，深证涨0.20%报10659.41点，创业板涨0.85%报2311.62点",
+          "href": "https://www.163.com/dy/article/LC1KC7MO0519C6T9.html",
+          "note": "三大指数集体收红，但属于探底回升：创业板盘中一度跌超1%，午后拉回"
+        },
+        {
+          "rank": 2,
+          "title": "两市成交额仅1.37万亿元，刷新年内新低，较上一交易日缩量约880亿元；下跌个股超4100只",
+          "href": "https://finance.sina.com.cn/tob/2026-11-18/doc-inizcvvc4829687.shtml",
+          "note": "涨跌比约1318:4133，涨停43家、跌停45家；指数微涨与个股普跌并存"
+        },
+        {
+          "rank": 3,
+          "title": "科创50收涨2.19%报1247.99点，成为最强主要指数",
+          "href": "https://www.zhitongcaijing.com/content/detail/1524931.html",
+          "note": "半导体与元件走强，盛合晶微涨超10%；通信服务、算力租赁板块涨幅居前"
+        },
+        {
+          "rank": 4,
+          "title": "算力租赁掀涨停潮：青云科技、宏景科技20CM涨停，美利云、润建股份、中嘉博创等涨停",
+          "href": "https://www.nbd.com.cn/articles/2026-11-18/4651360.html",
+          "note": "利通电子亦涨停；板块成为成交清淡市况下少有的高景气方向"
+        },
+        {
+          "rank": 5,
+          "title": "华为算力与芯片活跃：华胜天成4天3板，卡莱特20CM二连板，华东重机4连板，旋极信息20CM涨停",
+          "href": "https://finance.eastmoney.com/a/202611183933971795.html",
+          "note": "真视通、四川长虹、常山北明涨停；算力硬件与华为概念同步走强"
+        },
+        {
+          "rank": 6,
+          "title": "PCB走强：生益电子盘中触及20CM涨停，深南电路、沪电股份涨停",
+          "href": "https://finance.eastmoney.com/a/202611183933971795.html",
+          "note": "腾景科技、景旺电子等跟涨；科创芯片与电子相关ETF亦收涨"
+        },
+        {
+          "rank": 7,
+          "title": "AI漫剧与影视走弱：文投控股、浙文影业二连跌停，华智数媒、中视传媒等下挫",
+          "href": "https://finance.sina.com.cn/tob/2026-11-18/doc-inizcvvc4829687.shtml",
+          "note": "影视院线板块跌幅居前，横店影视等亦跌停，主题炒作退潮明显"
+        },
+        {
+          "rank": 8,
+          "title": "贵金属板块集体大跌，中金黄金跌超7%，跟随国际金价重挫",
+          "href": "https://finance.sina.com.cn/tob/2026-11-18/doc-inizcvvc4829687.shtml",
+          "note": "国际现货黄金跌破3750美元、创2025年9月以来低位；A股黄金股同步承压"
+        },
+        {
+          "rank": 9,
+          "title": "北向资金成交2199.97亿元，占两市成交额16.06%",
+          "href": "https://finance.eastmoney.com/a/202611183934054296.html",
+          "note": "寒武纪、药明康德、贵州茅台为沪股通成交前三；中际旭创、宁德时代、新易盛为深股通成交前三。交易所披露的是成交额，而非净买入"
+        },
+        {
+          "rank": 10,
+          "title": "通信服务、元件领涨，稀土、乳业等居跌：中国稀土、洪都航空、阳光乳业等跌停",
+          "href": "https://www.163.com/dy/article/LC1KC7MO0519C6T9.html",
+          "note": "粘胶、影视院线、稀土跌幅靠前；医药CRO亦调整，星昊医药、成都先导盘中跌超15%"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美联储10月纪要：几乎所有与会者认为，按基线前景进一步加息“可能是适当的”",
+          "href": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+          "note": "10月以10比2维持3.75%–4%；部分委员主张当时就加25个基点，少数提到12月或需更大幅度加息。投票赞成按兵不动者强调需再积累信息"
+        },
+        {
+          "rank": 2,
+          "title": "沃勒：12月可能需要加息50个基点来“震慑”市场，称通胀“正在朝错误方向走”",
+          "href": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+          "note": "他称应收回2025年三次各25个基点的“保险性降息”，并可能需要更多。CME FedWatch显示12月加25个基点的概率约95%"
+        },
+        {
+          "rank": 3,
+          "title": "纪要把AI列为通胀与金融稳定核心议题，担忧表外租赁和循环融资放大亏损",
+          "href": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+          "note": "委员认为与AI相关的需求是“重要通胀风险”；多数人注意到AI相关债务快速扩张，且多通过复杂不透明结构融资"
+        },
+        {
+          "rank": 4,
+          "title": "欧央行发布11月《金融稳定评估》：AI估值、财政失衡与地缘经济紧张令风险仍高",
+          "href": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+          "note": "报告称对AI盈利预期偏高，令市场易受急剧调整冲击；主要发达经济体财政失衡也可能引发主权风险重定价。欧元区银行仍有较强盈利与资本缓冲"
+        },
+        {
+          "rank": 5,
+          "title": "中国央行开展7002亿元隔夜逆回购，利率1.25%不变，当日净回笼138亿元",
+          "href": "https://www.chnfund.com/article/AR04417bad-8045-fc55-d5d1-3a24fef6c3ef",
+          "note": "以固定利率、数量招标方式全额满足一级交易商需求；当日有7140亿元隔夜逆回购到期。18日为本月税期窗口最后一个交易日"
+        },
+        {
+          "rank": 6,
+          "title": "财政部完成1500亿元中央金融机构注资特别国债（二期）招标，期限7年、票面利率1.40%",
+          "href": "http://zwgls.mof.gov.cn/ywgg/202611/t20261118_4004931.htm",
+          "note": "实际发行面值1500亿元，11月19日起息，11月23日起上市交易，2033年11月19日到期还本并支付最后一次利息"
+        },
+        {
+          "rank": 7,
+          "title": "人民币中间价：美元/人民币报6.7118，较前一日6.7132上调14个基点",
+          "href": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67118-vs-67132-previous-202611180115",
+          "note": "中间价仍弱于路透预估的6.6654"
+        },
+        {
+          "rank": 8,
+          "title": "长端美债收益率下行：10年期收报5.065%，30年期约报5.408%",
+          "href": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
+          "note": "10年期下行约3.6个基点，30年期下行逾5个基点；2年期微升至约4.798%。市场在消化“会再加息、但是否一次加50个基点”的分歧"
+        },
+        {
+          "rank": 9,
+          "title": "官员口径分化：纽约联储主席威廉姆斯认为“不必采取戏剧性行动”，圣路易斯联储主席穆萨勒姆则提到2027年春前或累计加息较多",
+          "href": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+          "note": "威廉姆斯称近几个月“收集数据、分析并做决定”的做法运转良好；沃勒是目前公开主张12月加50个基点的主要委员"
+        },
+        {
+          "rank": 10,
+          "title": "美国10月营建许可跌7.4%，待签房屋销售跌4.7%并创有统计以来最低，显示高利率继续抑制住房需求",
+          "href": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+          "note": "新屋开工升9.9%至130.9万户，好于预期，但许可下滑至129.5万户，预示后续开工或放缓"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "WTI结算跌3.20%报83.26美元/桶，为8月下旬以来最低收盘；布伦特跌1.28%报91.95美元",
+          "href": "https://www.cnbc.com/2026/11/18/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks.html",
+          "note": "霍尔木兹海峡风险仍在，但累库与供应恢复预期占上风；有分析称两油种本月或累计下跌约20%"
+        },
+        {
+          "rank": 2,
+          "title": "EIA：截至11月13日当周美国商业原油库存增加340万桶至4.178亿桶，预期仅增约5.8万桶",
+          "href": "https://www.cnbc.com/2026/11/18/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks.html",
+          "note": "汽油库存增加520万桶至2.159亿桶，预期约160万桶；馏分油增加160万桶至1.049亿桶，预期约130万桶"
+        },
+        {
+          "rank": 3,
+          "title": "现货黄金跌破3750美元，日内低见约3719.10美元，为2025年9月以来最低；尾盘约3722.60美元，跌125.90美元或3.27%",
+          "href": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+          "note": "COMEX黄金结算约3741.90美元，跌约3.2%。加息预期升温与美元走强压过避险买盘"
+        },
+        {
+          "rank": 4,
+          "title": "白银跌幅更深：现货约44.930美元/盎司，跌2.340美元或4.95%；COMEX结算44.999美元，跌4.84%",
+          "href": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+          "note": "日内低见约44.640美元；工业需求担忧与金融条件收紧叠加，银价跌幅大于黄金"
+        },
+        {
+          "rank": 5,
+          "title": "铜价重挫约5.3%，COMEX结算约5.6685美元/磅，跌至约5月以来低位",
+          "href": "https://www.cnbctv18.com/market/commodities/copper-crashes-near-five-month-low-gold-and-silver-slide-here-is-why-metal-prices-are-falling-20037186.htm",
+          "note": "伦铜亦跌破每吨1.3万美元。强势美元、中国需求担忧以及AI相关风险资产调整共同施压"
+        },
+        {
+          "rank": 6,
+          "title": "美元指数升至约103.82，为2025年4月以来高位，成为打压金属的重要力量",
+          "href": "https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals",
+          "note": "尽管10年期美债收益率回落约3.6个基点至5.065%，美元与加息预期仍主导贵金属定价"
+        },
+        {
+          "rank": 7,
+          "title": "中东风险溢价未能托住油价：ADNOC船舶在霍尔木兹遇袭，1人失踪、11人受伤",
+          "href": "https://www.cnbc.com/2026/11/18/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks.html",
+          "note": "伊朗在美国打击格什姆岛后袭击科威特与巴林目标；阿曼附近一艘液化气船周一也遭袭击。供应恢复与美国累库盖过了运费风险"
+        },
+        {
+          "rank": 8,
+          "title": "A股黄金股跟跌，中金黄金跌超7%",
+          "href": "https://finance.sina.com.cn/tob/2026-11-18/doc-inizcvvc4829687.shtml",
+          "note": "贵金属板块集体调整，与国际金价创出14个月低位相呼应"
+        },
+        {
+          "rank": 9,
+          "title": "供应端继续宽松：OPEC+10月产量升至3560万桶/日，俄罗斯原油出口升至7月下旬以来最高",
+          "href": "https://think.ing.com/articles/the-commodities-feed-copper-hits-five-month-low-improving-supply-weighs-on-oil/",
+          "note": "OPEC+产量连续第二个月增加，沙特出力上升；俄油产量约876万桶/日。乌克兰持续打击俄炼厂，但更多原油被转向出口"
+        },
+        {
+          "rank": 10,
+          "title": "伦铝近期交割紧张有所缓解，现金对12月升水自约190美元收窄，但LME库存仍处1990年以来低位",
+          "href": "https://think.ing.com/articles/the-commodities-feed-copper-hits-five-month-low-improving-supply-weighs-on-oil/",
+          "note": "交易所可交割货源仍然偏紧，近月价差仍可能再度走阔；投机多头在铜、铝上已连续减仓"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "特朗普抵达深圳出席APEC，三方会晤定于周四；习近平在工商峰会呼吁亚太坚持开放贸易并深化数字经济与AI合作",
+          "href": "https://apnews.com/article/apec-china-economy-trump-putin-ai-1e3b6161b31196c9716ca02ac8c7720c",
+          "note": "克里姆林宫称三方会晤约一小时；特朗普还将与普京举行双边会谈。美俄官员称讨论将涉及战后安全保障等议题"
+        },
+        {
+          "rank": 2,
+          "title": "习近平在深圳会见普京，双方强调深化战略协作与全方位合作",
+          "href": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202611/t20261118_12062007.shtml",
+          "note": "今年是中俄战略协作伙伴关系建立30周年。普京祝贺中共二十届五中全会召开，并称愿加强贸易、能源、教育等领域合作"
+        },
+        {
+          "rank": 3,
+          "title": "习近平批评保护主义，普京谴责西方制裁，为周四三方会晤定调",
+          "href": "https://www.investing.com/news/world-news/xi-putin-blast-western-protectionism-sanctions-before-meeting-trump-at-apec-5034759",
+          "note": "会晤议程料涉及贸易、人工智能、核军控以及乌克兰与中东局势，外界对能否达成具体成果仍持谨慎态度"
+        },
+        {
+          "rank": 4,
+          "title": "乌克兰打击刻赤大桥：公路拱桥坍塌，公路中断、铁路仅余单线，残骸阻塞海峡航道",
+          "href": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge",
+          "note": "泽连斯基称为“前所未有、执行无瑕”；克里姆林宫称大桥将修复并继续军事行动。袭击发生在普京赴深圳出席APEC前夕"
+        },
+        {
+          "rank": 5,
+          "title": "美国打击霍尔木兹海峡伊朗格什姆岛后，伊朗袭击科威特阿里萨勒姆空军基地及巴林",
+          "href": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+          "note": "科威特称自9月初以来首次启动防空拦截无人机；巴林为美军第五舰队驻地，六日内第四次遇袭。美方称打击是对伊朗此前袭击巴林雷达站的回应"
+        },
+        {
+          "rank": 6,
+          "title": "沙特、阿盟、海合会谴责伊朗袭击海湾国家；阿联酋ADNOC船舶在霍尔木兹遇袭，1人失踪、11人受伤",
+          "href": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+          "note": "卡塔尔称持续升级可能损害外交斡旋。伊朗军方称第三艘美军航母已抵达中东，并警告若再有动作将予以更沉重回应"
+        },
+        {
+          "rank": 7,
+          "title": "美国防部长赫格塞思在加拉加斯签署协议，重建美委军事关系",
+          "href": "https://apnews.com/article/hegseth-venezuela-maduro-trump-e02dd6173e575c644a37dd417d84296d",
+          "note": "美方称将开展联合训练、情报共享及装备技术合作，并应对贩毒等安全威胁。美联社称，这是特朗普政府在今年1月武力推翻当时总统马杜罗后，加深在委影响力的最新一步"
+        },
+        {
+          "rank": 8,
+          "title": "外交部回应美升级芯片出口管制：将采取必要措施，坚决维护自身正当权益",
+          "href": "https://www.news.cn/20261117/1988dad6f9824e789678d674a717099a/c.html",
+          "note": "中方指有关规则属于滥用出口管制和“长臂管辖”，会扰乱全球供应链，并成为深圳会晤的背景议题之一"
+        },
+        {
+          "rank": 9,
+          "title": "也门胡塞武装称向沙特东西石油管道的泵站发射五架无人机",
+          "href": "https://www.cnbc.com/2026/11/18/oil-prices-fall-as-higher-us-crude-stocks-temper-supply-risks.html",
+          "note": "该管道被用于绕开霍尔木兹海峡。有西方官员称，沙特正准备与胡塞的冲突延续到明年"
+        },
+        {
+          "rank": 10,
+          "title": "俄罗斯同日打击基辅第聂伯河桥梁，乌克兰多地交通受阻",
+          "href": "https://www.aljazeera.com/news/2026/11/18/crimea-is-turning-into-an-island-how-ukraine-hit-putins-prized-bridge",
+          "note": "报道称俄军无人机与导弹损坏了通往基辅的五座桥中的两座，并波及其他地区桥梁，显示双方都在打击对方物流枢纽"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美联储12月决议：加息25个基点约94%，该合约成交约3740万美元",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "CME FedWatch约95%。纪要与沃勒讲话偏鹰，但市场仍主要定价25个基点，而非50个基点"
+        },
+        {
+          "rank": 2,
+          "title": "美联储1月决议：加息25个基点约62%，维持不变约37%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "其余结果约1%；该合约成交约390万美元。CME此前对1月加息的定价约67%，略高于预测市场"
+        },
+        {
+          "rank": 3,
+          "title": "台北市长（11月28日投票）：现任蒋万安约59%，民进党沈伯洋约41%",
+          "href": "https://polymarket.com/event/taipei-mayor-election-winner-20260813125857100",
+          "note": "较前一日现任约60%的定价略有回落，市场仍给现任明显溢价"
+        },
+        {
+          "rank": 4,
+          "title": "Predict.fun代币能否在11月30日前上线：由约98%暴跌至约12%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "平台推迟代币与空投申领，改称两至四周内上线；12月31日前上线约80%，12月15日前约51%"
+        },
+        {
+          "rank": 5,
+          "title": "Anthropic已定价83美元、估值逾1.5万亿美元，周四以ANT开盘，预测市场将重新交易其市值区间",
+          "href": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
+          "note": "此前市场曾交易“收盘市值低于1.25万亿美元”等合约；定价已高于该阈值，首日表现将成为新的定价锚"
+        },
+        {
+          "rank": 6,
+          "title": "以色列总理是否在12月31日前离职：约46%，较前一日约49%回落",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "下一任总理人选中，加迪·艾森科特约58%，亦较前一日回落约5个点"
+        },
+        {
+          "rank": 7,
+          "title": "以伊停火持续至11月18日：是约99%；持续至11月20日约97%、至11月22日约94%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "尽管海湾地区出现新的袭击，上述合约交易的是以色列与伊朗之间的停火是否延续"
+        },
+        {
+          "rank": 8,
+          "title": "11月底前最佳AI模型：谷歌约93%，较前一日约87%再升约6个点",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "为当日预测市场较大升幅之一；定价时点在Anthropic IPO定价之前"
+        },
+        {
+          "rank": 9,
+          "title": "比特币11月触及67500美元：由约65%降至约57%；11月跌至55000美元约11%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "上述为周二夜间附近的定价；周三比特币已跌破6.3万美元，相关合约此后可能再调整"
+        },
+        {
+          "rank": 10,
+          "title": "希斯曼奖杯：俄亥俄州接球手Jeremiah Smith约61%领先",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-fed-january-predict-fun-heisman-november-18-2026",
+          "note": "迈阿密四分卫Darian Mensah在Polymarket约17%，低于部分美国体育博彩约22%的隐含概率"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
