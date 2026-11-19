@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-20",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-20T07:20:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周四收盘：道指跌2.19%报49097.06，标普跌2.02%报7175.83，纳指跌2.25%报23879.20",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "三大指数均跌逾2%；道指6月以来首次收于5万点下方，收盘点位为5月5日以来最低；标普连跌六个交易日，与纳指同创4月以来最低收盘"
+        },
+        {
+          "rank": 2,
+          "title": "Anthropic以ANT登陆纳斯达克：开盘报111.50美元、较发行价83美元涨34%，收涨17.07%报97.17美元",
+          "href": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+          "note": "盘中一度涨约39%至115.10美元后回落；IPO筹资约813亿美元。正股开始交易后三大指数迅速跌至日内低点，市场出现“买预期、卖事实”"
+        },
+        {
+          "rank": 3,
+          "title": "AI与科技股普遍走弱：英伟达跌3.30%报145.98美元，亚马逊跌3.87%，AMD跌7.72%",
+          "href": "https://www.ctee.com.tw/news/20261120700405-430702",
+          "note": "美股七雄全线收跌：微软跌1.78%，Meta跌3.27%，谷歌跌2.93%，特斯拉跌2.43%，苹果跌0.92%。费城半导体指数跌2.41%报9419.72"
+        },
+        {
+          "rank": 4,
+          "title": "Hunterbrook披露做空AMD，指称其涉对华出口管制风险及类似“循环交易”",
+          "href": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+          "note": "AMD收跌7.72%报489.19美元，盘中领跌芯片股；费半30只成分股仅英特尔、高通、Coherent三家收涨"
+        },
+        {
+          "rank": 5,
+          "title": "道指30只成分股中仅雪佛龙收涨约0.3%，联合健康、耐克跌超5%",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "VIX收涨15.8%报28.44，盘中一度触及29.13，为4月1日以来最高。SpaceX跌3.53%报138.43美元，CoreWeave跌6.11%报44.91美元"
+        },
+        {
+          "rank": 6,
+          "title": "网络安全股逆势走强：Palo Alto Networks涨6.42%报361.73美元，Okta涨5.75%",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "Palo Alto前一日公布的第一财季业绩超预期并上调全年指引；CrowdStrike涨2.71%"
+        },
+        {
+          "rank": 7,
+          "title": "拼多多收涨11.04%报86美元，领涨热门中概；纳斯达克中国金龙指数跌1.86%",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "公司三季度利润同比基本持平。网易跌11.39%，名创优品跌9.74%，金山云跌6.57%"
+        },
+        {
+          "rank": 8,
+          "title": "避险买盘压低美债收益率：10年期收报5.046%、下行约1.9个基点，已连降四日",
+          "href": "https://www.investing.com/news/stock-market-news/us-treasury-yields-slip-on-safehaven-bid-10year-posts-fourday-losing-streak-5040235",
+          "note": "2年期收报4.770%、下行约3个基点；30年期收报5.406%、下行约0.6个基点。CME FedWatch显示12月加25个基点概率约94%，加50个基点约6%"
+        },
+        {
+          "rank": 9,
+          "title": "SpaceX据悉计划进行至少320亿美元、期限约四至六年的AI芯片相关债务融资",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "知情人士称融资分三部分，由高盛与阿波罗担任管理人，系更大规模芯片融资安排的一部分"
+        },
+        {
+          "rank": 10,
+          "title": "摩根大通称部分客户信息可能在供应商遭遇的网络攻击中泄露",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "银行称目前认为遭窃的是营销数据，或含客户姓名与电子邮件；服务未中断，并强调此事与本周早些时候的系统故障无关"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Anthropic完成史上最大规模IPO并开始交易：发行价83美元，首日收涨17.07%报97.17美元",
+          "href": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+          "note": "发行约9.796亿股、筹资约813亿美元，超过SpaceX今年6月IPO纪录。开盘涨34%，高点约115.10美元后回落，未能提振更广泛的AI交易"
+        },
+        {
+          "rank": 2,
+          "title": "英伟达再跌3.30%报145.98美元，Anthropic开盘带来的早盘反弹未能守住",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "微软跌1.78%，美光跌2.10%，台积电ADR跌约2.9%。市场继续消化黄仁勋去职后的支出与回报疑虑，以及AI基建高债务成本"
+        },
+        {
+          "rank": 3,
+          "title": "AMD收跌7.72%，做空机构Hunterbrook披露空头仓位并警告对华关联与循环交易风险",
+          "href": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+          "note": "费半指数早盘一度涨逾4.7%，收跌2.41%。光通信股多数走低，迈威尔科技跌4.86%"
+        },
+        {
+          "rank": 4,
+          "title": "谷歌发布Gemini 4 Neon：面向编程、知识工作与科研的更快前沿模型，上下文100万token",
+          "href": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "note": "定价为每百万输入/输出token 3美元与15美元；已在Gemini API、AI Studio，以及Pro/Ultra订阅者的Gemini应用和Antigravity中推出"
+        },
+        {
+          "rank": 5,
+          "title": "Anthropic CEO阿莫代伊称目前“很享受”与SpaceX的算力合作，不认为会立即缩减使用",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "他表示目前SpaceX提供的算力质量很高。另有消息称SpaceX计划同步推进至少320亿美元AI芯片相关债务融资"
+        },
+        {
+          "rank": 6,
+          "title": "英伟达与微软扩展合作：Vera Rubin NVL72已在Azure数据中心运行，并延伸至Windows PC端",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "双方称将把加速计算从云端扩展到本地Windows PC，便于企业定制模型并部署应用"
+        },
+        {
+          "rank": 7,
+          "title": "Palo Alto Networks收涨6.42%报361.73美元，业绩与指引超预期后连续走强",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "网络安全板块整体逆势上涨，Okta涨5.75%，CrowdStrike涨2.71%，与AI基础设施股形成对照"
+        },
+        {
+          "rank": 8,
+          "title": "港股科技股承压：恒生科技指数跌2.33%报3649.14点，腾讯跌6.55%报348.4港元",
+          "href": "https://www.news.cn/gangao/20261119/0fc787e98ae3484183137ed93ea544c2/c.html",
+          "note": "恒指跌1.95%报22841.62点，主板成交约2295.49亿港元；国企指数跌1.86%报7690.34点"
+        },
+        {
+          "rank": 9,
+          "title": "CoreWeave再跌6.11%报44.91美元，AI算力租赁股随估值与融资成本担忧回落",
+          "href": "https://www.investing.com/news/stock-market-news/us-treasury-yields-slip-on-safehaven-bid-10year-posts-fourday-losing-streak-5040235",
+          "note": "本月该股已累计明显回调。市场对AI基建高债务与回报不确定性的担忧仍在抑制相关标的"
+        },
+        {
+          "rank": 10,
+          "title": "存储与光模块走势分化：西部数据涨2.98%，中际旭创、新易盛在A股分别涨3.05%和5.59%",
+          "href": "https://www.cls.cn/detail/2539544",
+          "note": "美光跌2.10%，SK海力士跌2.67%。A股侧晶圆制造、先进封装偏强，GPU与部分算力芯片概念走弱，显示产业链定价并不统一"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周四收盘：上证跌0.28%报3577.62点，深成指跌0.71%报10583.20点，创业板指跌0.79%报2293.34点",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497629_1.html",
+          "note": "沪市成交约6369亿元、深市约6682亿元；科创综指跌0.33%报1423.67点，北证50跌3.99%报798.64点"
+        },
+        {
+          "rank": 2,
+          "title": "个股跌多涨少：两市涨跌比约649:4876，涨停26家、跌停72家",
+          "href": "https://wap.chinanews.com/wap/detail/chs/zw/jw697682.shtml",
+          "note": "集成电路制造、封测、稀土等偏强；厨卫电器、影视院线、广告营销等居跌幅前列。家用电器、酿酒、工程机械尾盘相对抗跌"
+        },
+        {
+          "rank": 3,
+          "title": "先进封装与光刻胶活跃：格林达、红宝丽、大港股份涨停，蓝箭电子20CM涨停，盛剑科技3连板",
+          "href": "https://wap.chinanews.com/wap/detail/chs/zw/jw697682.shtml",
+          "note": "晶圆制造方向走强，CPO低开高走，半导体设备小幅上涨，算力产业链内部分化明显"
+        },
+        {
+          "rank": 4,
+          "title": "算力芯片与AI应用调整：天普股份跌停，燧原科技20CM跌停；短剧、AI营销等板块走弱",
+          "href": "https://wap.chinanews.com/wap/detail/chs/zw/jw697682.shtml",
+          "note": "冰雪经济概念集体调整，龙江交通、冰山冷热、龙建股份、长白山跌停；AI漫剧方向浙文影业、慈文传媒、横店影视、文投控股跌停"
+        },
+        {
+          "rank": 5,
+          "title": "CPO方向相对抗跌：新易盛涨5.59%，中际旭创涨3.05%",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497629_1.html",
+          "note": "与GPU、算力租赁等高开低走形成对照。机构继续讨论国产设备、先进封装与散热材料的景气差"
+        },
+        {
+          "rank": 6,
+          "title": "北向资金全日成交2101.36亿元，约占两市成交额16.10%",
+          "href": "https://finance.eastmoney.com/a/202611193935102934.html",
+          "note": "其中沪股通1082.40亿元、深股通1018.96亿元；净买入数据不再实时披露，此处仅列成交额。寒武纪、紫金矿业、贵州茅台等成交靠前"
+        },
+        {
+          "rank": 7,
+          "title": "恒指跌1.95%报22841.62点，恒生科技指数跌2.33%，腾讯跌6.55%",
+          "href": "https://www.news.cn/gangao/20261119/0fc787e98ae3484183137ed93ea544c2/c.html",
+          "note": "国企指数跌1.86%报7690.34点；汇丰跌1.99%，港交所跌1.28%，中国人寿跌3.28%。全日主板成交2295.49亿港元"
+        },
+        {
+          "rank": 8,
+          "title": "第三批1000亿元互换便利进入实质入市，券商换入央行票据并买入股票与ETF",
+          "href": "https://www.21jingji.com/article/20261119/herald/95fb683c6913f84038af9098de6bb5c4.html",
+          "note": "中金、国泰海通等已完成操作，资金以高股息资产和宽基ETF为主。受访人士称其定位是托底、打破赎回负反馈，而非单边拉升行情"
+        },
+        {
+          "rank": 9,
+          "title": "10月我国动力和储能电池销量230.4GWh，同比增长38.8%",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497629_1.html",
+          "note": "当月合计产量245.1GWh，同比增43.6%。其中动力电池销量159.3GWh、同比增28.1%，储能电池71.1GWh、同比增70.5%"
+        },
+        {
+          "rank": 10,
+          "title": "工信部与农业农村部公布55个农业领域机器人典型应用场景",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497629_1.html",
+          "note": "通知提出加强政策支持和宣传推广，拓展农业生产精准化、智能化应用。吉林省同日印发“人工智能+”发展“十五五”规划，鼓励大型企业研发应用工业智能体"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "10年期美债收益率收报5.046%、下行约1.9个基点，为连续第四个交易日回落",
+          "href": "https://www.investing.com/news/stock-market-news/us-treasury-yields-slip-on-safehaven-bid-10year-posts-fourday-losing-streak-5040235",
+          "note": "股市急跌带来避险买盘：2年期收报4.770%，30年期收报5.406%。美元仍接近近期高位，限制了贵金属的反弹空间"
+        },
+        {
+          "rank": 2,
+          "title": "CME FedWatch：12月加息25个基点的概率约94%，加息50个基点约6%",
+          "href": "https://www.investing.com/news/stock-market-news/us-treasury-yields-slip-on-safehaven-bid-10year-posts-fourday-losing-streak-5040235",
+          "note": "市场已把12月加息视为基准情形，争论更多在幅度。前一日公布的10月会议纪要显示几乎所有委员认为进一步收紧可能适当"
+        },
+        {
+          "rank": 3,
+          "title": "上周初请失业金人数升至20.3万，高于预期的19.7万",
+          "href": "https://www.cnbc.com/2026/11/19/us-treasury-yields-investors-us-economy.html",
+          "note": "为截至11月14日当周数据。持续申领人数升至176.3万人，亦高于预期。数据略弱，但尚未明显动摇12月加息定价"
+        },
+        {
+          "rank": 4,
+          "title": "费城联储11月制造业指数由20.9大幅回落至6.3，明显低于预期",
+          "href": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+          "note": "指数仍为正，显示区域工厂活动继续扩张但动能放缓。咨商会10月领先经济指标下降0.3%至99.3。周五将公布密歇根大学11月消费者信心终值"
+        },
+        {
+          "rank": 5,
+          "title": "央行开展7675亿元隔夜逆回购，利率1.25%，净投放673亿元",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497819_1.html",
+          "note": "当日有7002亿元逆回购到期，全额满足一级交易商需求。资金面早盘宽松、尾盘转均衡；隔夜Shibor报1.2600%，下行3.3个基点"
+        },
+        {
+          "rank": 6,
+          "title": "人民币兑美元中间价报6.7128，下调10个基点",
+          "href": "https://www.chinanews.com.cn/cj/2026/11-19/10734499.shtml",
+          "note": "为中国外汇交易中心公布的11月19日银行间外汇市场中间价。美元近19个月高位对非美货币与黄金均构成压力"
+        },
+        {
+          "rank": 7,
+          "title": "3000亿元中央金融机构注资特别国债发行收官，二期1500亿元已完成招标",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497819_1.html",
+          "note": "11月18日完成二期招标，加上10月一期1500亿元，募集资金用于工行、农行、进出口银行、中国信保、中国人寿集团、中国人保、中国太平、中国再保补充核心一级资本"
+        },
+        {
+          "rank": 8,
+          "title": "截至11月17日，今年已发行新增专项债40809亿元，进度超九成",
+          "href": "https://www.cs.com.cn/xwzx/01/2026/11/18/detail_2026111810052879.html",
+          "note": "按全年4.4万亿元额度计算约九成以上；超五成资金投向市政和产业园区、交通基础设施与保障性安居工程。财政部近期还安排使用地方政府债务结存限额5500亿元"
+        },
+        {
+          "rank": 9,
+          "title": "财政部表示将抓紧提前下达2027年部分新增地方政府债务限额",
+          "href": "https://www.cs.com.cn/xwzx/01/2026/11/18/detail_2026111810052879.html",
+          "note": "旨在做好来年稳投资衔接。另有5500亿元结存限额中，2500亿元专项债务结存限额安排给四季度有实际项目资金需求的地区，并向经济大省倾斜"
+        },
+        {
+          "rank": 10,
+          "title": "商务部：中美经贸团队保持沟通，贸易理事会首次会议已于11月13日举行",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497819_1.html",
+          "note": "发言人何亚东在19日例行发布会上表示，双方通过视频会议举行中美经贸磋商机制项下贸易理事会首次会议，农业工作组也将近期召开首次会议"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "原油持稳：WTI结算跌5美分报83.21美元，为8月26日以来最低；布伦特涨3美分报91.98美元",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "霍尔木兹海峡油轮遇袭传闻与全球供应过剩、美国库存增加相互对冲。WTI盘中区间约81.66–83.91美元"
+        },
+        {
+          "rank": 2,
+          "title": "现货黄金跌至约3625.50美元/盎司，下跌约98.60美元或2.65%，再创14个月新低",
+          "href": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+          "note": "为美东时间约16:38的现货报价，日内最低约3625.30美元。加息预期与美元偏强压过地缘避险需求"
+        },
+        {
+          "rank": 3,
+          "title": "现货白银跌约4.71%至42.830美元/盎司，创去年9月以来新低附近",
+          "href": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+          "note": "工业金属与贵金属同步承压。纽曼矿业跌4.29%，巴里克黄金跌3.16%，拖累相关资源股"
+        },
+        {
+          "rank": 4,
+          "title": "伊朗海军称两艘超级油轮在霍尔木兹海峡触雷并发生爆炸，路透无法独立核实",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "地缘溢价限制油价跌幅，但美国原油库存增加与供应过剩预期仍在。周三EIA数据显示，截至11月13日当周商业原油库存增加340万桶至4.178亿桶"
+        },
+        {
+          "rank": 5,
+          "title": "国际能源署：中东冲突累计已造成约28亿桶石油与600亿立方米天然气供应损失",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "IEA同时称，若各国因此加快电气化、能效与燃料替代，到2035年全球石油需求或被削减逾4%"
+        },
+        {
+          "rank": 6,
+          "title": "JODI数据显示，沙特9月原油出口较8月升近21%至538万桶/日，为2月以来最高",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "供应端信号与地缘风险并行。美国能源部长赖特称，华盛顿正考虑增加对欧洲的柴油与原油出口"
+        },
+        {
+          "rank": 7,
+          "title": "特朗普、习近平与普京在深圳发表和平声明，并称将增加成品油供给；油市将其视为偏空的象征性信号",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "特朗普称他与习近平都认为石油应能通过霍尔木兹海峡。声明未触及伊朗或乌克兰战事细节，对即时供应的指引有限"
+        },
+        {
+          "rank": 8,
+          "title": "普京称乌克兰本周第三次打击连接俄罗斯与克里米亚的大桥后，将放弃对能源设施与航运的打击暂停设想",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "路透日前援引业内消息称，乌克兰无人机袭击已使俄炼厂合计加工量较10月下旬下降约45%，更多原油或转向出口"
+        },
+        {
+          "rank": 9,
+          "title": "加拿大基准股指因金矿与资源股下跌再跌1.59%，标普/TSX收报34028.73点",
+          "href": "https://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+          "note": "为五个多月来最低收盘。Shopify跌5.22%，Wheaton Precious Metals跌3.17%，显示贵金属价格下跌已传导至北美矿股"
+        },
+        {
+          "rank": 10,
+          "title": "比特币仍在约6.2万美元附近波动，预测市场交易其年内触及6万美元的概率升至约七成",
+          "href": "https://www.casinoreviews.net/news/anthropic-ipo-odds-jump-as-bitcoin-60k-risk-climbs-and-fed-hike-stays-high/",
+          "note": "周四各来源报价多在6.20万至6.23万美元一带，未见完全一致的收盘价。加息预期与风险资产抛售继续抑制加密货币"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "习近平、特朗普、普京在深圳举行三方会晤并发表“和平声明”，未提及乌克兰与伊朗战事",
+          "href": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "note": "会晤约1小时20分钟，正值APEC期间。声明提出推进联合国改革、增加成品油供给，并重申“核战争打不赢也绝不能打”"
+        },
+        {
+          "rank": 2,
+          "title": "三方声明称国际刑事法院等机构“不得滥用管辖权”，被外界视为对仍受ICC通缉的普京有利",
+          "href": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "note": "普京称会谈是“认真的协作”，而非拍照。分析指实质突破有限，更多是象征与议程设置"
+        },
+        {
+          "rank": 3,
+          "title": "特朗普与普京举行2025年8月以来首次双边会谈，称普京是“朋友”；欧洲领导人公开不满",
+          "href": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "note": "波兰总理图斯克说“普京不是我们的朋友，也永远不会是”；丹麦首相弗雷泽里克森称难以理解美国总统愿与普京同台"
+        },
+        {
+          "rank": 4,
+          "title": "习近平在中美双边会见中告诫美方在台湾问题上“必须做正确的事，避免两国关系出现重大曲折”",
+          "href": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "note": "中国官方称中美关系总体稳定向好。在人工智能问题上，习近平提出加强沟通协调、防范安全风险，并确保AI始终处于人类控制之下"
+        },
+        {
+          "rank": 5,
+          "title": "伊朗称两艘超级油轮在霍尔木兹海峡触雷爆炸；特朗普称对伊冲突“看看1月1日之后会发生什么”",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "路透无法独立核实触雷说法。特朗普并称他与习近平都认为石油应能通过霍尔木兹海峡，但未解释1月1日节点的含义"
+        },
+        {
+          "rank": 6,
+          "title": "胡塞武装向利雅得发射导弹，沙特民防称首都最高楼、主权财富基金总部所在大楼数层受损，暂无人员伤亡报告",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "沙通社援引民防通报。两名西方官员称，沙特正为与也门胡塞的冲突延续至明年做准备"
+        },
+        {
+          "rank": 7,
+          "title": "普京在克里米亚大桥遭本周第三次袭击后表示将予反击，并放弃暂停打击能源设施与航运的设想",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "三方“和平声明”并未就停火或安全保障提出可检验的安排，乌克兰战事仍在声明文本之外继续升级"
+        },
+        {
+          "rank": 8,
+          "title": "美国参议院共和党人否决了要求特朗普结束对伊战争或取得国会授权才能继续的立法",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "显示白宫在国会仍有空间维持现有战争授权安排。纽约时报等此前还报道，特朗普仍在权衡是否与以色列展开新一轮打击"
+        },
+        {
+          "rank": 9,
+          "title": "国际能源署估算，海湾冲突已累计造成约28亿桶石油与600亿立方米天然气供应损失",
+          "href": "https://www.investing.com/news/commodities-news/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports-5037604",
+          "note": "该机构同时警告，长期能源转型若因冲突而加速，可能在未来十年进一步压低石油需求路径"
+        },
+        {
+          "rank": 10,
+          "title": "商务部称中美经贸团队保持各层级沟通，贸易理事会首次会议已于11月13日以视频方式举行",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261119/4497819_1.html",
+          "note": "农业工作组也将近期召开首次会议。三方峰会并未公布新的对俄制裁解除或对华贸易细节安排"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "12月美联储加息25个基点：Polymarket约91.5%，CME FedWatch约94%",
+          "href": "https://www.casinoreviews.net/news/anthropic-ipo-odds-jump-as-bitcoin-60k-risk-climbs-and-fed-hike-stays-high/",
+          "note": "CasinoReviews记录的Polymarket合约在11月19日约91.5%，24小时回落约2个百分点；同期50个基点或以上加息的合约上升约2.6个百分点。期货市场尾盘约94%对6%"
+        },
+        {
+          "rank": 2,
+          "title": "比特币在2026年12月31日前触及6万美元：约70.5%，24小时上升约12个百分点",
+          "href": "https://www.casinoreviews.net/news/anthropic-ipo-odds-jump-as-bitcoin-60k-risk-climbs-and-fed-hike-stays-high/",
+          "note": "该合约以是否出现一次触及为准，不要求收盘跌破。现货仍在约6.2万美元附近，距离阈值不远"
+        },
+        {
+          "rank": 3,
+          "title": "比特币11月跌至6万美元：周三夜间约52%；11月触及67500美元约42%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "上述为美东时间11月18日23:32附近的定价，随后一个交易日现货继续在6.2万美元一带波动，相关合约可能已再调整"
+        },
+        {
+          "rank": 4,
+          "title": "Anthropic首日收盘市值落在1.25万亿至1.5万亿美元区间：盘前一度约51.65%",
+          "href": "https://www.casinoreviews.net/news/anthropic-ipo-odds-jump-as-bitcoin-60k-risk-climbs-and-fed-hike-stays-high/",
+          "note": "该报价出现在发行价83美元公布后、首日收盘前。正股最终收于97.17美元，相邻更高估值区间的合约随后料将重新定价"
+        },
+        {
+          "rank": 5,
+          "title": "瑞典下任首相：安德松约56%，看守首相克里斯特松约40%，成交额约1280万美元",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "议长将程序再暂停一周，定于11月24或25日咨询各党。安德松概率较前一日约62%回落6个点，但仍受中左翼176席算术优势支撑"
+        },
+        {
+          "rank": 6,
+          "title": "以伊停火持续至11月20日：约98%–99%；持续至11月22日约92.5%–96%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "不同汇总源在11月19日给出的数字略有差异。合约衡量的是以色列与伊朗之间的停火是否延续，并不覆盖海湾其他袭击"
+        },
+        {
+          "rank": 7,
+          "title": "俄乌在2027年5月31日前达成停火协议：周三夜间约60%，较前一日约51%上升约9个点",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "定价时点在深圳三方会晤落地之前。声明未直接就停火作出安排，该合约此后可能随峰会解读而波动"
+        },
+        {
+          "rank": 8,
+          "title": "美国在3月31日前宣布结束对伊朗封锁：约47%，较前一日约54%下降约7个点",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "与霍尔木兹航运风险、国会否决限战立法等消息方向一致，显示市场并未抢先交易快速解封"
+        },
+        {
+          "rank": 9,
+          "title": "超级碗：西雅图海鹰在Polymarket约+2603（隐含约3.7%），明显长于美国体育博彩约+1500至+1600",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "前排定价更接近：49人约+576，比尔约+614，美洲虎约+700。差距主要出现在NFC争夺集团"
+        },
+        {
+          "rank": 10,
+          "title": "塞尔维亚下任总理：学生名单尚未提名，什奥什基奇约47%、波波维奇约11%",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-sweden-pm-bitcoin-60k-seahawks-november-19-2026",
+          "note": "新议会11月17日首次开会，学生名单占250席中的140席，须在90天内组阁。波波维奇一日回落约14个点"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
