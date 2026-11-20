@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-21",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-21T07:15:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周五收盘：道指跌1.93%报48147.33，标普跌3.70%报6910.39，纳指跌5.28%报22617.73",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "标普与道指均较收盘历史高点回撤逾10%，双双进入技术性调整；纳指年内转跌约2.7%。标普连跌七日，为2020年疫情以来最长纪录"
+        },
+        {
+          "rank": 2,
+          "title": "本周惨烈：道指周跌约8%，为2020年3月以来最差；纳指周跌约10%，为六年多最大单周回撤",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "标普500本周下跌8.6%，为2025年4月贸易战升级以来最差一周。纳指本周跌幅也接近2020年3月以来最差水平"
+        },
+        {
+          "rank": 3,
+          "title": "英伟达收跌14.01%报125.53美元；路透称美国证交会正调查其会计处理",
+          "href": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "路透报道前该股已跌逾6%，消息传出后跌幅扩大至约13%。黄仁勋风波以来累跌逾25%；CNBC称这是其2008年金融危机以来最长连周下跌"
+        },
+        {
+          "rank": 4,
+          "title": "芯片股全线重挫：AMD跌13.3%，美光跌13.9%，博通跌12.1%，费城半导体指数跌10.7%",
+          "href": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "note": "康宁跌10.9%，Bloom Energy跌15.3%。科技抛售并向全球扩散，日经与韩国综指隔夜各跌逾5%"
+        },
+        {
+          "rank": 5,
+          "title": "纳斯达克100指数跌5.6%，盘中较近期高点回撤20%，一度进入熊市",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "Anthropic未能提振更广泛的AI交易，市场转向风险规避。VIX收涨26.20%报35.89，较周四收盘28.44大幅抬升"
+        },
+        {
+          "rank": 6,
+          "title": "Anthropic首个完整交易日收跌9.1%报88.30美元，仍高于发行价83美元",
+          "href": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "note": "较周四盘中高点115.10美元回落约23%。美联社将其与Facebook 2012年上市初期的回撤作比较"
+        },
+        {
+          "rank": 7,
+          "title": "科技巨头普遍收跌：特斯拉跌7.64%，谷歌A/B类分别跌2.59%与2.70%，苹果跌约1.90%",
+          "href": "https://www.itiger.com/hans/news/1171434607",
+          "note": "另有行情显示Meta跌约5.93%，亚马逊跌约4.10%，微软跌约2.77%。三倍做空半导体ETF（SOXS）逆势涨约31.71%"
+        },
+        {
+          "rank": 8,
+          "title": "中概与亚洲科技股跟跌：台积电ADR跌9.48%，百度跌6.75%，阿里巴巴跌2.68%，拼多多跌2.70%",
+          "href": "https://www.itiger.com/hans/news/1171434607",
+          "note": "京东跌2.89%。隔夜亚洲市场已先遭重挫，周五美股科技抛售进一步加深联动"
+        },
+        {
+          "rank": 9,
+          "title": "避险买盘压低美债收益率：10年期下行约12个基点至4.932%，两年期报4.634%，30年期报5.316%",
+          "href": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html",
+          "note": "两年期下行逾14个基点，30年期下行逾8个基点。CME FedWatch显示12月加息25个基点概率仍约92%，较周四略降"
+        },
+        {
+          "rank": 10,
+          "title": "密歇根大学11月消费者信心终值升至51.5，高于10月终值48.0",
+          "href": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html",
+          "note": "调查提到油价回落及中期选举后对商业前景的预期有所改善，但信心仍低于今年2月美国对伊朗开战前水平"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "路透独家：美国证交会正调查英伟达会计处理，股价随后加速下跌、收跌14.01%",
+          "href": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "调查启动时间与具体科目尚未公开，调查本身并不等于违规。市场同时重新关注其去年调整地区收入口径、新加坡销售占比等披露变化"
+        },
+        {
+          "rank": 2,
+          "title": "Anthropic承销商行使全部绿鞋期权，IPO募资增至约935亿美元；含同期私募总规模约1195亿美元",
+          "href": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+          "note": "共发行11.27亿股A类股、定价83美元；其中绿鞋1.47亿股再筹资约122亿美元。谷歌、微软、英伟达、AMD等参与约260亿美元私募"
+        },
+        {
+          "rank": 3,
+          "title": "Anthropic收跌9.1%报88.30美元，历史级IPO未能提振更广泛的AI交易",
+          "href": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+          "note": "仍高于发行价83美元，但较周四开盘111.50美元和盘中高点115.10美元明显回落。财长贝森特称其为“只可能发生在美国的故事”"
+        },
+        {
+          "rank": 4,
+          "title": "费半指数跌10.7%，AMD跌13.3%、美光跌13.9%、博通跌12.1%，AI基础设施交易继续瓦解",
+          "href": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "note": "英伟达在过去10个交易日中有9日收跌。分析认为市场正在重新定价“AI资本开支可以无限扩张并支撑股市”的假设"
+        },
+        {
+          "rank": 5,
+          "title": "谷歌为Mac版Gemini应用推出Computer Use，可在后台跨本地文件、桌面应用与网页完成多步任务",
+          "href": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+          "note": "11月19日起在美国以英语向Google AI Plus/Pro/Ultra个人账户推送，需Apple Silicon及macOS Sequoia 15.0+；用户需批准应用权限与关键操作"
+        },
+        {
+          "rank": 6,
+          "title": "纳指年内转跌，纳斯达克100盘中较近期高点回撤20%，AI权重拖累扩大为全市场调整",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "除芯片股外，与数据中心相关的康宁、Bloom Energy等也大幅下跌。中期选举中主张放缓数据中心建设的候选人胜选，加剧开支担忧"
+        },
+        {
+          "rank": 7,
+          "title": "台积电ADR跌9.48%，日经与韩国综指隔夜各跌逾5%，全球AI供应链同步承压",
+          "href": "https://www.itiger.com/hans/news/1171434607",
+          "note": "亚洲科技股已先于美股开盘走弱，周五美股芯片与AI股的更深跌幅进一步强化联动抛售"
+        },
+        {
+          "rank": 8,
+          "title": "券商对ANT首日评级分化：Seaport给中性，William Blair给跑赢大盘",
+          "href": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+          "note": "Seaport称公司出色但估值需要未来两年显著更高增速；William Blair看好效率与长期盈利能力，同时提醒行业仍处于早期、不确定性高"
+        },
+        {
+          "rank": 9,
+          "title": "CNBC援引消息称，Anthropic联合创始人、首席算力官汤姆·布朗计划向Trump Accounts大额捐赠",
+          "href": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+          "note": "贝森特周五在CNBC采访中提到一名联合创始人将在未来几周作出捐赠。公司与政府关系今年曾公开紧张，9月后有所缓和"
+        },
+        {
+          "rank": 10,
+          "title": "市场将英伟达会计调查与黄仁勋去职、出口管制及“循环交易”担忧叠加定价",
+          "href": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "路透并提及美国司法部仍在审视英伟达129亿美元收购Hugging Face交易及更广泛的反垄断调查。证交会与英伟达均未就新调查置评"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "A股分化收跌：沪指跌1.23%报3533.79，深成指跌3.09%报10256.39，创业板指跌3.54%报2212.13",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "创业板指下跌81.21点，收于当日最低。部分中文报道将沪指跌幅记为1.22%，收盘点位一致"
+        },
+        {
+          "rank": 2,
+          "title": "上证50尾盘快速拉升收涨0.45%报2785.92，盘中一度跌超2%；沪指险守3500点",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "指数走势明显分化，权重红利与银行股尾盘护盘，成长与科技方向继续调整"
+        },
+        {
+          "rank": 3,
+          "title": "沪深京三市成交额1.43万亿元，较前一日放量1165亿元；全市场超5200只个股下跌",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "中新经纬称两市涨跌比为313:5236，涨停30家、跌停61家。另有快报称北证50跌4.85%"
+        },
+        {
+          "rank": 4,
+          "title": "银行与红利股尾盘创历史新高：建设银行、工商银行、中信银行、长江电力均刷新纪录，中国石油涨4%",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "国有大型银行、水产养殖、电信运营商等板块领涨；资金明显偏向高股息与防御方向"
+        },
+        {
+          "rank": 5,
+          "title": "半导体与光刻机链继续调整：天普股份2连跌停，联合化学20CM跌停，通富微电跌停",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "海光信息、沐曦股份等遭重挫。集成电路封测、电子化学品、存储芯片等方向跌幅居前"
+        },
+        {
+          "rank": 6,
+          "title": "PCB概念逆势活跃：中京电子2连板，澳弘电子、超声电子、满坤科技涨停",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "元件板块冲高后仍有多股触及涨停，与半导体主链的普跌形成对照"
+        },
+        {
+          "rank": 7,
+          "title": "华为算力真视通4连板，荣联科技涨停；AI漫剧概念龙版传媒、华媒控股涨停，果麦文化涨超10%",
+          "href": "https://www.cnfin.com/gs-lb/detail/20261120/4498149_1.html",
+          "note": "机器人概念盘中局部异动，克来机电、长华集团涨停。主题炒作与主链调整并存"
+        },
+        {
+          "rank": 8,
+          "title": "北向资金成交2384.70亿元，占两市成交额16.77%；深股通成交居前为宁德时代、中际旭创、新易盛",
+          "href": "https://finance.eastmoney.com/a/202611203936180328.html",
+          "note": "沪股通成交居前为贵州茅台、招商银行、寒武纪。上述为成交额，现有公开报道未同时给出当日净流入"
+        },
+        {
+          "rank": 9,
+          "title": "家电与部分消费制造走弱：小熊电器等小家电股触及跌停，光刻机、黑色家电板块跌幅居前",
+          "href": "https://wap.chinanews.com/wap/detail/chs/zw/jw697832.shtml",
+          "note": "猪肉概念相对活跃，金新农涨停。市场呈现“银行红利独强、成长普跌”的周末前结构"
+        },
+        {
+          "rank": 10,
+          "title": "央行公布11月LPR：1年期3.0%、5年期以上3.5%，均与上月持平",
+          "href": "https://www.news.cn/20261120/3be19c9469fb4992beda43b8bf6462d2/c.html",
+          "note": "新华社称10月企业新发放贷款加权平均利率约2.9%，同比低约0.2个百分点；个人住房贷款利率约3.1%，与上年同期基本持平"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "避险推低美债收益率：10年期报4.932%、下行约12个基点，两年期报4.634%，30年期报5.316%",
+          "href": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html",
+          "note": "两年期下行逾14个基点，30年期下行逾8个基点。Advisor Perspectives记录的收盘约值为10年期4.92%、两年期4.63%"
+        },
+        {
+          "rank": 2,
+          "title": "CME FedWatch显示12月加息25个基点概率仍约92%，较周四略降；Polymarket约90%",
+          "href": "https://www.cnbc.com/2026/11/20/treasury-yields-bonds-inflation.html",
+          "note": "概率仍高于一周前。市场基本放弃50个基点加息定价。美联储理事沃勒周三曾对CNBC表示，下月或需一次50个基点的加息以“震慑”市场"
+        },
+        {
+          "rank": 3,
+          "title": "中国11月LPR保持不变：1年期3.0%，5年期以上3.5%",
+          "href": "https://www.news.cn/20261120/3be19c9469fb4992beda43b8bf6462d2/c.html",
+          "note": "中国人民银行授权全国银行间同业拆借中心公布，符合市场预期。贷款利率仍处低位"
+        },
+        {
+          "rank": 4,
+          "title": "密歇根大学11月消费者信心终值升至51.5，高于10月终值48.0，与上年同期持平",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "生活成本仍是主要拖累，但通胀预期在选举前后有所改善。访查期为10月20日至11月16日"
+        },
+        {
+          "rank": 5,
+          "title": "美联储理事、FOMC投票委员库克周五仍表态支持继续提高利率",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "短端四周期、八周期国库券因到期落在12月议息之后，未能同步享受避险行情"
+        },
+        {
+          "rank": 6,
+          "title": "日本10月全国CPI同比升2.3%，核心CPI升2.2%，略低于预期的2.3%",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "CPI前值为同比2.1%。通胀仍高于日本银行2%目标，但核心略不及预期"
+        },
+        {
+          "rank": 7,
+          "title": "英国10月零售销售环比升0.7%，好于预期的持平；核心零售销售环比升0.9%",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "10月公共部门净借款170亿英镑，低于预期的180亿英镑。英央行委员格林重申，锚定通胀预期的风险权衡仍偏向采取足够行动"
+        },
+        {
+          "rank": 8,
+          "title": "德国10月PPI环比升1.4%、同比升8.1%，均高于预期的0.9%与7.2%",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "欧洲生产价格反弹，增加了市场对全球通胀黏性的关注"
+        },
+        {
+          "rank": 9,
+          "title": "中国10月外商直接投资同比下降2.4%，降幅较前值4.3%收窄",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "香港10月CPI同比升2.2%。印度10月基础设施产出同比升10.9%，外汇储备由7195.5亿美元降至7053.4亿美元"
+        },
+        {
+          "rank": 10,
+          "title": "下周焦点：周三将公布三季度GDP修正值与10月PCE，周四感恩节美股与美债休市",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "市场对PCE与核心PCE的共识为环比各升0.3%。本周还将有2年、5年、7年期国债拍卖。 Freddie Mac 30年期抵押贷款利率最新为7.28%，较上周上升"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "COMEX黄金12月合约结算跌4.62%报3515.40美元/盎司，白银跌7.41%报41.07美元",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "白银为该机构跟踪品种中结算跌幅最大者，较周四结算价44.359美元大幅回落。贵金属与工业金属全部收跌"
+        },
+        {
+          "rank": 2,
+          "title": "工业金属同步走弱：COMEX铜结算跌2.64%报5.4850美元/磅，铂金跌4.30%，钯金跌2.75%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "铂金1月合约报1289.60美元/盎司，钯金12月合约报893.10美元。有评论称金银已回到2025年9月附近水平"
+        },
+        {
+          "rank": 3,
+          "title": "WTI 12月原油结算涨0.93%报83.98美元/桶，布伦特1月合约涨0.64%报92.57美元",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "布伦特午盘曾跌1.45%后转涨。油价在霍尔木兹海峡持续紧张、沙特与胡塞互袭的背景下仍收高"
+        },
+        {
+          "rank": 4,
+          "title": "天然气12月合约涨4.38%报3.411美元/百万英热，领涨能源品",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "RBOB汽油涨0.30%，取暖油跌0.75%。美国能源信息署下周天然气库存报告因感恩节提前至11月25日公布"
+        },
+        {
+          "rank": 5,
+          "title": "比特币跌约5.61%，21:31 GMT报价约58597美元",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "不同行情源对日收盘的记录略有差异，大致落在5.83万至5.90万美元一带。风险资产抛售与美股科技股大跌形成共振"
+        },
+        {
+          "rank": 6,
+          "title": "VIX收涨26.20%报35.89，较周四收盘28.44大幅抬升",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "波动率升幅与三大股指重挫、芯片股双位数下跌相一致，显示市场避险与对冲需求迅速升温"
+        },
+        {
+          "rank": 7,
+          "title": "美元指数在103.90附近持稳，美元兑日元跌约0.66%至约158.61",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "欧元兑美元约1.0961，英镑兑美元约1.3075。另一来源记录美元指数微跌至103.80，人民币兑美元中间价一带亦略有波动"
+        },
+        {
+          "rank": 8,
+          "title": "农产品分化：可可涨1.33%，大豆涨1.10%，咖啡跌2.72%",
+          "href": "https://edgeconsultancykw.com/commodities-wrap-20-november-2026/",
+          "note": "玉米跌0.83%，糖跌0.76%，小麦跌0.50%，棉花跌0.28%。农产品中仅可可与大豆结算上涨"
+        },
+        {
+          "rank": 9,
+          "title": "风险规避交易下，金属成为仅次于科技股的主要抛售对象，原油则相对抗跌并收涨",
+          "href": "https://treasurybonds.com/news/2026-11-20-bond-market-wrap-up-treasuries-rally-hard-as-tech-stocks-slide-and-rate-hike-fears-cool/",
+          "note": "有债券市场评论称，WTI盘中曾触及8月下旬以来低点后回升，本周累跌幅度收窄至略超4美元"
+        },
+        {
+          "rank": 10,
+          "title": "地缘溢价仍在油市中定价：美国与伊朗冲突未结束，沙特红海港口与电站成为新的袭击与预警目标",
+          "href": "https://www.reuters.com/3fec1b0a85a0/world/middle-east/yemens-houthis-threaten-strike-saudi-red-sea-ports-2026-11-20/",
+          "note": "布伦特结算报92.57美元。航运与空运警告若升级，或进一步扰动原油与避险资产的短线定价"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "特朗普称与普京在深圳会晤“谈得很好”，认为有机会达成协议，但拒绝在达成更广泛和平协议前讨论对乌安全保证",
+          "href": "https://www.investing.com/news/world-news/trump-says-he-putin-had-very-good-talks-on-ukraine-5042416",
+          "note": "他在白宫记者会上称普京希望通过外交途径结束战争。被问及与俄方公开表态矛盾时，他将其归因于谈判中的舆论战"
+        },
+        {
+          "rank": 2,
+          "title": "三方峰会声明后，俄罗斯周五对乌克兰发动大规模导弹与无人机袭击，基辅等地至少8人死亡",
+          "href": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+          "note": "基辅市长克利奇科称夜间袭击瞄准桥梁；总理称九个地区共28人受伤。利沃夫一座火车站遇袭，市长称2人死亡。路透称袭击还打击电力设施"
+        },
+        {
+          "rank": 3,
+          "title": "库什纳称俄方似乎可接受类似北约第5条的安全保证，俄副外长里亚布科夫周五拒绝任何“准会员”安排",
+          "href": "https://www.investing.com/news/world-news/trump-says-he-putin-had-very-good-talks-on-ukraine-5042416",
+          "note": "华尔街日报早前报道，库什纳在近期闭门讨论中谈过若乌克兰割让领土则可考虑北约成员国身份，或沿前线冻结冲突并提供条约保障"
+        },
+        {
+          "rank": 4,
+          "title": "沙特领导联盟空袭也门荷台达港；胡塞武装警告航空公司避开沙特领空，并宣称袭击吉赞港与舒盖格电站",
+          "href": "https://www.reuters.com/3fec1b0a85a0/world/middle-east/yemens-houthis-threaten-strike-saudi-red-sea-ports-2026-11-20/",
+          "note": "联盟称拦截并摧毁两枚射向吉赞的弹道导弹，弹片落在舒盖格一带。胡塞还呼吁航运公司立刻撤离沙特红海港口。此事发生在胡塞袭击利雅得最高楼的次日"
+        },
+        {
+          "rank": 5,
+          "title": "特朗普称将把伊朗战争下一步推迟到新年后再决定；伊朗外长称若美方满足条件，霍尔木兹海峡48小时内可重开",
+          "href": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+          "note": "特朗普同时表示，伊朗想要的方案对他而言并不可接受。伊朗条件包括停战、解冻资产、解除石油制裁并结束港口封锁"
+        },
+        {
+          "rank": 6,
+          "title": "美国参议院以51比48否决要求特朗普结束对伊战争或获得国会授权的决议",
+          "href": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+          "note": "这是中期选举后首次就此问题表决。该决议此前已在众议院获得跨党派通过"
+        },
+        {
+          "rank": 7,
+          "title": "波兰称俄罗斯隔夜以两枚导弹和一架无人机侵入其领空，时值“自愿联盟”在波举行军演",
+          "href": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+          "note": "国防部长科西尼亚克-卡梅什谴责这一挑衅。路透报道了相关声明"
+        },
+        {
+          "rank": 8,
+          "title": "爱沙尼亚宣布将关闭与俄罗斯的边境至少六个月，俄方威胁采取政治与外交反制",
+          "href": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+          "note": "俄外交部发言人扎哈罗娃指责塔林在筹划新的“铁幕”，并称若计划实施，俄方将采取必要措施维护国家利益"
+        },
+        {
+          "rank": 9,
+          "title": "国际法院裁定缅甸对罗兴亚人构成种族灭绝；英国宣布驱逐缅甸国防武官并召见临时代办",
+          "href": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+          "note": "15名法官以9比6作出裁决。缅甸政府否认并强调并非全体法官同意"
+        },
+        {
+          "rank": 10,
+          "title": "台湾11月28日九合一选举临近；习近平在与特朗普会晤中强调美方须在台湾问题上“做正确的事”",
+          "href": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+          "note": "台湾方面同时关注美方军售进展。投票日前，预测市场对台北市长等关键选举已有定价"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "12月美联储加息25个基点：Polymarket约90%，CME FedWatch约92%",
+          "href": "https://polydict.app/markets",
+          "note": "Polydict记录的时间为11月20日22:51 UTC（北京时间21日06:51），该合约24小时成交约400万美元。较周四的期货定价略降，但仍是主导情景"
+        },
+        {
+          "rank": 2,
+          "title": "比特币11月触及6万美元：约85%，24小时成交约85万美元",
+          "href": "https://polydict.app/markets",
+          "note": "该合约以是否出现一次触及为准。现货已落在约5.86万美元附近，故11月触及6万美元的定价较前一日明显上升"
+        },
+        {
+          "rank": 3,
+          "title": "比特币在2026年触及5.5万美元：约63%；11月16–22日触及6万美元约66%",
+          "href": "https://polydict.app/markets",
+          "note": "另有“11月21日比特币高于5.8万美元”的合约约77%。不同到期与阈值合约的定价，反映市场正交易继续下探与短线反弹两种路径"
+        },
+        {
+          "rank": 4,
+          "title": "以伊停火持续至11月20日约99%；持续至11月22日约91%",
+          "href": "https://polymarketflow.com/blog/market-insight-2026-11-20",
+          "note": "11月22日合约成交约220万美元。该系列衡量的是以色列与伊朗之间的停火是否延续，并不覆盖海湾其他战场或沙特—胡塞冲突"
+        },
+        {
+          "rank": 5,
+          "title": "美伊在11月22日前达成有效停火：约38%，成交约56.5万美元",
+          "href": "https://polymarketflow.com/blog/market-insight-2026-11-20",
+          "note": "与特朗普推迟到新年后再决定下一步、并称伊方方案不可接受的表态相一致，市场并未交易近在眼前的全面停火"
+        },
+        {
+          "rank": 6,
+          "title": "台北市长：蒋万安约64%，挑战者沈伯洋处下风；该市场早前累计成交约680万美元",
+          "href": "https://rg.org/news/prediction-markets/polymarket-daily-taipei-mayor-bitcoin-broncos-november-20-2026",
+          "note": "选前民调禁刊后，预测市场仍偏向现任国民党市长。禁刊前最后一轮台湾民意基金会等调查曾显示沈伯洋领先，两者出现明显分差。投票日为11月28日"
+        },
+        {
+          "rank": 7,
+          "title": "美国在3月31日前宣布结束对伊朗封锁：约42%",
+          "href": "https://polydict.app/markets",
+          "note": "24小时成交约18.4万美元。定价仍低于五成，显示市场没有抢先交易快速解封"
+        },
+        {
+          "rank": 8,
+          "title": "黄仁勋在2027年12月31日前重返英伟达：约31%，24小时成交约57.4万美元",
+          "href": "https://polydict.app/markets",
+          "note": "另有“英伟达下一任CEO”市场显示勒内·哈斯约26%。相关合约在SEC调查与股价暴跌后成交活跃"
+        },
+        {
+          "rank": 9,
+          "title": "Anthropic至2026年12月31日的估值档：1.0万亿美元档约68%；1.75万亿美元档此前一度降至约26%",
+          "href": "https://polydict.app/markets",
+          "note": "正股周五已明显回落，更高估值区间的合约随之重新定价。1.75万亿美元档数据来自当日稍早的汇总，可能已再变动"
+        },
+        {
+          "rank": 10,
+          "title": "“AI泡沫在2027年6月30日前破裂”：约69%，24小时成交约20万美元",
+          "href": "https://polydict.app/markets",
+          "note": "在纳指年内转跌、标普进入调整的背景下，这一偏主题化的合约也随风险情绪升温。预测市场定价不等于事件定义已经明确，只反映交易员的即时赔率"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
