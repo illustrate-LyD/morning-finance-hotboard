@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-22",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-22T07:25:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周五收盘：道指跌1.93%报48147.33，标普跌3.70%报6910.39，纳指跌5.28%报22617.73",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "标普与道指均较收盘历史高点回撤逾10%，进入技术性调整；纳指年内转跌约2.7%。标普连跌七日，为2020年疫情以来最长纪录"
+        },
+        {
+          "rank": 2,
+          "title": "本周惨烈：道指周跌约8%，纳指周跌约10%，标普周跌8.6%",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "道指为2020年3月以来最差单周；标普为2025年4月贸易战升级以来最差一周。纳指周跌幅也接近2020年3月以来最差水平"
+        },
+        {
+          "rank": 3,
+          "title": "下周展望：市场争论是超卖反弹还是继续下探；周三将公布10月PCE，周四感恩节休市",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "标普相对强弱指数周五跌破30。若通胀数据好于担忧，或缓解市场对美联储12月加息50个基点的恐惧；周五将提前收盘，流动性偏薄"
+        },
+        {
+          "rank": 4,
+          "title": "英伟达收跌约14%；路透称美国证交会正调查其会计处理",
+          "href": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "消息传出前该股已跌逾6%，随后跌幅扩大。公司连续第七个交易日收跌，本周累计跌约23%；调查本身并不等于认定违规"
+        },
+        {
+          "rank": 5,
+          "title": "芯片股全线重挫：费城半导体指数跌约10.7%，AMD跌逾13%，美光跌近14%",
+          "href": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "note": "博通跌约12%。Anthropic上市次日回落约8.5%，仍高于发行价83美元。纳斯达克100收跌5.61%"
+        },
+        {
+          "rank": 6,
+          "title": "VIX收涨至35.89；避险买盘压低美债收益率，10年期约降至4.92%",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "两年期约报4.63%、下行约13个基点，30年期约报5.31%。10年期降幅主要由实际利率下行驱动。有报道称VIX盘中一度突破40"
+        },
+        {
+          "rank": 7,
+          "title": "资金转向防御：沃尔玛、好市多、强生、宝洁等消费与医疗股逆势收涨",
+          "href": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "note": "沃尔玛涨逾1%，好市多、强生和宝洁各涨约1%。金融板块跌幅明显小于科技板块"
+        },
+        {
+          "rank": 8,
+          "title": "亚洲科技股先遭重挫：日经跌5.06%，韩国综指跌5.21%，恒指跌1.89%报22410.80",
+          "href": "https://www.news.cn/gangao/20261120/31d9c413b8d74bcba447d6b448cd2414/c.html",
+          "note": "恒生科技指数跌3.78%报3511.14点，录得八日连跌，本周累跌7.92%；恒指本周累跌5.19%"
+        },
+        {
+          "rank": 9,
+          "title": "中概股普遍收跌：纳斯达克中国金龙指数跌3.37%，本周累跌9.13%",
+          "href": "https://www.yicai.com/news/103448914.html",
+          "note": "小鹏跌近14%，蔚来、理想跌逾7%，百度跌近7%；阿里巴巴、拼多多和京东跌近3%"
+        },
+        {
+          "rank": 10,
+          "title": "特朗普表示将对在美国境外建设数据中心的企业征税",
+          "href": "https://www.yicai.com/news/103448914.html",
+          "note": "相关表态尚未明确具体税率、实施时间及法律机制。下周日历还包括周一公布的标普全球PMI初值"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "独立验证：Anthropic数学家Alpöge借助Claude给出的黎曼猜想Lean证明，获Lean与Mathlib社区确认",
+          "href": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+          "note": "两机构周六下午宣布已独立核验该证明。Alpöge称约六周完成，并称“收尾阶段Claude远超我”。时机正值公司IPO之后，他本人也承认“时机糟透了”"
+        },
+        {
+          "rank": 2,
+          "title": "Lean社区：对这份约1700万行的形式化证明“有充分信心”，并核验其证明的正是Mathlib中的黎曼猜想陈述",
+          "href": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "note": "数十人复现编译，多种独立证明检验器通过。目前尚无完整的人类可读论述，后续写作为各方关注点"
+        },
+        {
+          "rank": 3,
+          "title": "路透独家发酵：美国证交会正调查英伟达会计处理，股价随后加速下跌、收跌约14%",
+          "href": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "调查启动时间与具体科目尚未公开。市场同时重新审视其对AI客户与数据中心项目的融资、担保安排"
+        },
+        {
+          "rank": 4,
+          "title": "Anthropic上市次日回落约8.5%，未能提振更广泛的AI交易；承销商行使绿鞋后IPO募资约935亿美元",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "发行价83美元，仍高于发行价。公司还同步完成约260亿美元私募，参与者包括微软、英伟达、谷歌等"
+        },
+        {
+          "rank": 5,
+          "title": "AI基础设施交易继续瓦解：费半跌约10.7%，纳指抹去年内涨幅，市场重估资本开支与回报假设",
+          "href": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+          "note": "分析认为抛售已不只是估值驱动，正在向更广板块扩散。英伟达本周营收与指引仍强，但未能扭转情绪"
+        },
+        {
+          "rank": 6,
+          "title": "特朗普称将对在美国境外建设数据中心的企业征税，为AI资本开支再添政策变数",
+          "href": "https://www.yicai.com/news/103448914.html",
+          "note": "税率、时点和法律机制均未明确。叠加中期选举后对数据中心建设的争议，开支前景更受关注"
+        },
+        {
+          "rank": 7,
+          "title": "欧洲央行行长拉加德提议，芯片厂和数据中心等项目可由欧盟公共资金承担首轮损失以吸引私人资本",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "她周五在法兰克福发表上述建议，并提及欧央行面向其他央行的欧元回购工具已是常设机制，逾30家央行表达参与意向"
+        },
+        {
+          "rank": 8,
+          "title": "X上热议：两年内AI能力大幅跃升，但英伟达股价仍徘徊在约123–131美元一带，与基本面叙事脱节",
+          "href": "https://x.com/i/trending/2123944299318640866",
+          "note": "讨论将模型能力、实验室估值扩张与芯片股持续下跌对照，看多者强调需求仍在，看空者担忧开支周期拐头"
+        },
+        {
+          "rank": 9,
+          "title": "全球AI供应链同步承压：台积电ADR周五跌逾9%，日经与韩国综指各跌逾5%",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "亚洲市场收盘时路透有关英伟达会计调查的报道尚未刊出，随后美股芯片跌幅进一步扩大"
+        },
+        {
+          "rank": 10,
+          "title": "下周仍有扰动：黄仁勋国会听证安排在下月，加上12月9日议息，AI交易难言尘埃落定",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "若Anthropic股价出现修复，或有助于缓和市场对AI交易的担忧，但技术面提醒不宜轻易相信反弹"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "A股本周调整：上证指数周跌约2.77%，深证成指周跌约6.49%，创业板指周跌约8.82%",
+          "href": "https://www.21jingji.com/article/20261121/herald/79ffdb742dbd6a39ff32c37d16528f33.html",
+          "note": "风险偏好回落，电力设备、电子、机械、计算机、医药等方向承压。周五沪指跌1.23%报3533.79，深成指跌3.09%，创业板指跌3.54%"
+        },
+        {
+          "rank": 2,
+          "title": "港股跟跌：恒指周五跌1.89%报22410.80点，恒生科技指数跌3.78%报3511.14点",
+          "href": "https://www.news.cn/gangao/20261120/31d9c413b8d74bcba447d6b448cd2414/c.html",
+          "note": "恒生科技指数录得八日连跌，盘中一度击穿3500点。全周恒指累跌5.19%，恒生科技指数累跌7.92%"
+        },
+        {
+          "rank": 3,
+          "title": "下周一：首批18只主动ETF将在沪深交易所挂牌上市，合计募集360亿元",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "18只产品全部触及20亿元募集上限，17只因超募比例配售，有效认购户数超33万户，覆盖均衡、价值、红利、质量和成长等策略"
+        },
+        {
+          "rank": 4,
+          "title": "通威股份拟10亿元—20亿元回购股份，用于员工持股计划或股权激励",
+          "href": "https://finance.sina.com.cn/roll/2026-11-21/doc-iniznhsh6732605.shtml",
+          "note": "回购价格不超过17.2元/股。同日早报还提及吉林敖东拟1亿元—2亿元回购，泸州老窖控股股东拟增持5000万元—1亿元"
+        },
+        {
+          "rank": 5,
+          "title": "海油工程宣布签订卡塔尔海管项目，合同金额约8亿美元",
+          "href": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-iniznakk6788412.shtml",
+          "note": "公司公告显示，将建设逾100公里海管、电缆及脐带缆，工期约66个月"
+        },
+        {
+          "rank": 6,
+          "title": "北交所正式推出创新型中小企业发展公司债券，提供主体类和用途类两种融资模式",
+          "href": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-iniznakk6788412.shtml",
+          "note": "主体类支持符合条件的创新型中小企业直接发债；用途类则支持优质主体发债、将募集资金主要投向创新型中小企业"
+        },
+        {
+          "rank": 7,
+          "title": "一周熊股：金利华电周跌42.72%领跌；国产GPU龙头燧原科技、沐曦股份周跌均超36%",
+          "href": "https://www.21jingji.com/article/20261121/herald/79ffdb742dbd6a39ff32c37d16528f33.html",
+          "note": "金利华电日前公告终止发行股份及支付现金购买资产并募集配套资金。电力设备板块有4只个股进入周跌幅前20"
+        },
+        {
+          "rank": 8,
+          "title": "国家发改委召开视频会议，调度督促政府投资资金支付使用和项目储备",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261121/4498556_1.html",
+          "note": "会议要求加快推动政府投资项目建设和资金支付，尽快形成更多实物工作量，并提高项目储备质效"
+        },
+        {
+          "rank": 9,
+          "title": "下周还有3只新股发行、1只新股上市；成品油调价窗口为11月26日24时",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "新股分别为傲拓科技、天广实、猎奇智能；华晟智能将于23日在北交所上市。金联创测算本轮汽柴油标准品零售价或下调460元/吨"
+        },
+        {
+          "rank": 10,
+          "title": "周五权重与成长继续分化：银行和红利股尾盘护盘，半导体与成长方向调整",
+          "href": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-iniznakk6788412.shtml",
+          "note": "早报汇总显示，全市场逾4800只个股下跌。周末暂无交易，关注周一主动ETF上市与外围风险情绪"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "费城联储主席保尔森：利率需要进一步上升，但不预设加息节奏",
+          "href": "https://www.cls.cn/detail/2540685",
+          "note": "她周五表示愿考虑在未来会议上连续加息，同时倾向以“审慎方式”推进，以便家庭、企业和银行适应。她今年拥有FOMC投票权"
+        },
+        {
+          "rank": 2,
+          "title": "多位美联储官员倾向12月再加息；沃勒本周重申可考虑一次加息50个基点",
+          "href": "https://www.cls.cn/detail/2540685",
+          "note": "美联储9月加息25个基点、10月按兵不动。上次会议纪要显示，几乎所有决策者认为未来几个月仍有必要进一步收紧"
+        },
+        {
+          "rank": 3,
+          "title": "中国人民银行将于11月24日在香港招标发行合计500亿元央行票据",
+          "href": "https://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261121_3301308.shtml",
+          "note": "3个月期200亿元、1年期300亿元，通过香港金管局CMU平台以荷兰式招标、标的为利率，旨在丰富香港人民币产品和收益率曲线"
+        },
+        {
+          "rank": 4,
+          "title": "11月LPR继续按兵不动：1年期3.0%、5年期以上3.5%，已连续18个月未调整",
+          "href": "https://www.xinhuanet.com/20261120/3be19c9469fb4992beda43b8bf6462d2/c.html",
+          "note": "上一轮调整为2025年5月，两个期限均下调10个基点。周末评述继续讨论后续降息时机"
+        },
+        {
+          "rank": 5,
+          "title": "财政部：前10个月全国一般公共预算收入195671亿元，同比增长4.9%",
+          "href": "https://www.xinhuanet.com/20261120/54d1ff5989294584b622e2bc99015e0b/c.html",
+          "note": "税收收入162622亿元，同比增长6%；非税收入33049亿元，同比下降0.2%。同期一般公共预算支出228042亿元，同比增长1%"
+        },
+        {
+          "rank": 6,
+          "title": "政府性基金预算仍弱：前10个月收入29123亿元，同比下降15.5%",
+          "href": "https://www.xinhuanet.com/20261120/54d1ff5989294584b622e2bc99015e0b/c.html",
+          "note": "同期政府性基金预算支出69746亿元，同比下降13.8%。显示土地相关收入继续拖累"
+        },
+        {
+          "rank": 7,
+          "title": "发改委要求加快政府投资项目建设与资金支付，尽快形成更多实物工作量",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261121/4498556_1.html",
+          "note": "浙江、河南、广东、黑龙江、安徽、陕西等6省发改委负责同志在视频会上作交流发言"
+        },
+        {
+          "rank": 8,
+          "title": "五部门印发《海洋产业投融资指导目录（2026版）》，共11大类185条",
+          "href": "https://finance.people.com.cn/n1/2026/1121/c1004-40838041.html",
+          "note": "自然资源部、发改委、人民银行、金融监管总局、证监会联合发布，导向为智能化、绿色化和融合化，并完善配套支持政策"
+        },
+        {
+          "rank": 9,
+          "title": "拉加德建议欧盟公共资金为芯片和数据中心项目承担首轮损失；欧央行欧元回购工具已常设化",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "目前已有逾30家央行表达参与该回购工具的意向，便于在市场承压时换取欧元流动性、减少直接抛售债券"
+        },
+        {
+          "rank": 10,
+          "title": "有分析指下周关注跨月资金：MLF到期1万亿元，政府债净缴款或升至约6200亿元",
+          "href": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-inizpkcw3265902.shtml",
+          "note": "公开市场合计到期约1.46万亿元。税期后资金面曾超预期转松；若中长期资金续作偏克制，跨月或更依赖短端投放"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "原油周五收涨但仍连跌三周：WTI涨0.93%报83.98美元，布伦特涨0.64%报92.57美元",
+          "href": "https://www.news.cn/20261121/676619a3fa0e42c8ac797b08d5007060/c.html",
+          "note": "据报道，两油本周仍分别下跌约5%和近4%。尾盘有空单回补，但中东出口恢复与供应过剩预期限制反弹"
+        },
+        {
+          "rank": 2,
+          "title": "黄金重挫：COMEX黄金连续期货跌3.98%，报3539.00美元/盎司",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "当日美元和美债实际利率均下行，通常利好黄金，但金价逆势下跌。有市场人士认为部分投资者抛金筹资、补充股票保证金"
+        },
+        {
+          "rank": 3,
+          "title": "现货黄金跌超2%报3534.64美元/盎司，现货白银跌近4%报41.18美元/盎司",
+          "href": "https://www.21jingji.com/article/20261121/herald/1274f5df70653828323e5a1cd7b279fe.html",
+          "note": "贵金属与风险资产同步走弱，显示本轮更像是筹措现金与去杠杆，而非典型避险买盘"
+        },
+        {
+          "rank": 4,
+          "title": "周六霍尔木兹海峡附近再报油轮遇袭，周末油市供应风险升温",
+          "href": "https://www.cnbc.com/2026/11/21/two-tanker-attacks-reported-near-omans-khasab-ukmto-says.html",
+          "note": "英国海事机构称阿曼哈萨卜附近两艘油轮遭不明投射物击中，暂无人员伤亡。伊朗海军则称一艘油轮在限制区触雷起火"
+        },
+        {
+          "rank": 5,
+          "title": "胡塞武装威胁攻击沙特红海港口，地缘溢价与出口恢复互相拉锯",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "胡塞要求航运转移船只，并扬言若联军打击荷台达港，将把吉达等港口列为目标。与此同时，霍尔木兹原油运输量已大致回到战前附近"
+        },
+        {
+          "rank": 6,
+          "title": "比特币跌破6万美元，最新报约59099.9美元；加密资产随风险情绪下挫",
+          "href": "https://www.21jingji.com/article/20261121/herald/1274f5df70653828323e5a1cd7b279fe.html",
+          "note": "21财经雷达称过去24小时全市场近30万人爆仓。周末定价仍受美股科技抛售余波影响"
+        },
+        {
+          "rank": 7,
+          "title": "国内成品油将于11月26日24时迎来调价窗口，机构测算或下调460元/吨",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "金联创称，截至11月20日第六个工作日，参考原油均价约89.72美元/桶，变化率-7.34%。上一轮汽柴油零售价已分别下调645元和625元/吨"
+        },
+        {
+          "rank": 8,
+          "title": "近月原油维持升水：布伦特1月与2月价差扩大至约2.69美元，WTI扩大至约1.22美元",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "即期交割品种继续较远月溢价。按1月合约计，布伦特与WTI价差由约9.54美元收窄至约8.94美元"
+        },
+        {
+          "rank": 9,
+          "title": "OPEC+定于11月29日开会讨论2027年产量政策",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "市场同时关注产油国是否延续协调减产。IEA近期称中东冲突已造成全球油气贸易史上最大规模供应中断之一"
+        },
+        {
+          "rank": 10,
+          "title": "俄罗斯供应仍是变数：有分析称乌克兰袭击已使俄炼厂原油加工量较10月底减少45%",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "若攻击持续，或再度影响俄油供应。需求端则受到AI交易退潮与风险资产下跌的拖累"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "英国海事机构：阿曼哈萨卜附近两艘油轮遭不明投射物击中；伊朗称有油轮触雷",
+          "href": "https://www.cnbc.com/2026/11/21/two-tanker-attacks-reported-near-omans-khasab-ukmto-says.html",
+          "note": "两起事件分别距哈萨卜约11海里和17海里，暂无人员伤亡报告，环境损害尚不明。尚不清楚是否为同一艘船，也未能独立核实伊方触雷说法"
+        },
+        {
+          "rank": 2,
+          "title": "伊朗持续加强对霍尔木兹海峡通行限制，并对所称违规船只采取行动",
+          "href": "https://www.cnbc.com/2026/11/21/two-tanker-attacks-reported-near-omans-khasab-ukmto-says.html",
+          "note": "战前该水道承载全球近五分之一原油供应。周五当地附近已有油轮遇袭起火的报告"
+        },
+        {
+          "rank": 3,
+          "title": "俄军袭击泽连斯基家乡克里维里赫市中心，造成2人死亡、60人受伤",
+          "href": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef",
+          "note": "当地称死者包括一名7岁男孩和一名救护人员，伤者中有平民、儿童以及警察和救援人员"
+        },
+        {
+          "rank": 4,
+          "title": "特朗普称伊朗希望达成协议，但“不想达成我能够接受的协议”",
+          "href": "https://english.news.cn/20261121/9c36471339a94cbdb924e54fbdddd6e7/c.html",
+          "note": "美国特使威特科夫与库什纳周四在柏林会见卡塔尔高层，讨论斡旋。外交渠道仍在，但双方条件差距仍大"
+        },
+        {
+          "rank": 5,
+          "title": "胡塞武装威胁打击沙特红海港口，并称沙特空袭在也门造成41人死亡",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "死亡数字来自胡塞控制媒体，尚未得到独立核实，沙特当局暂无即时评论。胡塞周四还向利雅得发射导弹"
+        },
+        {
+          "rank": 6,
+          "title": "克里米亚大桥近期多次遇袭后道路仍关闭，俄方评估修复方案",
+          "href": "https://english.nv.ua/nation/crimean-bridge-attacks-satellite-images-show-major-damage-50661302.html",
+          "note": "11月16日至19日桥梁遭无人机和导弹袭击，铁路一度受损后部分恢复。该桥是俄方进入克里米亚的关键补给线"
+        },
+        {
+          "rank": 7,
+          "title": "欧盟与英国宣布完成农食产品贸易、碳市场对接和青年流动相关谈判",
+          "href": "https://english.news.cn/20261121/9c36471339a94cbdb924e54fbdddd6e7/c.html",
+          "note": "双方拟自2028年3月1日起取消大部分动植物及相关产品的卫生证书或检查，并争取自2028年起连接排放交易体系"
+        },
+        {
+          "rank": 8,
+          "title": "霍尔木兹原油运输量已大致恢复至战前附近，地缘溢价对油价的支撑被部分抵消",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "分析认为，只要原油仍能运抵市场，冲突就不一定足以推动油价持续走高；但新的袭击可能重新抬升风险溢价"
+        },
+        {
+          "rank": 9,
+          "title": "乌克兰持续打击俄炼油与出口设施，俄原油加工量据称较10月底下降45%",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "这使能源供应风险不再只集中于霍尔木兹海峡一侧。若攻击持续，俄油供应可能再受压制"
+        },
+        {
+          "rank": 10,
+          "title": "下周美国进入感恩节短周，政府停摆风险和伊朗战事仍被列为潜在扰动",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "距离年底仅剩约六个交易周。市场还关注12月议息、黄仁勋国会听证，以及假期期间流动性下降可能放大波动"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美联储12月决议：加息25个基点约90%，维持不变约7%，加息50个基点或以上约2%",
+          "href": "https://predictrips.com/odds/q/fed-decision-in-december",
+          "note": "截至11月21日22:51 UTC。24小时变动不大；近30日“加息25个基点”大约上行18个百分点，成交额约4920万美元"
+        },
+        {
+          "rank": 2,
+          "title": "2026年底联邦基金利率上限：4.25%档约88%，4.0%档约8%，不低于4.5%约3%",
+          "href": "https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026",
+          "note": "截至11月21日23:04 UTC。若12月加息25个基点且当前上限为4.00%，则与年底4.25%的定价相吻合"
+        },
+        {
+          "rank": 3,
+          "title": "2026年底前美国陷入衰退：是约3%，否约97%",
+          "href": "https://polymarket.com/event/us-recession-by-end-of-2026",
+          "note": "尽管美股已进入调整、纳指年内转跌，该合约仍显示交易员并不认为年内会出现技术性衰退"
+        },
+        {
+          "rank": 4,
+          "title": "美伊“有效停火”（至少暂停两周）在12月31日前开始：约77%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月21日22:21 UTC，24小时上行约1个百分点。与特朗普“想谈但条件谈不拢”的表态并行"
+        },
+        {
+          "rank": 5,
+          "title": "美国在2027年前入侵伊朗：约8%；12月31日前美伊达成霍尔木兹协议：约11%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "入侵合约成交约8100万美元，24小时下行约1个百分点。霍尔木兹协议合约成交约460万美元，24小时上行约1个百分点"
+        },
+        {
+          "rank": 6,
+          "title": "霍尔木兹海峡交通在2026年恢复正常：否约97%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "即便近期过境量已接近战前，交易员仍认为“恢复正常通行”难以在年内实现。周六油轮遇袭强化了这一定价"
+        },
+        {
+          "rank": 7,
+          "title": "美国政府停摆：12月12日前约23%，12月31日前约36%",
+          "href": "https://pdata.world/events/polymarket/1274082",
+          "note": "截至11月21日22:01 UTC。两个时点较前一日分别约下行2.5个和0.5个百分点"
+        },
+        {
+          "rank": 8,
+          "title": "美国在3月31日前宣布结束对伊朗封锁：约46%，24小时上行约5个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约5450万美元，是当日地缘合约中较大的变动之一。定价仍低于五成"
+        },
+        {
+          "rank": 9,
+          "title": "沙特与胡塞在12月31日前宣布停火协议：约12%，24小时上行约6个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "为当日地缘主题中24小时升幅最大的合约之一，成交约74.4万美元。背景是红海港口威胁与互相打击消息增多"
+        },
+        {
+          "rank": 10,
+          "title": "11月22日中午（美东）比特币价格：6.0万—6.2万美元档约44%，5.8万—6.0万美元档约37%",
+          "href": "https://polymarket.com/event/bitcoin-price-on-november-22-2026",
+          "note": "截至11月21日23:04 UTC。现货已跌破6万美元，两个相邻区间合计约占八成；低于5.6万美元仅约2%"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
