@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-23T07:25:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周五收盘：道指跌1.93%报48147.33，标普跌3.70%报6910.39，纳指跌5.28%报22617.73",
+          "href": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "note": "标普与道指均自高点回撤逾10%，进入技术性调整；纳指抹去年内涨幅。标普连跌七日，为2020年以来最长纪录。本周道指跌8.02%、纳指跌10.02%、标普跌8.61%，同为逾六年来最差一周之一"
+        },
+        {
+          "rank": 2,
+          "title": "感恩节短周开局：市场争论超卖反弹还是继续下探，周三将公布10月PCE",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "标普相对强弱指数周五跌破30。核心PCE预估环比升0.3%、同比升至3.2%。周四感恩节休市，周五提前收盘，流动性偏薄。周一还有标普全球PMI初值"
+        },
+        {
+          "rank": 3,
+          "title": "英伟达收跌约14%；路透称美国证交会正调查其会计处理",
+          "href": "https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "消息刊出前该股已跌逾6%，随后跌幅扩大。公司连续第七个交易日收跌，本周累跌逾20%，为2008年10月以来最差单周。调查并不等于认定违规，许多调查最终不会立案"
+        },
+        {
+          "rank": 4,
+          "title": "芯片与AI股全线重挫：费城半导体指数跌约11%，Anthropic上市次日回落",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "AMD跌逾13%，美光跌近14%，博通跌逾12%。Anthropic周四上市大涨约17%后，周五回落约10%（财联社称约8.5%），仍高于发行价83美元。SpaceX同日跌逾7%"
+        },
+        {
+          "rank": 5,
+          "title": "VIX盘中逼近40；避险买盘压低美债收益率，30年期下行约10个基点至5.30%",
+          "href": "https://www.cls.cn/",
+          "note": "财联社周末综述称，恐慌指数盘中逼近40、为2025年4月以来最高；5年期收益率下行约15个基点至4.70%。此前有报道称VIX收报约35.89"
+        },
+        {
+          "rank": 6,
+          "title": "本周日历前重后轻：周一PMI初值与两年期国债拍卖，周二亚德诺、周三戴尔之后还有PCE",
+          "href": "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337",
+          "note": "亚德诺周二盘前、戴尔周二盘后公布财报。周三还有GDP二次估计。美联储静默期将于11月28日开始，12月9日议息"
+        },
+        {
+          "rank": 7,
+          "title": "亚太今日分化：日经因劳动感谢日休市，澳指期货跌约0.6%，韩股与港股、A股将先行定价",
+          "href": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "note": "上周五日经跌5.06%、韩国综指跌5.21%、恒指跌1.89%报22410.80。美股期货周日晚6点（美东）重开；Yahoo显示周五结算价标普期货6935点（-3.64%），完整夜盘仍待确认"
+        },
+        {
+          "rank": 8,
+          "title": "“大空头”迈克尔·伯里称已卖掉一半英伟达及半导体ETF看跌期权",
+          "href": "https://www.cls.cn/",
+          "note": "财联社援引其表态，称同时减持了一半VanEck半导体ETF看跌期权。该操作发生在芯片股创近年最差周之一后，被市场解读为部分空头开始兑现"
+        },
+        {
+          "rank": 9,
+          "title": "特朗普威胁对在美国境外建设数据中心的企业征收“巨额税”",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "税率、时点和法律机制均未明确。他同时重申美国应拥有全球最低利率。政策不确定性为AI资本开支再添变数"
+        },
+        {
+          "rank": 10,
+          "title": "CrowdStrike据悉正洽谈收购Zscaler，或成网络安全行业最大并购之一",
+          "href": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+          "note": "谈判尚未公布价格与条款，仍可能无果。若成交，合并市值约2650亿美元。消息上周五传出，周末继续发酵"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "路透独家：美国证交会正调查英伟达会计处理，股价随后加速下跌",
+          "href": "https://www.reuters.com/3fec1b0a85a0/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
+          "note": "知情人士称，执法部门关注潜在会计问题；证交会拒绝置评，英伟达当时未立即回应。路透未能确定调查启动时间与具体科目。报道还提及公司调整地理收入口径后，新加坡从分项中消失"
+        },
+        {
+          "rank": 2,
+          "title": "英伟达营收与2028年指引仍强，但未能提振AI交易；本周累跌逾20%",
+          "href": "https://www.fxempire.com/forecasts/article/the-week-ahead-pce-in-focus-after-ai-sell-off-in-holiday-shortened-week-1646337",
+          "note": "投资者仍担心数据中心融资与资本开支回报。费半周五跌约11%。黄仁勋已离任首席执行官，国会听证安排在下月"
+        },
+        {
+          "rank": 3,
+          "title": "Anthropic上市次日回落约10%，未能止住更广泛的AI抛售",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "发行价83美元，周四一度大涨约17%。有报道称期权交易将于下周开始，MSCI或在11月30日纳入该公司。市场将其视为AI交易的风向标"
+        },
+        {
+          "rank": 4,
+          "title": "阿波罗与高盛宣布为SpaceX定价约440亿美元GPU融资",
+          "href": "https://www.apollo.com/insights-news/pressreleases/2026/11/apollo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing-3407671",
+          "note": "资金用于采购英伟达Vera Rubin芯片及配套设备，支持地面算力建设。因需求旺盛，交易获超额认购并扩大规模；租赁计划预计在2027年上半年设备交付后开始"
+        },
+        {
+          "rank": 5,
+          "title": "特朗普称“不会允许公司在境外建数据中心”，并威胁征收重税",
+          "href": "https://www.yicai.com/news/103448914.html",
+          "note": "具体税率和实施路径尚未公布。叠加中期选举后对数据中心选址的争议，AI资本开支的地点与回报假设更受关注"
+        },
+        {
+          "rank": 6,
+          "title": "OpenAI公布针对对抗性蒸馏的防护：内部评估显示提取成功率大幅下降",
+          "href": "https://join.dev/news/ai/2026-11-22/",
+          "note": "公司称，更新后的GPT-6.2 Astra防护使自动化提取成功率由GPT-6 Astra时期的54%降至0.2%，并通过训练调整与API更新把推理过程与对话历史绑定"
+        },
+        {
+          "rank": 7,
+          "title": "周末余波：Anthropic数学家借助Claude给出的黎曼猜想Lean证明，获社区独立核验",
+          "href": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+          "note": "Lean与Mathlib社区周六宣布已独立核验。目前尚无完整的人类可读论述，后续写作为各方关注点。事件正值公司IPO之后"
+        },
+        {
+          "rank": 8,
+          "title": "CrowdStrike洽购Zscaler，补强网络与零信任安全能力",
+          "href": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+          "note": "若交易完成，将成为网络安全行业规模最大的并购之一。双方均未正式宣布达成协议"
+        },
+        {
+          "rank": 9,
+          "title": "全球AI供应链上周五同步承压：台积电ADR跌逾9%，日韩科技股均大跌",
+          "href": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "note": "今日日经因劳动感谢日休市，韩国与中国市场开盘将给出新的定价。分析认为抛售已从估值转向对资本开支回报的重估"
+        },
+        {
+          "rank": 10,
+          "title": "下周扰动未完：12月议息、黄仁勋国会听证，以及Anthropic能否稳住股价",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "若Anthropic出现修复，或有助于缓和市场对AI交易的担忧。技术面则提醒，即使出现反弹，也不宜轻易视为趋势反转"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "周末三项稳市政策落地：融资保证金比例下限将由100%降至80%",
+          "href": "https://www.news.cn/20261122/cc33945ceacd46488fee442dc82f57b8/c.html",
+          "note": "经证监会批准，沪深北交易所将自11月30日起实施，据测算理论上可带来增量资金近4000亿元。杠杆倍数可由1倍升至1.25倍。同日还公布创业板做市商征求意见和一揽子降费"
+        },
+        {
+          "rank": 2,
+          "title": "上交所推出新一批降费：新增让利预计13.68亿元，全年沪市降费有望超24亿元",
+          "href": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20261122_10838652.shtml",
+          "note": "措施包括免收交易单元使用费、减免数据中心相关服务费用，并将免收上市费、债券经手费等措施再延长两年至2028年底"
+        },
+        {
+          "rank": 3,
+          "title": "深交所就创业板股票做市交易业务细则公开征求意见",
+          "href": "https://www.szse.cn/aboutus/trends/news/t20261122_623984.html",
+          "note": "拟允许已获做市资格的券商以备案方式为创业板股票提供做市服务。证监会今年4月已提出在创业板引入做市商制度，以增强市场内在稳定性"
+        },
+        {
+          "rank": 4,
+          "title": "今日关注：首批18只主动ETF将在沪深交易所挂牌，合计募集360亿元",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "18只产品全部触及20亿元募集上限，17只因超募比例配售，有效认购户数超33万户，覆盖均衡、价值、红利、质量和成长等策略"
+        },
+        {
+          "rank": 5,
+          "title": "上周五回顾：沪指跌1.23%报3533.79，深成指跌3.09%，创业板指跌3.54%",
+          "href": "https://www.21jingji.com/article/20261121/herald/79ffdb742dbd6a39ff32c37d16528f33.html",
+          "note": "全周上证指数跌约2.77%，深证成指跌约6.49%，创业板指跌约8.82%。成交约1.42万亿元。银行和红利股相对抗跌，半导体与成长方向调整"
+        },
+        {
+          "rank": 6,
+          "title": "港股周五跟跌：恒指跌1.89%报22410.80，恒生科技指数跌3.78%报3511.14",
+          "href": "https://www.news.cn/gangao/20261120/31d9c413b8d74bcba447d6b448cd2414/c.html",
+          "note": "恒生科技指数录得八日连跌，全周恒指累跌5.19%、恒生科技累跌7.92%。今日日经休市，港股与A股开盘将更多反映美股周五暴跌后的风险偏好"
+        },
+        {
+          "rank": 7,
+          "title": "中国结算：2027年至2028年继续暂免部分公司债发行人服务费及债券结算费",
+          "href": "https://www.news.cn/20261122/cc33945ceacd46488fee442dc82f57b8/c.html",
+          "note": "范围包括绿色公司债券、科技创新公司债券和民营企业公司债券，不含可转债。与沪深交易所降费措施一并发布"
+        },
+        {
+          "rank": 8,
+          "title": "华晟智能今日在北交所上市；本周还有3只新股发行",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "新股分别为傲拓科技、天广实、猎奇智能。叠加主动ETF上市，今日增量供给与政策托底将同时出现"
+        },
+        {
+          "rank": 9,
+          "title": "外围科技链压力仍在：上周五国产算力与半导体方向跟随美股调整",
+          "href": "https://www.21jingji.com/article/20261121/herald/79ffdb742dbd6a39ff32c37d16528f33.html",
+          "note": "一周熊股中，金利华电周跌42.72%领跌；燧原科技、沐曦股份周跌均超36%。今日开盘需观察政策面能否对冲外围风险"
+        },
+        {
+          "rank": 10,
+          "title": "国内成品油将于11月26日24时迎来调价窗口，机构测算或下调460元/吨",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "金联创称，截至11月20日第六个工作日，参考原油均价约89.72美元/桶，变化率-7.34%。上一轮汽柴油零售价已分别下调645元和625元/吨"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "CME“美联储观察”：12月加息25个基点概率为91.4%，加息50个基点为0%",
+          "href": "https://www.nbd.com.cn/articles/2026-11-23/4655276.html",
+          "note": "每经今早援引数据：维持利率不变概率为8.6%。至明年1月，维持不变3.2%，累计加息25个基点39.1%，累计加息50个基点57.7%。显示市场主线是12月加25、1月仍可能再加一次"
+        },
+        {
+          "rank": 2,
+          "title": "Polymarket凌晨定价接近：12月加息25个基点约91%，不变约6%，加息50个基点约2%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "截至11月22日23:05 UTC（北京时间今早7:05）。该合约成交额约5000万美元，24小时成交约76.7万美元，与CME观察结果相互印证"
+        },
+        {
+          "rank": 3,
+          "title": "周三10月PCE成为12月9日议息前的关键检验",
+          "href": "https://theedge.tradersandquants.com/p/traders-quants-sunday-look-ahead-7a4a",
+          "note": "核心PCE预估环比升0.3%、同比由3.1%升至3.2%。若环比达到0.4%或更高，可能再点燃加息50个基点的讨论。纪要显示，若通胀数据很差，有官员愿考虑超过25个基点"
+        },
+        {
+          "rank": 4,
+          "title": "隔夜指数掉期显示，12月会议加息溢价约23个基点，未完全计满一次加息",
+          "href": "https://www.cls.cn/",
+          "note": "财联社称，交易员不再完全消化12月加息预期；更远期OIS曲线也出现偏鸽重新定价。这与约90%的25个基点概率、接近但不足25个基点的溢价相一致"
+        },
+        {
+          "rank": 5,
+          "title": "本周美债将拍卖2年期、5年期和7年期；美联储静默期11月28日开始",
+          "href": "https://theedge.tradersandquants.com/p/traders-quants-sunday-look-ahead-7a4a",
+          "note": "两年期周一、五年期周二，均为美东13:00；七年期周三11:30，紧接PCE。上次10年期拍卖中间接bidder占比下降，假期当周需求值得关注"
+        },
+        {
+          "rank": 6,
+          "title": "证监会批准下调融资保证金比例，被定位为逆周期调节工具",
+          "href": "https://www.news.cn/20261122/cc33945ceacd46488fee442dc82f57b8/c.html",
+          "note": "11月30日起，沪深北交易所融资保证金比例下限从100%降至80%，理论增量资金近4000亿元。与降费、创业板做市商安排同日公布"
+        },
+        {
+          "rank": 7,
+          "title": "中国人民银行将于11月24日在香港招标发行合计500亿元央行票据",
+          "href": "https://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261121_3301308.shtml",
+          "note": "3个月期200亿元、1年期300亿元，通过香港金管局CMU平台以荷兰式招标、标的为利率，旨在丰富香港人民币产品和收益率曲线"
+        },
+        {
+          "rank": 8,
+          "title": "11月LPR继续按兵不动：1年期3.0%、5年期以上3.5%，已连续18个月未调整",
+          "href": "https://www.xinhuanet.com/20261120/3be19c9469fb4992beda43b8bf6462d2/c.html",
+          "note": "上一轮调整为2025年5月，两个期限均下调10个基点。周末评述仍在讨论后续降息时机"
+        },
+        {
+          "rank": 9,
+          "title": "有分析指本周关注跨月资金：MLF到期1万亿元，政府债净缴款或升至约6200亿元",
+          "href": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-inizpkcw3265902.shtml",
+          "note": "公开市场合计到期约1.46万亿元。税期后资金面曾超预期转松；若中长期资金续作偏克制，跨月或更依赖短端投放"
+        },
+        {
+          "rank": 10,
+          "title": "特朗普重申美国应拥有全球最低利率，与市场定价的12月加息形成对照",
+          "href": "https://www.cls.cn/",
+          "note": "总统的口头宽松取向并未改变联邦基金期货和预测市场对12月加息25个基点的高定价。市场更关注周三通胀数据能否改写路径"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "原油周五收涨但仍连跌三周：WTI涨0.93%报83.98美元，布伦特涨0.64%报92.57美元",
+          "href": "https://www.news.cn/20261121/676619a3fa0e42c8ac797b08d5007060/c.html",
+          "note": "本周WTI约跌5.2%，布伦特约跌3.4%。尽管霍尔木兹附近再有袭击报道，累库与风险偏好回落仍限制反弹"
+        },
+        {
+          "rank": 2,
+          "title": "黄金重挫：现货周五跌约2.5%报3532美元/盎司，本周跌近10%，创逾一年低点",
+          "href": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "note": "白银本周跌约16.3%。加息预期、美元走强，以及部分投资者抛金补股票保证金，使黄金未能扮演典型避险角色"
+        },
+        {
+          "rank": 3,
+          "title": "LME期铜周五跌2.9%报12160美元/吨，本周累跌约9%至10%",
+          "href": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "note": "铜被视为AI交易的金属代理，本轮下跌快于基本面变化。分析认为若基金继续减仓，价格仍可能承压，但部分实物市场依然偏紧"
+        },
+        {
+          "rank": 4,
+          "title": "周末地缘扰动升温：霍尔木兹附近油轮遇袭后，沙特又空袭也门荷台达",
+          "href": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+          "note": "英国海事机构周六通报阿曼哈萨卜附近两艘油轮遭不明投射物击中。供应风险上升，但油价周末前仍受累于累库和风险资产下跌"
+        },
+        {
+          "rank": 5,
+          "title": "美国商业原油库存增加340万桶至4.178亿桶，加剧近周油价跌势",
+          "href": "https://sharetrader.com.au/news/2026-11-21-gold-and-silver-slide-after-fed-minutes-oil-falls-despite-hormuz-attacks-the-week-in-commodities",
+          "note": "该统计不含战略石油储备。中东出口恢复与供应过剩预期，削弱了袭击带来的风险溢价"
+        },
+        {
+          "rank": 6,
+          "title": "比特币周末一度跌至57716美元，其后回升至约60690美元附近",
+          "href": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602",
+          "note": "财联社称，57716美元为两年多低点，自2025年10月高点已回撤过半；比特币ETF今年迄今净流出已超过30亿美元"
+        },
+        {
+          "rank": 7,
+          "title": "国内成品油将于11月26日24时迎来调价窗口，机构测算或下调460元/吨",
+          "href": "https://www.thepaper.cn/newsDetail_forward_34522868",
+          "note": "金联创称，截至11月20日第六个工作日，参考原油均价约89.72美元/桶，变化率-7.34%。上一轮汽柴油已分别下调645元和625元/吨"
+        },
+        {
+          "rank": 8,
+          "title": "OPEC+定于11月29日开会讨论2027年产量政策",
+          "href": "https://news.cnyes.com/news/id/6669556",
+          "note": "市场同时关注产油国是否延续协调减产。需求端则受到AI交易退潮与风险资产下跌的拖累"
+        },
+        {
+          "rank": 9,
+          "title": "天然气本周上涨约5.6%，成为少数走强的大宗商品",
+          "href": "https://sharetrader.com.au/news/2026-11-21-gold-and-silver-slide-after-fed-minutes-oil-falls-despite-hormuz-attacks-the-week-in-commodities",
+          "note": "周线收于约3.411美元/百万英热。与黄金、白银、铜和原油的集体回落形成对照"
+        },
+        {
+          "rank": 10,
+          "title": "近月原油维持升水：布伦特1月与2月价差约2.69美元，WTI约1.22美元",
+          "href": "https://www.goodman-macro.com/articles/20261121-main/",
+          "note": "即期交割品种继续较远月溢价，显示近期供应仍偏紧。按1月合约计，布伦特与WTI价差由约9.54美元收窄至约8.94美元"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "特朗普加紧推动圣诞节前美俄乌三方和谈，目标赶在明年1月新国会就职前",
+          "href": "https://www.chosun.com/english/world-en/2026/11/23/AK32U6AT2JEP3MER53C5KWO2QA/",
+          "note": "朝鲜日报援引《华盛顿邮报》：泽连斯基同意美方关于圣诞节前举行三方会谈的提议。特朗普已邀请普京出席12月14–15日迈阿密G20，乌方尚未获邀但有意参加。欧洲官员对前景偏谨慎"
+        },
+        {
+          "rank": 2,
+          "title": "伊朗外长阿拉格希称，愿与美国谈判并重启霍尔木兹海峡的两日方案",
+          "href": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+          "note": "方案要求美方首日履行承诺、包括取消近期对伊制裁，伊朗次日重开海峡并开始谈判。特朗普近日仍称伊朗“想达成的协议他不能接受”"
+        },
+        {
+          "rank": 3,
+          "title": "伊朗称防空导弹击伤美军F-16，美国中央司令部否认并称战机均安",
+          "href": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+          "note": "伊军称周五夜间在海湾上空击中一架“入侵”的F-16，迫使其在地区国家机场紧急降落。美军发布声明称“伊朗并未攻击美F-16，中东所有美战斗机均安全且清点无误”"
+        },
+        {
+          "rank": 4,
+          "title": "沙特战机周六空袭也门红海港口荷台达；胡塞称24小时内对八省发动71次打击",
+          "href": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+          "note": "胡塞控制的马西拉电视台报道了空袭，但未提供伤亡细节。当地居民称听到多次巨大爆炸。双方数字均有待独立核实"
+        },
+        {
+          "rank": 5,
+          "title": "英国海事机构：阿曼哈萨卜附近两艘油轮遭不明投射物击中",
+          "href": "https://www.cnbc.com/2026/11/21/two-tanker-attacks-reported-near-omans-khasab-ukmto-says.html",
+          "note": "两起事件分别距哈萨卜约11海里和17海里，暂无人员伤亡报告。伊朗则称有油轮在限制区触雷起火，该说法尚未得到独立核实"
+        },
+        {
+          "rank": 6,
+          "title": "深圳三边会晤后，特朗普对乌克兰和伊朗采取不同时间表",
+          "href": "https://www.chosun.com/english/world-en/2026/11/23/AK32U6AT2JEP3MER53C5KWO2QA/",
+          "note": "11月19日与习近平、普京在深圳举行约一个半小时会谈，并就联合国改革、防止核战争等发表联合声明。对乌克兰求快，对伊朗则强调长期协议、暂缓年内加码打击的压力"
+        },
+        {
+          "rank": 7,
+          "title": "俄方重申：即使是“准北约”地位，乌克兰加入也不被接受",
+          "href": "https://www.chosun.com/english/world-en/2026/11/23/AK32U6AT2JEP3MER53C5KWO2QA/",
+          "note": "俄罗斯副外长里亚布科夫对俄新社表示，准成员国身份也不可接受。美方提出类似北约第五条的安全保证，乌方则要求该保证具备法律约束力"
+        },
+        {
+          "rank": 8,
+          "title": "印尼马鲁古附近海域发生7.2级地震，官方称暂无海啸威胁",
+          "href": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+          "note": "地震发生在雅加达时间周六下午4:42，震中位于西南马鲁古以北约43公里海域、深度约125公里。初步没有人员伤亡和财产损失报告"
+        },
+        {
+          "rank": 9,
+          "title": "比利时全国罢工：布鲁塞尔机场周一大部分航班预计取消",
+          "href": "https://english.news.cn/20261122/6ab658d3db0f45648b3ad5968f84974e/c.html",
+          "note": "航空导航服务机构skeyes称，当地7时至21时无法提供正常空管，仅保留应急等最低服务。罢工对象是联邦政府紧缩措施"
+        },
+        {
+          "rank": 10,
+          "title": "假期短周内，政府停摆风险和伊朗战事仍被列为潜在扰动",
+          "href": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html",
+          "note": "距离年底仅剩约六个交易周。市场还关注12月议息、黄仁勋国会听证，以及假期流动性下降可能放大波动"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美联储12月决议：加息25个基点约91%，维持不变约6%，加息50个基点或以上约2%",
+          "href": "https://polymarket.com/event/fed-decision-in-december-20260729232808632",
+          "note": "截至11月22日23:05 UTC。合约成交额约5000万美元，24小时成交约76.7万美元，与CME联邦基金观察结果接近"
+        },
+        {
+          "rank": 2,
+          "title": "2026年底联邦基金利率上限：4.25%档约89%，4.0%档约7%，不低于4.5%约3%",
+          "href": "https://polymarket.com/event/what-will-the-fed-rate-be-at-the-end-of-2026",
+          "note": "截至11月22日23:06 UTC，成交约720万美元。若12月加息25个基点且当前上限为4.00%，则与年底4.25%的定价相吻合"
+        },
+        {
+          "rank": 3,
+          "title": "2026年底前美国陷入衰退：是约3%，否约97%",
+          "href": "https://polymarket.com/event/us-recession-by-end-of-2026",
+          "note": "截至11月22日23:07 UTC，成交约250万美元。尽管美股已进入调整、纳指年内转跌，交易员仍不认为年内会出现技术性衰退"
+        },
+        {
+          "rank": 4,
+          "title": "乌克兰与俄罗斯签署和平协议：2026年底前约5%，2027年中约14%，2027年底前约35%",
+          "href": "https://polymarket.com/event/ukraine-signs-peace-deal-with-russia-before-2027",
+          "note": "截至11月22日23:06 UTC，成交约320万美元。2026年底前“是”较前值上行约1个百分点。这与白宫推动圣诞节前和谈的新闻形成对照"
+        },
+        {
+          "rank": 5,
+          "title": "俄乌停火协议在2027年6月30日前达成：约56%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月22日23:02 UTC，成交约1140万美元。停火时点明显晚于年底前正式和约，显示交易员更接受“先停火、后签约”的路径"
+        },
+        {
+          "rank": 6,
+          "title": "美国在2027年前入侵伊朗：约6%，24小时下行约2个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月22日23:02 UTC，成交约8130万美元，仍是地缘合约中成交额最高的之一。同期“12月31日前美伊达成最终核协议”约5%"
+        },
+        {
+          "rank": 7,
+          "title": "美伊“有效停火”（至少暂停两周）在12月31日前开始：约75%，24小时下行约2个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约3000万美元。尽管绝对概率仍高，但周末袭击与相互指责后出现回落"
+        },
+        {
+          "rank": 8,
+          "title": "12月31日前美伊达成霍尔木兹协议：约12%，24小时上行约1个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约460万美元。与伊朗外长重申两日重开方案、以及“年内恢复正常通行仍很低”的定价并存"
+        },
+        {
+          "rank": 9,
+          "title": "美国在3月31日前宣布结束对伊朗封锁：约44%，24小时下行约3个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约5460万美元。概率仍低于五成，显示交易员尚未把结束封锁当作基准情形"
+        },
+        {
+          "rank": 10,
+          "title": "泽连斯基与普京2027年前下次会面：约97%的交易员押注“不会会面”",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月22日23:02 UTC，成交约460万美元。即使新闻面出现圣诞节前三方会谈与G20邀请，预测市场仍高度怀疑两人会前正式见面"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
