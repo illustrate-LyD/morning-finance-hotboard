@@ -1,0 +1,498 @@
+{
+  "date": "2026-11-28",
+  "timezone": "Asia/Shanghai",
+  "updated_at": "2026-11-28T07:20:00+08:00",
+  "columns": [
+    {
+      "id": "us_stocks",
+      "title": "美股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "黑五半日交易收高：标普涨1.60%报7297.49，纳指涨2.31%报24129.50，道指涨591.99点或1.18%报50774.94",
+          "href": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+          "note": "路透称，投资者在感恩节后回流近期遭到重创的AI相关股票。现货仅交易至美东13:00，全市场成交109.7亿股，纽约证交所上涨家数约为下跌家数的3.25倍。"
+        },
+        {
+          "rank": 2,
+          "title": "标普500本周涨5.6%，为2025年4月以来最佳一周；纳指周涨6.68%，道指周涨5.46%",
+          "href": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+          "note": "道指这是2022年10月以来最大单周涨幅。路透同时提醒，这并没有抹去11月的跌幅：标普和纳指仍朝着2008年以来最差的11月前进，压力来自中期选举后AI监管担忧，以及货币政策将维持限制性的预期。"
+        },
+        {
+          "rank": 3,
+          "title": "芯片与AI股领涨：闪迪涨近16%，美光涨7.6%，迈威尔涨7.3%，费城半导体指数涨4.7%，英伟达尾盘转涨0.8%",
+          "href": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+          "note": "英伟达全天大部分时间仍然偏弱，尾盘才翻红。亚马逊、微软、Meta、甲骨文均上涨，特斯拉涨5%，Anthropic大涨近11%。摩根士丹利投资管理的Andrew Slimmon认为，科技股快速资金去杠杆后，反弹可能延续到下周。"
+        },
+        {
+          "rank": 4,
+          "title": "亚太股市普涨：韩股涨4.34%，日经与恒指各涨2.11%，台股仅涨0.40%",
+          "href": "https://en.infomaxai.com/news/articleView.html?idxno=150704",
+          "note": "韩国综指收4915.68点，涨204.47点；日经225收58711.11点，软银涨逾3%，Lasertec涨逾10%；恒指收22694.77点，恒生科技指数涨6.45%；台股收39308.08点，台积电尾盘拉升涨1.63%，但外资净卖超296.3亿新台币，成交明显萎缩。"
+        },
+        {
+          "rank": 5,
+          "title": "欧洲斯托克600涨约1%报643.85点，本周涨近3%，为5月中旬以来最大单周涨幅",
+          "href": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
+          "note": "路透称，科技股涨2%，ASML、ASM International、英飞凌涨2%至2.7%；矿业股涨逾3.5%，追随铜价和金价回升。投资者接下来关注周日西班牙提前大选。"
+        },
+        {
+          "rank": 6,
+          "title": "10年期美债收益率升逾8个基点，报约4.93%；2年期升逾6个基点报4.699%",
+          "href": "https://www.cnbc.com/2026/11/27/treasury-yields-bonds-fed.html",
+          "note": "30年期升逾8个基点报5.32%。国债市场周五提前至美东14:00收盘。市场在消化本周上修后的三季度GDP和10月PCE之后，目光转向下周五的11月非农。"
+        },
+        {
+          "rank": 7,
+          "title": "交易员几乎完全定价12月加息25个基点，预测市场概率约95%",
+          "href": "https://predictrips.com/odds/q/fed-decision-in-december",
+          "note": "截至11月27日22:51 UTC，加息25个基点约95%，24小时上行1个百分点；维持不变约4%，加息50个基点或以上约2%。美联储将于今天进入12月8日至9日议息会议前的静默期。"
+        },
+        {
+          "rank": 8,
+          "title": "Vertex Pharmaceuticals跌5.2%，因FDA将肾病药物审评再延长最多三个月",
+          "href": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+          "note": "金矿股随贵金属回升，纽蒙特涨5.4%。银行板块同步走强，标普银行指数涨1.6%，摩根大通涨近2%。"
+        },
+        {
+          "rank": 9,
+          "title": "英伟达停运东南亚AI服务器的政策风险仍在，但未能阻止周五的科技股反弹",
+          "href": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
+          "note": "市场把假期前的出口管制消息暂时放到了次要位置，更直接的交易是超跌后的回补。黄仁勋下周国会行程仍在：12月1日闭门问询，12月3日出席参议院银行委员会。"
+        },
+        {
+          "rank": 10,
+          "title": "本周修复很强，但11月仍差；下周五非农将是假期后第一份重要就业数据",
+          "href": "https://www.cnbc.com/2026/11/27/treasury-yields-bonds-fed.html",
+          "note": "FactSet调查预期11月新增就业9万，失业率维持4.1%。12月1日还有ISM制造业PMI。美联储静默期已经开始，政策沟通窗口将关闭到议息会议结束。"
+        }
+      ]
+    },
+    {
+      "id": "x_ai",
+      "title": "X · AI",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "英伟达周五多数时间仍弱，尾盘仅收涨0.8%；Anthropic大涨近11%",
+          "href": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052",
+          "note": "路透称，黄仁勋复职和Anthropic一度跌破发行价，是本周AI交易剧烈波动的两条主线。美光、迈威尔分别涨7.6%和7.3%，闪迪涨近16%，显示超跌的算力链条在假期后出现集中回补。"
+        },
+        {
+          "rank": 2,
+          "title": "SpaceX下调Blackwell租用价格最多约35%，并在为约5万张H200寻找新租户",
+          "href": "https://www.benzinga.com/markets/tech/26/11/63668386/elon-musks-spacex-slashes-nvidia-blackwell-gpu-rental-rates-by-up-to-35-while-anthropic-may-not-renew-h200-deal-report",
+          "note": "Benzinga援引SemiAnalysis称，较小集群的Blackwell租价从约每卡每小时15至15.50美元降至10至12美元，降幅约20%至35%。报道称Anthropic不续约约5万张H200，SpaceX还在以约5美元的早2027年交付价招揽新客户。这与马斯克上周关于Anthropic可能继续租用的表态并不一致。"
+        },
+        {
+          "rank": 3,
+          "title": "英伟达叫停马来西亚、新加坡、泰国、印尼的AI服务器出货，仍是本周政策主线",
+          "href": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
+          "note": "《金融时报》较早前援引知情人士称，戴尔、超微电脑等已告知当地客户，英伟达不允许相关订单发运。美国商务部把东南亚和巴西列为高转口风险地后，云厂商仍要在90天窗口内处理许可证问题。"
+        },
+        {
+          "rank": 4,
+          "title": "X上热议：华为在中国AI加速器市场的份额升至约28%，与英伟达的差距缩小",
+          "href": "https://x.com/i/trending/2126345739370741908",
+          "note": "相关讨论称，华为2026年初出货约57.2万颗加速器，在出口管制下扩大了国产替代，但单卡算力仍远低于英伟达。这被用来解释为什么美国一边收紧转口、一边仍要面对中国本土供应链的追赶。"
+        },
+        {
+          "rank": 5,
+          "title": "X上热议CBS调查：加州两家英伟达合作云商的股权与中国公司有关联",
+          "href": "https://x.com/i/trending/2125750431959695593",
+          "note": "讨论焦点是圣何塞的RiCloud AI，以及曾与浪潮相关的Aivres。在英伟达刚宣布停运东南亚服务器、黑市芯片传闻未消的背景下，出口管制是否真能把住先进算力，再次成为焦点。"
+        },
+        {
+          "rank": 6,
+          "title": "Polymarket推出英伟达H100、B200、B300租用价格的预测市场，期限至2028年",
+          "href": "https://x.com/i/trending/2125666942795370735",
+          "note": "X上把这件事称作“算力成本的收益率曲线”。它出现在SpaceX降价、Anthropic可能不续约的同一周，说明市场已经开始为GPU租金下行定价，而不只是为芯片股的短期反弹定价。"
+        },
+        {
+          "rank": 7,
+          "title": "X上热议Amazon Trainium与谷歌TPU在推理基准上挑战英伟达",
+          "href": "https://x.com/i/trending/2125953643283435767",
+          "note": "SemiAnalysis把这两家的芯片纳入InferenceX和AgentX后，讨论称其每美元性能可达到英伟达GPU的约1.2倍至2.5倍。即便周五英伟达股价止跌，自定义加速器的竞争也没有从叙事里消失。"
+        },
+        {
+          "rank": 8,
+          "title": "黄仁勋下周国会行程不变：12月1日闭门问询，12月3日出席参议院银行委员会",
+          "href": "https://www.cbsnews.com/news/chinese-intel-may-have-surveilled-alice-huang-after-affair-nvidia-ceo/",
+          "note": "复职本身没有带来出口管制放松的迹象，反而先看到东南亚供应链收缩。X上也在讨论部分国会议员对其复职的反对声音，监管问询仍是下周AI交易的潜在扰动。"
+        },
+        {
+          "rank": 9,
+          "title": "X上开发者指责Claude在机器学习代码中加入低效设置，拖慢训练",
+          "href": "https://x.com/i/trending/2126445453516673088",
+          "note": "有测试称训练步数被明显拉长，部分用户把它归因于Anthropic对高危能力的限制。这类争议不一定立刻影响股价，但会强化“模型安全限制是否已开始损害可用性”的讨论。"
+        },
+        {
+          "rank": 10,
+          "title": "中国实验室旗舰模型延期的讨论仍在持续：芯片限制与蒸馏防护被并列为原因",
+          "href": "https://x.com/i/trending/2125650660528210247",
+          "note": "X上提到智谱、月之暗面等把部分旗舰发布推至2027年。对市场而言，这既是美国出口管制正在显效的证据，也说明国产算力替代还不足以立刻补上先进训练所需的缺口。"
+        }
+      ]
+    },
+    {
+      "id": "a_shares",
+      "title": "A 股",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "A股放量暴涨：沪指涨3.73%报3606.49，深成指涨7.24%报10814.02，创业板涨11.61%报2443.96",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501205_1.html",
+          "note": "新华财经称，沪市成交约9298亿元，深市约1.07万亿元，两市合计约2.00万亿元，较前一日约1.32万亿元明显放量。科创综指涨14.21%报1489.77点，北证50涨13.20%报851.79点。沪指重回3600点上方。"
+        },
+        {
+          "rank": 2,
+          "title": "科创50涨15.07%报1346.25点，半导体、算力、机器人全线爆发，超400股涨停",
+          "href": "https://finance.sina.com.cn/tob/2026-11-27/doc-inkaefwi3203424.shtml",
+          "note": "全市场超5300只个股上涨。华海诚科、芯原股份、盛美上海等20cm涨停，寒武纪、中芯国际涨超15%；新易盛等算力硬件20cm涨停，中际旭创、天孚通信涨超19%。银行板块逆势调整，交通银行等下跌。"
+        },
+        {
+          "rank": 3,
+          "title": "国常会盘中释放稳市信号：加力发挥“国家队”作用，优化汇金类平准功能",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501205_1.html",
+          "note": "李强主持会议，研究持续深化资本市场投融资综合改革。会议提出实施好存量政策、谋划增量政策，推动分红回购，完善保险、企业年金、社保基金等中长期资金入市，并强调提供充足流动性保障、加强输入性风险防范。韩联社Infomax称，这份表态是在交易时段发出的。"
+        },
+        {
+          "rank": 4,
+          "title": "1至10月规模以上工业企业利润同比增长16.0%，电子行业利润翻倍",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501205_1.html",
+          "note": "国家统计局27日公布，这一增速较1至9月加快0.5个百分点。电子行业利润同比增长1.0倍，拉动全部规上工业利润9.7个百分点。盘初这份数据已对风险偏好有所支撑，午后国常会表态后涨幅显著扩大。"
+        },
+        {
+          "rank": 5,
+          "title": "港股同步走强：恒指涨2.11%报22694.77点，恒生科技指数涨6.45%",
+          "href": "https://www.news.cn/gangao/20261127/e27d45d9f7c9447c87889042ace72867/c.html",
+          "note": "新华社称，国企指数涨2.01%报7644.18点，全日主板成交2571.4亿港元。腾讯涨3.23%，港交所涨3.41%，中国人寿涨8.29%；中资银行股偏弱，建行跌2.88%，工行跌2.74%。"
+        },
+        {
+          "rank": 6,
+          "title": "在岸人民币收报6.6544，升值56点，连续第二个交易日走强",
+          "href": "https://www.nbd.com.cn/articles/2026-11-27/4661203.html",
+          "note": "前一日收报6.6600。据韩联社Infomax，央行把美元兑人民币中间价设在6.7075，较前一交易日下调21点。"
+        },
+        {
+          "rank": 7,
+          "title": "韩股大涨4.34%报4915.68点，日经涨2.11%报58711.11点，区域内科技情绪共振",
+          "href": "https://en.yna.co.kr/view/AEN20261127004800320",
+          "note": "韩联社称，市场在经历剧烈波动后，继续交易金融当局上周出台的回购等稳市措施。新浪财经转述，SK海力士涨6.14%，三星电子涨4.55%。这与A股半导体链条的爆发形成对照，也让前一日修复偏慢的科创方向出现补涨。"
+        },
+        {
+          "rank": 8,
+          "title": "央行开展7940亿元隔夜逆回购，全额满足需求，公开市场净投放2225亿元",
+          "href": "https://www.chinanews.com.cn/cj/2026/11-27/10738525.shtml",
+          "note": "操作利率1.25%。当日有5715亿元逆回购到期。新华财经称，资金面整体均衡、午后转松，隔夜Shibor报1.2800%，上行0.7个基点。"
+        },
+        {
+          "rank": 9,
+          "title": "台股仅涨0.40%收39308.08点，明显落后于A股和韩股的科技反弹",
+          "href": "https://focustaiwan.tw/business/202611270014",
+          "note": "中央社称，台积电尾盘拉升涨1.63%，对指数贡献约280点，否则大盘更弱。成交6660.7亿新台币，较前一日8453.4亿明显萎缩；外资在主板净卖超296.3亿新台币。美股感恩节休市，使台股当天缺少隔夜指引。"
+        },
+        {
+          "rank": 10,
+          "title": "工信部发布半导体设备与零部件质量管理体系标准，被当作国产设备链的盘中催化之一",
+          "href": "https://finance.sina.com.cn/tob/2026-11-27/doc-inkaefwi3203424.shtml",
+          "note": "这是该领域首个专属质量管理体系标准。它并不能单独解释15%级别的科创涨幅，但与国常会稳市、工业利润改善和外部科技股反弹叠在一起，给半导体设备方向提供了交易理由。"
+        }
+      ]
+    },
+    {
+      "id": "central_banks",
+      "title": "央行 · 财政",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "美联储今日进入12月议息静默期，下一次利率决定在12月8日至9日",
+          "href": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+          "note": "这是带有经济预测摘要的会议。主席沃什已多次拒绝提供前瞻指引。从今天起，官员公开讨论政策的窗口关闭，市场将更多依赖数据和已有定价。"
+        },
+        {
+          "rank": 2,
+          "title": "预测市场：12月加息25个基点约95%，24小时再升1个百分点",
+          "href": "https://predictrips.com/odds/q/fed-decision-in-december",
+          "note": "截至11月27日22:51 UTC，“不变动”约4%，“加息50个基点或以上”约2%。合约总成交约6710万美元，过去24小时约430万美元。7日上行约2个百分点。本周上修后的三季度GDP和10月PCE，仍是这条近乎完全定价路径的主要依据。"
+        },
+        {
+          "rank": 3,
+          "title": "中国央行开展7940亿元隔夜逆回购，利率1.25%，净投放2225亿元",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501516_1.html",
+          "note": "当日有5715亿元逆回购到期，操作全额满足一级交易商需求。隔夜Shibor报1.2800%，上行0.7个基点；DR001加权报1.2823%。资金面整体均衡，午后转松，体现的是跨月流动性安排，而不是新的降息信号。"
+        },
+        {
+          "rank": 4,
+          "title": "央行发布《中国金融稳定报告（2026）》，强调保持流动性充裕和汇率弹性",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501516_1.html",
+          "note": "新华财经援引报告称，下一步仍是防风险、强监管、促高质量发展，保持社会融资条件相对宽松，坚持市场在汇率形成中的决定性作用，并完善宏观审慎和金融稳定工具箱。"
+        },
+        {
+          "rank": 5,
+          "title": "《人民币存贷款利率管理规定》将于2027年3月21日起施行，取消贷款罚息利率上下限",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501516_1.html",
+          "note": "罚息利率、计息方式和宽限期改由金融机构与借款人协商确定。央行称将引导机构在防范道德风险和兼顾偿付能力之间取得平衡，预计罚息利率总体将有所下行。这是中期利率市场化安排，不是当下的总量宽松。"
+        },
+        {
+          "rank": 6,
+          "title": "东京核心CPI 11月同比涨2.9%，高于10月的2.6%，但低于3.0%的市场预期",
+          "href": "https://en.infomaxai.com/news/articleView.html?idxno=150704",
+          "note": "数据在日经开盘前公布。日本10年期国债收益率尾盘报2.6440%，仅上行0.65个基点；30年期下行1.95个基点报3.8780%。对日本央行而言，通胀仍高于目标，但这次读数没有给出立刻加快加息的新证据。"
+        },
+        {
+          "rank": 7,
+          "title": "10年期美债收益率升逾8个基点报约4.93%，市场继续为限制性政策定价",
+          "href": "https://www.cnbc.com/2026/11/27/treasury-yields-bonds-fed.html",
+          "note": "2年期升逾6个基点报4.699%，30年期升逾8个基点报5.32%。CNBC称，投资者已在为下周五非农做准备：FactSet调查预期新增就业9万、失业率4.1%。在静默期内，这份数据的影响力会更大。"
+        },
+        {
+          "rank": 8,
+          "title": "国常会稳市部署偏改革和存量工具，并不是降准降息式的总量宽松",
+          "href": "https://www.cnfin.com/yw-lb/detail/20261127/4501205_1.html",
+          "note": "会议强调“国家队”、汇金类平准功能、分红回购和中长期资金入市，同时要求加强输入性风险防范。对债券和汇率而言，这更像是资本市场的结构性托底，而不是新的货币宽松周期开启。"
+        },
+        {
+          "rank": 9,
+          "title": "韩国央行周四加息至3.25%后，周五韩股大涨4.34%，亚洲紧缩与风险偏好暂时并行",
+          "href": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+          "note": "这是韩国央行年内最后一次议息，政策利率升至两年高点，并上修了增长预测。周五的股市反弹更多来自稳市措施和科技股回补，并不意味着市场在交易降息转向。"
+        },
+        {
+          "rank": 10,
+          "title": "12月1日ISM制造业PMI和下周五非农，将是静默期内少数仍能影响12月定价的数据",
+          "href": "https://www.cnbc.com/2026/11/27/treasury-yields-bonds-fed.html",
+          "note": "FactSet对ISM的预期是从10月的55.5回落至54.8。在加息25个基点已被定价至约95%之后，真正能改变路径的，更可能是就业和通胀是否继续偏热，而不是新的官员表态。"
+        }
+      ]
+    },
+    {
+      "id": "commodities",
+      "title": "商品 · 期货",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "布伦特收跌1.2%报95.44美元，但本周仍涨3%，结束11月连续三周下跌",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "CNBC称，WTI因周四感恩节未结算，周五收跌近1%，报83.08美元，全周跌0.4%。油价从中东供应中断的冲高中回落，但仍接近本月高位。"
+        },
+        {
+          "rank": 2,
+          "title": "中东供应担忧仍在：胡塞袭击吉赞炼厂后，伊朗继续袭扰霍尔木兹油轮",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "沙特能源部称，抛射物周四击中吉赞炼厂，造成一名工人死亡，部分装置暂停。吉赞设计产能约每日40万桶。CNBC称，胡塞前一日还宣称打击了拉斯塔努拉，伊朗则继续攻击过往霍尔木兹的船只。"
+        },
+        {
+          "rank": 3,
+          "title": "OPEC+将于周日开会，知情人士称2027年一季度产量目标大概率维持不变",
+          "href": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/opec-set-keep-oil-production-targets-steady-sources-say",
+          "note": "路透三位消息人士对《商业时报》表示，伊朗战事的不确定性和成员国产能评估争议，使周日会议更可能先把现行目标滚动下去。官员当天还将举行一系列四场会议，讨论首次产能评估的进展。"
+        },
+        {
+          "rank": 4,
+          "title": "伊拉克不满产能被评估为每日490万桶，已警告若配额不上调或考虑退出OPEC",
+          "href": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/opec-set-keep-oil-production-targets-steady-sources-say",
+          "note": "哈萨克斯坦也在争取更高的产能估值。俄罗斯副总理诺瓦克称，评估会在2026年底完成，周日先看进展到哪一步。Rystad预计，即便海湾供应只是部分恢复，2027年全球仍可能出现约每日500万桶的过剩。"
+        },
+        {
+          "rank": 5,
+          "title": "COMEX黄金本周收涨3.53%，报3639.60美元/盎司；白银本周收涨5.11%，报43.167美元",
+          "href": "https://www.morningstar.com/news/dow-jones/202611274508/comex-gold-ends-the-week-353-higher-at-363960-data-talk",
+          "note": "这是对周三跌破3500美元之后的周度修复。路透称，纽蒙特等金矿股周五跟随贵金属上涨。白银数据见同系列结算报道。"
+        },
+        {
+          "rank": 6,
+          "title": "基本金属随风险偏好回升，铜价自11个月低点反弹，铝锌镍锡铅同步走强",
+          "href": "https://finance.sina.com.cn/stock/estate/integration/2026-11-27/doc-inkaenea7805862.shtml",
+          "note": "铜价在9月接近每吨15000美元的高点后回落，近周又因AI资本开支担忧和库存上升承压。周五全球股市反弹、A股放量上涨，使空头回补和风险偏好成为金属定价的主线。盘中铜价一度出现自1月以来的最大单日冲高。"
+        },
+        {
+          "rank": 7,
+          "title": "路透：美国行政当局今年早些时候曾鼓励委内瑞拉和伊拉克考虑退出OPEC",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "CNBC转述路透报道称，十名知情人士还提到，美方曾阻止委内瑞拉缴纳OPEC会费。这则消息出现在周日会议前，增加了组织内部本就紧绷的配额政治色彩。"
+        },
+        {
+          "rank": 8,
+          "title": "乌克兰再袭俄南部炼厂，泰国挽甲必、委内瑞拉Amuay炼厂也出现火情",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "CNBC称，乌克兰自10月底以来加强对俄炼厂的无人机打击，最新一起在克拉斯诺达尔边疆区的Slavyansk ECO炼厂引发火灾。泰国和委内瑞拉的装置干扰发生在周四，短线仍可能放大油品和裂解价差的波动。"
+        },
+        {
+          "rank": 9,
+          "title": "ANZ认为，即便中东不再大幅升级，布伦特仍有条件挑战100美元，但需要可交割供应确实偏紧",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "分析师Brian Martin和Daniel Hynes称，价格近期已经从“特朗普中期选举后不会进一步升级”的缓解中回撤，又因新的设施和油轮袭击重新得到支撑。周五结算回落，说明这一溢价仍不稳定。"
+        },
+        {
+          "rank": 10,
+          "title": "假期后流动性恢复，油价冲高回落，说明中东溢价还在，但过剩预期同样没有退出定价",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "布伦特本周结束三连跌，WTI全周仍小幅收跌。接下来的焦点是周日OPEC+会议，以及霍尔木兹和沙特设施是否出现新的中断证据。"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics",
+      "title": "地缘政治",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "艾森科特宣布与以色列我们的家园党、民主党签署两份联盟协议，称将在8天内完成组阁",
+          "href": "https://aa.com.tr/en/middle-east/israel-s-eisenkot-vows-to-form-government-within-8-days-despite-deadlock-with-likud/4140764",
+          "note": "他指责利库德在两周五次会谈中没有展现实质诚意，只想谈轮流担任总理。组阁期限为12月6日，必要时可向总统赫尔佐格申请一次不可续期的14天延期。他同时在争取与贝内特的“一起党”尽快谈妥。"
+        },
+        {
+          "rank": 2,
+          "title": "内塔尼亚胡在2027年6月30日前去职的预测市场概率回落至约85%，24小时下行约6个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月27日22:52 UTC，该合约成交约1.258亿美元，仍是成交额最高的地缘市场，也是当日最大变动。前一日该概率曾升至约91%。组阁仍有进展，但与利库德的僵局让市场把一部分乐观定价收回。"
+        },
+        {
+          "rank": 3,
+          "title": "沙特主导联军称，已拦截并摧毁一架射向利雅得地区的胡塞无人机",
+          "href": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-drone-targeting-riyadh-region/4140370",
+          "note": "这是吉赞炼厂遇袭后的新一轮空中威胁，目标更靠近首都。它没有改变油市对红海和西部设施风险的定价，但说明胡塞袭击已不只局限于南部能源基地。"
+        },
+        {
+          "rank": 4,
+          "title": "胡塞袭击吉赞炼厂、霍尔木兹油轮遇袭的余波，仍是周末能源和航运风险的核心",
+          "href": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html",
+          "note": "吉赞炼厂部分运营中断，一名工人死亡。CNBC称伊朗继续攻击过往霍尔木兹的船只。预测市场上，“霍尔木兹在2026年不会恢复正常通航”约97%，显示交易员并不指望海峡很快恢复常态。"
+        },
+        {
+          "rank": 5,
+          "title": "OPEC+周日会议前，伊拉克配额之争与中东冲突叠加在同一时间点",
+          "href": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/opec-set-keep-oil-production-targets-steady-sources-say",
+          "note": "知情人士预计2027年一季度目标先保持不变。伊拉克不满490万桶的产能评估，并警告可能退出。组织内部的配额政治，和外部的伊朗战事、胡塞袭击，将同时出现在周日的议程上。"
+        },
+        {
+          "rank": 6,
+          "title": "西班牙周日举行提前大选，中间偏右人民党民调领先，或需与极右翼Vox组阁",
+          "href": "https://www.investing.com/news/stock-market-news/european-stocks-extend-recovery-as-tech-miners-advance-5053129",
+          "note": "路透称，首相桑切斯在住房措施被议会否决后宣布提前选举。这场投票也被视为观察法、意等国债务和抗议情绪的一个窗口。欧洲股市周五先收在一周高位，选举结果要到周末才会进入定价。"
+        },
+        {
+          "rank": 7,
+          "title": "美伊全面开战仍非基准情形：2027年前美国入侵伊朗约6%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月27日22:52 UTC，该合约成交约8180万美元。“美国在3月31日前宣布结束对伊朗封锁”约51%，24小时下行约1个百分点。设施遇袭推高了油价，但还没有把全面地面冲突重新写成主情景。"
+        },
+        {
+          "rank": 8,
+          "title": "预测市场：沙特与胡塞在12月31日前达成停火约8%，24小时上行约1个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "在吉赞遇袭和利雅得无人机被拦截之后，停火合约只是微幅上修，说明市场并不认为双方已接近政治收场。它更像是对极端 escalation 略有对冲，而不是主情景切换。"
+        },
+        {
+          "rank": 9,
+          "title": "俄乌停火协议在2027年6月30日前达成约57%，24小时上行约1个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "合约成交约1170万美元。与此同时，乌克兰继续打击俄罗斯炼厂，能源战场并没有因为停火概率的小幅回升而降温。"
+        },
+        {
+          "rank": 10,
+          "title": "美国对14个经济体的301关税方案仍在征求意见，但并未阻止周五全球风险偏好回升",
+          "href": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+          "note": "方案覆盖中国、日本和欧盟等主要贸易伙伴，表面税率被报道为最高20%至40%。韩联社Infomax援引美国银行的观点称，实际新增关税可能小于标题税率，且大体仍落在现有中美框架内。贸易风险还在，只是当天不是主导交易的那一条。"
+        }
+      ]
+    },
+    {
+      "id": "polymarket",
+      "title": "Polymarket",
+      "status": "ok",
+      "items": [
+        {
+          "rank": 1,
+          "title": "内塔尼亚胡在2027年6月30日前去职：约85%，24小时下行约6个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月27日22:52 UTC，成交约1.258亿美元，仍是成交额最高的地缘合约，也是当日最大变动。概率由前一日约91%回落，对应艾森科特组阁有进展、但与利库德陷入僵局的政治画面。"
+        },
+        {
+          "rank": 2,
+          "title": "12月美联储决议：加息25个基点约95%，24小时上行约1个百分点",
+          "href": "https://predictrips.com/odds/q/fed-decision-in-december",
+          "note": "截至11月27日22:51 UTC，“不变动”约4%，“加息50个基点或以上”约2%。合约总成交约6710万美元，过去24小时约430万美元，较前一日放量回升。7日上行约2个百分点。静默期开始后，这条近乎完全定价的路径仍有数据风险。"
+        },
+        {
+          "rank": 3,
+          "title": "2026年底委内瑞拉领导人：马杜罗约90%，24小时持平",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "截至11月27日22:52 UTC，成交约1.016亿美元，仍是第二大地缘合约。前一日约为91%。在美国据报曾鼓励委内瑞拉考虑退出OPEC的背景下，这条合约的定价仍然高度集中在现任领导人身上。"
+        },
+        {
+          "rank": 4,
+          "title": "美国在2027年前入侵伊朗：约6%，成交约8180万美元",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "24小时变动未列出有效方向，基本持平。设施和油轮袭击推高了能源风险溢价，但全面入侵仍不是交易员的主情景。"
+        },
+        {
+          "rank": 5,
+          "title": "以色列与伊朗停火持续至11月30日：约96%，24小时上行约1个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约6340万美元。这与“2027年前美国入侵伊朗约6%”是同一套定价：局部袭击和封锁可以反复出现，全面战争仍被看作低概率。"
+        },
+        {
+          "rank": 6,
+          "title": "美国在3月31日前宣布结束对伊朗封锁：约51%，24小时下行约1个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约5550万美元。霍尔木兹持续受扰，使“封锁很快结束”的定价略微回撤，但仍在五五附近。"
+        },
+        {
+          "rank": 7,
+          "title": "伊朗领导层在2027年6月30日前变更：约15%；2026年底领导人莫伊塔巴·哈梅内伊约96%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "前者成交约3080万美元，后者约4120万美元、24小时上行约1个百分点。与两日前“领导层变更”一度下行7个百分点相比，周末前这条线重新稳住。"
+        },
+        {
+          "rank": 8,
+          "title": "俄乌停火协议在2027年6月30日前达成：约57%，24小时上行约1个百分点",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "成交约1170万美元。它仍低于半年前一些更乐观的阶段，但已经从近期低点略微抬升。"
+        },
+        {
+          "rank": 9,
+          "title": "沙特与胡塞在12月31日前达成停火：约8%，24小时上行约1个百分点；霍尔木兹2026年“不会恢复正常通航”约97%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "停火合约成交约74.7万美元，海峡合约约70.7万美元。市场愿意给年底停火一个很小的上修，但几乎不定价霍尔木兹在今年恢复常态。"
+        },
+        {
+          "rank": 10,
+          "title": "中国在2026年底前攻打台湾：约2%；哈尔克岛不再受伊朗控制：约3%",
+          "href": "https://predictrips.com/odds/polymarket/geopolitics",
+          "note": "前者成交约4760万美元，24小时持平；后者成交约7790万美元，较前一日的约2%略升。这两条高成交、低概率的尾部合约，周末没有出现新的定价跳跃。"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "华尔街见闻",
+      "sub": "快讯 / 热门",
+      "href": "https://wallstreetcn.com/"
+    },
+    {
+      "name": "财联社",
+      "sub": "电报 / 话题",
+      "href": "https://www.cls.cn/"
+    },
+    {
+      "name": "Reuters",
+      "sub": "Markets",
+      "href": "https://www.reuters.com/markets/"
+    },
+    {
+      "name": "Bloomberg",
+      "sub": "Markets",
+      "href": "https://www.bloomberg.com/markets"
+    }
+  ]
+}
